@@ -22,19 +22,26 @@ public class TwitterCommunicator {
 
     private String consumerKey = "NHjEQk4qTzp1OH6hsZoMsavlH";
     private String consumerSecret = "8aFp2xDZ6LI18cU2no0HiNSHnAneBzC4k4LlqjHdXblDgsESke";
+    private Long max_id = Long.MAX_VALUE;
     
     public List<String> getTweets(String name) throws IOException, JSONException{
         String credentials = this.getCredentials();
         String token = this.getBearedToken(credentials);
-        List<String> res = getTimelineTweets(name, token);
+        List<String> res = new ArrayList<String>();
+        for(int i=0;i<10;i++){
+            res.addAll(getTimelineTweets(name, token));
+        }
+        System.out.println(res.size());
         return res;
     }
     
     private List<String> getTimelineTweets(String name, String bearerToken) throws IOException, JSONException{
-        String api = "https://api.twitter.com/1.1/search/tweets.json?q=%s&count=100&lang=en&result_type=mixed";
+        List<String> res = new ArrayList<String>();
+        
+        String api = "https://api.twitter.com/1.1/search/tweets.json?q=%s&count=100&lang=en&result_type=mixed&max_id=%s";
         String query = makeQuery(name);
-        System.out.println(query);
-        URL url = new URL(String.format(api, query)); 
+        //System.out.println(query);
+        URL url = new URL(String.format(api, query, String.valueOf(this.max_id))); 
         HttpsURLConnection connection = (HttpsURLConnection) url.openConnection();           
         connection.setDoOutput(true);
         connection.setDoInput(true); 
@@ -48,12 +55,14 @@ public class TwitterCommunicator {
         JSONArray arr = json.getJSONArray("statuses");
         for(int i=0;i<arr.length();i++){
             JSONObject j = arr.getJSONObject(i);
-            System.out.println(j.get("text").toString());
-            
+            String text =  j.get("text").toString();
+            long id = Long.parseLong(j.get("id").toString());
+            if(id<this.max_id) this.max_id = id;
+            System.out.println(id + " " + text);
+            res.add(text);
         }
-        System.out.println(arr.length());
         //JSONArray obj = (JSONArray)JSONValue.parse(readResponse(connection));
-        return new ArrayList<String>();
+        return res;
     }
     
     private String makeQuery(String name) throws UnsupportedEncodingException{
@@ -114,7 +123,7 @@ public class TwitterCommunicator {
         while((line = br.readLine()) != null) {
             sb.append(line + System.getProperty("line.separator"));
         }
-        System.out.println(sb.toString());
+        //System.out.println(sb.toString());
         return sb.toString();
     }
     
