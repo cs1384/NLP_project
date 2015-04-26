@@ -1,40 +1,290 @@
-0.6 <|###|> Begin Again is a delight, not only because of its infectious musical vitality but because it follows the unexpected forks in the road.
-0.6 <|###|> It's not nearly as good as "Once" but still very charming and entertaining.
-0.6 <|###|> John Carney's retread never gets close to replicating the stunning emotional core of Once. But for those seeing Begin Again from a fresh perspective, it's ( ... ) a more light-hearted ( ... ) alternative to the Coen Bros' Inside Llewyn Davis.
-0.625 <|###|> The best thing about 'Begin Again' is what it's not. It's not a love story, or at least not a conventional love story; it's more of a friendship story between a man and a woman, which is something we almost never see in movies.
-0.7 <|###|> I've seen happier endings in Oklahoma! and Singin' in the Rain, but this one feels genuine - and in an unexpected way, deeply satisfying.
-0.6 <|###|> Knightley (supplying her own vocals, more than just competently so, by the way) and Ruffalo have a casual chemistry that works, and Levine is (perhaps unsurprisingly) totally right as a self-absorbed jerk.
-0.8 <|###|> I really enjoyed this. It's such a nice surprise, because so many so-called feel-good romantic comedies these days are pretty ordinary but there's something special about this because there's a level of reality to it in the performances in the situations.
-0.8 <|###|> There's a freshness to this film.
-0.875 <|###|> Bonds born out of art, and specifically music, are nothing new in the movies, but Carney conveys the uniquely exhilarating romance of the creative process behind art like no other filmmaker.
-0.8 <|###|> John Carney is not afraid of a cliche. After all, Begin Again is a musical, a genre that has always thrived on them. And he does know how to shape them to his own design, which is low-key and slightly tongue-in-cheek.
-0.6 <|###|> Thankfully Begin Again doesn't take the predictable routes; it seems to actively reject the easy romantic tropes.
-1.0 <|###|> People who love music, people who love great films, and people who love both, are sure to love 'Begin Again,' an exquisite film by John Carney, who wrought the equally superb 'Once.'
-0.75 <|###|> You'll find a mismatched pair to pull for and a lot of sincerity in this musical romance by the creator of Once.
-0.8 <|###|> In its best moments - which are not infrequent - is appealing mostly on the backs of watching interesting, capable people going on with their business in an engaged, focused manner.
-0.875 <|###|> This is the kind of film that lifts your spirits. If you've had a bad day or are generally feeling down, it will cheer you up. If you're already feeling happy, it will make you even happier.
-0.75 <|###|> ...breezy and consistently watchable...
-0.8 <|###|> a light and dancing comedy about fresh starts
-0.7 <|###|> A mostly pleasant but deeply flawed little film that gets by on its stars and a sense of generosity.
-0.8 <|###|> I found it moving, funny and really rather charming, provoking more than enough laughter and tears to dispel my underlying anxieties about the "live" performances.
-0.75 <|###|> The wholesome, hopeful, let's-put-on-a-show enthusiasm may sound hokey but it's actually infectiously joyful. At the same time, Carney roughs up the edges just enough to make this fairy tale seem somewhat accessible and realistic.
-0.8 <|###|> The result is a film that, while fitting into various great traditions, still bears the unmistakable thumbprint of a singular film-maker.
-0.875 <|###|> Carney's latest isn't quite the equal of Once, but who could have twice bottled that lightning?
-0.75 <|###|> Irish writer-director John Carney is a master at depicting musicians on the cusp of something special.
-0.75 <|###|> This soulful outing is sure to please music lovers. And isn't that everyone?
-0.9 <|###|> Keira Knightley sings and so does the movie!
-0.8 <|###|> A decent feel-good flick that features also decent music. The real reason to see it is the acting especially that of Mark Ruffalo who gives a career best performance.
-0.8 <|###|> A cheery charmer that brings a smile to the face.
-0.8 <|###|> Fans of Once - or, indeed, anyone with a heart - will be swept away by the gentle, sweet-but-sad story.
-0.625 <|###|> Begin Again is a not-entirely-successful movie about not selling out; it's a theme that must concern Carney deeply.
-0.89 <|###|> It's a movie that is painfully sincere and free of guile, with as close to a happy ending as these characters could ever get. If you like musicals, well, here's a good one.
-0.6 <|###|> The gentle lightning of Once doesn't strike twice for Carney, but his latest music movie has charm beneath its slick surface - and Knightley and Ruffalo harmonise just fine.
-0.6 <|###|> Keira Knightley plays Greta, a Norah Jones-like singer-songwriter... It's a typically brave performance from an actress who is always prepared to try anything.
-0.6 <|###|> At times, the scenes are so canned they feel like soap opera. But the movie does have its fair share of decent moments thanks to Ruffalo and co-star Catherine Keener.
-0.4 <|###|> It's all a bit easy - though quite nicely performed - and Knightley is never entirely convincing ...
-0.625 <|###|> Can a meaningful glance mean as much as a kiss? In this film, it can, and that's enough.
-0.75 <|###|> No matter how thin the drama, or thick the performances, the film's firefly-in-a-jar, midsummer night's whimsy and heart-on-its-sleeve optimism hath charms ...
-0.6 <|###|> Keira Knightley brings a sweet soul to John Carney's delightful sort-of sequel to his low-fi hit, Once.
-0.6 <|###|> The film is a fairy tale: sentimental but enjoyable if you put a few protective fingers in front of your face to avoid being slurped to death.
-0.4 <|###|> John Carney returns with another feature-length music video, turning the surprising charm of his debut, Once, a novel take on the modern musical romance, into a shameless gimmick. Just call it Twice.
-0.6 <|###|> Knightley's bullish Britishness and Ruffalo's bruised charm provide a pleasingly gentle, unsentimental chemistry and, heck, there's even James Corden on a kazoo.
+FAIR Begin Again is a delight, not only because of its infectious musical vitality but because it follows the unexpected forks in the road.
+FAIR It's not nearly as good as "Once" but still very charming and entertaining.
+FAIR John Carney's retread never gets close to replicating the stunning emotional core of Once. But for those seeing Begin Again from a fresh perspective, it's ( ... ) a more light-hearted ( ... ) alternative to the Coen Bros' Inside Llewyn Davis.
+FAIR The best thing about 'Begin Again' is what it's not. It's not a love story, or at least not a conventional love story; it's more of a friendship story between a man and a woman, which is something we almost never see in movies.
+FAIR I've seen happier endings in Oklahoma! and Singin' in the Rain, but this one feels genuine - and in an unexpected way, deeply satisfying.
+FAIR Knightley (supplying her own vocals, more than just competently so, by the way) and Ruffalo have a casual chemistry that works, and Levine is (perhaps unsurprisingly) totally right as a self-absorbed jerk.
+GOOD I really enjoyed this. It's such a nice surprise, because so many so-called feel-good romantic comedies these days are pretty ordinary but there's something special about this because there's a level of reality to it in the performances in the situations.
+GOOD There's a freshness to this film.
+GOOD Bonds born out of art, and specifically music, are nothing new in the movies, but Carney conveys the uniquely exhilarating romance of the creative process behind art like no other filmmaker.
+GOOD John Carney is not afraid of a cliche. After all, Begin Again is a musical, a genre that has always thrived on them. And he does know how to shape them to his own design, which is low-key and slightly tongue-in-cheek.
+FAIR Thankfully Begin Again doesn't take the predictable routes; it seems to actively reject the easy romantic tropes.
+GOOD People who love music, people who love great films, and people who love both, are sure to love 'Begin Again,' an exquisite film by John Carney, who wrought the equally superb 'Once.'
+FAIR You'll find a mismatched pair to pull for and a lot of sincerity in this musical romance by the creator of Once.
+GOOD In its best moments - which are not infrequent - is appealing mostly on the backs of watching interesting, capable people going on with their business in an engaged, focused manner.
+GOOD This is the kind of film that lifts your spirits. If you've had a bad day or are generally feeling down, it will cheer you up. If you're already feeling happy, it will make you even happier.
+FAIR ...breezy and consistently watchable...
+GOOD a light and dancing comedy about fresh starts
+FAIR A mostly pleasant but deeply flawed little film that gets by on its stars and a sense of generosity.
+GOOD I found it moving, funny and really rather charming, provoking more than enough laughter and tears to dispel my underlying anxieties about the "live" performances.
+FAIR The wholesome, hopeful, let's-put-on-a-show enthusiasm may sound hokey but it's actually infectiously joyful. At the same time, Carney roughs up the edges just enough to make this fairy tale seem somewhat accessible and realistic.
+GOOD The result is a film that, while fitting into various great traditions, still bears the unmistakable thumbprint of a singular film-maker.
+GOOD Carney's latest isn't quite the equal of Once, but who could have twice bottled that lightning?
+FAIR Irish writer-director John Carney is a master at depicting musicians on the cusp of something special.
+FAIR This soulful outing is sure to please music lovers. And isn't that everyone?
+GOOD Keira Knightley sings and so does the movie!
+GOOD A decent feel-good flick that features also decent music. The real reason to see it is the acting especially that of Mark Ruffalo who gives a career best performance.
+GOOD A cheery charmer that brings a smile to the face.
+GOOD Fans of Once - or, indeed, anyone with a heart - will be swept away by the gentle, sweet-but-sad story.
+FAIR Begin Again is a not-entirely-successful movie about not selling out; it's a theme that must concern Carney deeply.
+GOOD It's a movie that is painfully sincere and free of guile, with as close to a happy ending as these characters could ever get. If you like musicals, well, here's a good one.
+FAIR The gentle lightning of Once doesn't strike twice for Carney, but his latest music movie has charm beneath its slick surface - and Knightley and Ruffalo harmonise just fine.
+FAIR Keira Knightley plays Greta, a Norah Jones-like singer-songwriter... It's a typically brave performance from an actress who is always prepared to try anything.
+FAIR At times, the scenes are so canned they feel like soap opera. But the movie does have its fair share of decent moments thanks to Ruffalo and co-star Catherine Keener.
+BAD It's all a bit easy - though quite nicely performed - and Knightley is never entirely convincing ...
+FAIR Can a meaningful glance mean as much as a kiss? In this film, it can, and that's enough.
+FAIR No matter how thin the drama, or thick the performances, the film's firefly-in-a-jar, midsummer night's whimsy and heart-on-its-sleeve optimism hath charms ...
+FAIR Keira Knightley brings a sweet soul to John Carney's delightful sort-of sequel to his low-fi hit, Once.
+FAIR The film is a fairy tale: sentimental but enjoyable if you put a few protective fingers in front of your face to avoid being slurped to death.
+BAD John Carney returns with another feature-length music video, turning the surprising charm of his debut, Once, a novel take on the modern musical romance, into a shameless gimmick. Just call it Twice.
+FAIR Knightley's bullish Britishness and Ruffalo's bruised charm provide a pleasingly gentle, unsentimental chemistry and, heck, there's even James Corden on a kazoo.
+BAD It is a huge missed opportunity on Crowe's part. In his attempt to show the best traits of a band he is obviously very enamored with, he's wound up with a pretty lackluster film.
+GOOD Very few music documentaries in the history of the form have more successfully conveyed the inner workings and outer artistic expression of a band than Cameron Crowe's brilliant Pearl Jam Twenty.
+FAIR [Crowe] merely wants to capture the personalities, the songs and the shows.
+FAIR With noticeable gaps between the telling of its first decade and its second, Pearl Jam Twenty didn't necessarily need to be a feature, but is a really lovely fan letter to a band that's worked hard for the devotion and respect it receives.
+FAIR With its intimacy and (this can't be emphasized enough) fantastic sound, Pearl Jam Twenty is like two hours spent rediscovering the band through excellent headphones.
+BAD If only it was about something other than rockers almost irked they got famous.
+FAIR In a better film, Crowe would have played journalist instead of fan boy.
+FAIR By the time "Pearl Jam Twenty" is over we can't help but be impressed by the kind of personal and professional integrity that has kept the band honest and allowed them to endure and prosper.
+FAIR While the movie may not have the insight of D. A. Pennebaker's "Don't Look Back" or even Phil Joanou's U2 travelogue, "Rattle and Hum," Pearl Jam devotees will not go home musically unnourished.
+GOOD If Pearl Jam Twenty has its share of hyperbole, it's leavened with humor, self-deprecating commentary, and a deep-pockets budget's worth of great clips.
+GOOD A great introduction to the band as well as a great recap for the fans who have been there all along the way.
+GOOD For the biggest fans, it may be the single best movie going experience you will have this year
+BAD Cameron Crowe's chronicle of the Seattle grunge quintet's first two decades is undeniably thorough - even offshoot Temple of the Dog gets the spotlight - but it's also weirdly self-aggrandizing.
+FAIR Any enterprise like this is inherently self-congratulatory, but the film is best considered from Crowe's perspective: that of a fan.
+FAIR A loving, gracefully crafted retrospective that shrewdly eschews Behind the Music conventions at most turns.
+FAIR Despite surrendering to sentimental fandom, Crowe thoughtfully touches on greyer areas...
+FAIR Entertaining, well made documentary that's a treat for fans thanks to its wealth of rarely seen footage and newly filmed interviews...
+FAIR The music's the thing and Crowe lets it rip.
+BAD Vedder is charming, his band rather bland. As trips down memory lane go, it's a bit of a trudge.
+FAIR Fans will love this energetic documentary tracing more than two decades of the infamous grunge band. But while the film is packed with terrific footage, it's too worshipful for non-fans to take seriously.
+BAD A deadly combination of fanboy, friend, and Richie Cunningham, Crowe has zero objectivity about the band
+GOOD Nothing is put together for you, but all the pieces of the puzzle are there for you to create what you want. It's refreshing to see a movie that is completely out of the box, and doesn't follow any present forumla. THE WALL is a great rock opera.
+GOOD Visually stunning and disturbing, an essential midnight movie.
+GOOD A stunning portrayal of a slide from isolation into madness. And the music rocks, too--bonus.
+BAD One of Alan Parker's few truly bad movies.
+GOOD Visually stunning yet strangely forced tale.
+FAIR dated and self-aggrandizing but a watershed
+BAD Good music. Sick imagery.
+GOOD A midnight movie classic!
+BAD It's probably best to think of the film as an extended music video, a watershed moment for movie sound tracks, and not much more.
+FAIR ...there is so much good music involved...it easily distracts one's mind from the clunky histrionics.
+BAD The musical performances are memorable, everything else is forgettable
+BAD Bland Prince vehicle that takes itself far too seriously.
+FAIR intriguingly well-told story
+BAD Those who are looking for a two-hour music video with a coherent story will not be disappointed.
+GOOD The performers have a bit of a wink behind their performances, and so the artificiality meshes together neatly.
+BAD Purple Rain shares a trump card--its set list--with casual Prince fans, who are advised to reach for the soundtrack album instead.
+FAIR Purple Rain's gazillion-selling soundtrack album has more or less eclipsed the film in pop culture history books.
+FAIR Short people of Hollywood...DANCE!
+GOOD it isn't much of a movie, but it's one hell of a show
+GOOD A classic '80s rock movie, whose soundtrack was perhaps the best album of the decade.
+FAIR Prince is one of the most talented musicians of our time. His movie doesn't quite reflect that, but it's in Minneapolis, so it's cool.
+FAIR So-so picture that is most notable for the terrific musical sequences featuring Prince and his band.
+FAIR You'll have a rockin' good time!
+BAD Where are all those people who called this "the Citizen Kane of rock movies" hiding?
+FAIR Great music, mediocre plot and acting.
+BAD Although there are plenty of positive, feel-good elements to this movie, they are outweighed by missed opportunities to do something more valuable.
+FAIR As a romantic comedy...neither exceptional nor groundbreaking. But as a musical, the movie bursts with foot-stomping, arm-swaying, finger-snapping gospel music.
+GOOD The Fighting Temptations is a movie that will soften even the most cynical moviegoer. You can see most of it coming a mile away, and it still works.
+FAIR All about the music, and you'd have to be truly tone-deaf not to respond to its soaring harmonies and spirited spirituality.
+BAD It feels more like an artificial fable than a story we can sink our teeth into.
+FAIR Cuba Gooding Jr. [is] so animated a performer that he even appears to be overacting on this movie's poster.
+BAD This film would have been better with a lot more gospel and a lot less Gooding.
+BAD Gooding is on a downward spiral, but The Fighting Temptations is at least a step above Snow Dogs and several above the inexcusably offensive Boat Trip.
+BAD Fight the temptation to look for anything more than good music in this movie.
+BAD The lack of gross-out moments is refreshing, as is the way that it never sacrifices its character-driven plot to a discordant comic set piece.
+FAIR Crowd-pleasing but shoddy... During a funeral scene, the corpse can clearly be seen breathing...
+BAD Is The Fighting Temptations a washed up comedy or a monotonous musical?
+BAD Cuba Gooding Jr. once again (shows) he and comedy do not belong in the same area code (and, come to think of it, after 'Boat Trip,' did anyone need further evidence?).
+FAIR I wish the writers had been tempted to write a better story.
+BAD The filmmakers seem to have meant to offer up a spiritual message about community and faith, but it's muddled and hard to find with romance, comedy and phenomenal gospel performances all fighting for the spotlight.
+FAIR Has practically nothing to recommend it save its music: Take that away and Jonathan Lynn's movie is as ordinary as an unsold TV pilot episode. But what music.
+FAIR I've looked forward to Cuba Gooding Jr. movies as eagerly as I anticipate SPAM, but The Fighting Temptations breaks his streak of crumminess.
+BAD If you're a gospel lover, you can probably overlook the technical flaws, especially if you see it in a crowded and enthusiastic theater.
+FAIR The Fighting Temptations exists for its rousing gospel soundtrack, which is at times so good that you can forgive the movie its flaws.
+FAIR The music is glorious.
+BAD Can this career be saved? After watching The Fighting Temptations, you may feel that Cuba Gooding Jr.'s may not.
+GOOD The most tuneful gospel movie since Say Amen, Somebody.
+BAD A woefully thin and pointless musical comedy.
+BAD The story is slapdash and most of the jokes are lame, but music by the Reverend Shirley Caesar and the Blind Boys of Alabama lends fleeting touches of a grace that's, um, amazing.
+BAD It's not graceful. It's not smart. But it's sweet and cute, and that will do until a real romantic comedy comes along.
+BAD A messy, sprawling family barbecue of a movie that barely gets by on salesmanship, energy and maybe more than a little chicanery.
+FAIR A hoot and a holler.
+FAIR A raucous gospel comedy that's as broad as co-star Beyonce Knowles' vowels and chockablock with foot-stomping, up-with-the-choir music that will have even atheists praising the Lord.
+FAIR Its musical sequences could make the most hardened atheist want to go to church.
+BAD When anyone opens their mouth to sing, it's good; when anyone opens their mouth to talk, it's bad.
+FAIR This movie is an 'everybody's welcome' temple to the synergies of both old and new musics.
+FAIR The hit-and-run effect sometimes suggests a documentary equivalent to slam dancing, but without the bruises.
+GOOD AmericanHardcore ! Aboutboredstupidyouth! Didn'tliketheNewWave ! Gomoshin'fortruth ! Can'tfindtruth ! Can'tfindgrace ! SettleforHenryRollins! Punchin'dudesintheface !
+FAIR While this documentary features rare performance footage of hard-core punk-rock bands Black Flag and Bad Brains, it's not exactly the best-assembled or deepest cinematic exploration of the subject.
+FAIR ... an enjoyable if incomplete nostalgia trip.
+FAIR Rachman's concert footage confirms that the music was unique: bruising, chaotic and blisteringly electric.
+FAIR "American Hardcore" harkens back to the time when punk rockers were actual punks, not whining, prefabricated MTV pretty boys.
+FAIR Crammed with grainy, shot-on-the-fly mid-Eighties video footage, recent interviews, and a genuine love for its subject, American Hardcore encapsulates a largely forgotten moment in maximum rock & roll history.
+FAIR American Hardcore, Paul Rachman's impressively thorough documentary, tells of the second-generation punk rockers who learned from the Sex Pistols and Ramones and then did their DIY thing.
+FAIR American Hardcore gets what most music lovers could not at the time: Sometimes, that noise in your head and that anger in your heart just has to get out, and there's always a guitar around somewhere.
+BAD For the record, Rachman's punk-rockology has its cracks. While he worships at the altar of Henry Rollins and Black Flag, he excludes such key West Coast bands as X and the Dead Kennedys.
+BAD Instead of an insightful look at disaffected youths finding an outlet for angry energy in rock rages, American Hardcore is a slanted history lesson coming solely from its subjects.
+BAD What's irritating about the movie is how much time it spends on empty nostalgia -- shouldn't real punks scorn reminiscing? -- and how little time it spends truly exploring the roots of America's punk prime in the early 1980s.
+BAD Hardcore could have done with a little more self-criticism instead of self-congratulation, a little more outside commentary as opposed to inner-circle ramblings.
+FAIR Leaves little doubt that this truly was one of the wildest eras in rock.
+BAD You can come away feeling bruised and half-deaf.
+FAIR An energetic and grandly entertaining tribute to a short-lived period of early-'80s punk rock.
+FAIR The movie is hazy about dates and names but bracing in its depiction of young people who made music because they loved it, not because they thought it would make them rich or famous.
+FAIR Exhaustive and at turns exhausting, American Hardcore explores 1980s punk subculture with the frenetic energy of mile-a-minute mosh-pit music, sealed with a fist.
+FAIR A better doc about punk music would contextualize the genre in the industry and interview kids who cried 'No!' when their parents told them to turn down that racket.
+FAIR A reverential but knowledgeable documentary about an aggressive offshoot of punk that flourished on the Left Coast from 1980-86, with outposts in such far-flung locales as Washington, D.C., New York, Boston, Detroit, Chicago and Austin, Tex.
+BAD There's a lot of interesting material here, but Rachman doesn't offer any real analysis of his own, and the film suffers from a lack of narrative focus.
+GOOD A brilliant grassroots take on the humble beginnings and eventual demise of a musical movement that ultimately had far more impact than it would have ever imagined.
+FAIR The film's a pretty good scrapbook ... and it evinces a healthy cranky-old-man disgust with the mega-platinum punk acts of today.
+FAIR If you're going to make a movie about hardcore punk, make a movie about hardcore punk.... [This] looks more like the same old PBS documentary.
+FAIR Though American Hardcore doesn't achieve a cogent and authoritative history, it succeeds in giving the general impression of the early-'80s hardcore punk scene.
+FAIR ... starts promisingly but quickly settles into a repetitive pattern of talking heads repeating the same mantra, interspersed with brief clips of barely visible old film footage.
+FAIR This is the 80's like you have never seen them, brilliantly brought back to life in this fascinating new film.
+BAD Only if you LOVE hardcore punk is the movie worth a damn
+FAIR Almost anyone who's had enough of the purposeless, processed pop that passes for entertainment today will nod their heads in emphatic agreement with what the film says -- when you're not covering your ears, anyway.
+FAIR The documentary is an enlightening journey to a dark corner of contemporary punk's dank little basement.
+FAIR If it all goes by too fast, and leaves you with a headache when it's done -- well, wasn't that the point all along?
+BAD The film features virtually no commentary from anyone who wasn't part of the original scene and who might put hardcore into a larger cultural context, and ends up an intermittently interesting laundry list of same-sounding bands.
+FAIR It's an expansive look at a genre and a tribe of musicians that found their collective voice. And there's one thing you could always say about hardcore -- it was never boring.
+FAIR Inspired by a book by Steven Blush, Rachman deftly sketches the hardcore scene in a dozen cities and chronicles the growing violence that signaled its demise.
+FAIR The resourceful film will stir up a mosh pit of appreciation among aficionados while providing an intriguing, if not always compelling, overview for those less acquainted with the music.
+FAIR Punk rock was never about sonic perfection: It was (and is) about emotional intensity, and American Hardcore has that in van loads, and delivers with onetwothreefour! power.
+BAD For music that is loud, fast, angry, and in-your-face, the film's low-key tone and pace is more suitable for a PBS fund-raising drive.
+FAIR tells you everything you need to know about how vital this music was
+GOOD It will offend those who are offended by the very title; it will probably thrill those who take one look at the title and immediately want to see the film.
+FAIR The results are uneven and occasionally mind-bogglingly bad (which is partly the point), but they're never what you'd call dull.
+FAIR And what, pray tell, is the Big JC doing wasting his time helping Canadians?
+GOOD The basic premise alone is worth the price of admission for this one.
+GOOD Sebring's drifting tone might leave you bemused, but take it as it comes and it's a captivating insight into modern music's godmother.
+BAD For all its transient black-and-white beauties, denies its subject the sort of solid context that would reveal the scale of her achievements. A patchy, frustrating, though loving tribute.
+FAIR An extraordinarily intimate portrait of an extraordinary woman, Dream of Life charms despite being filmed through a sycophantic haze.
+GOOD While it fails to place Smith's work and her significance in context, the film certainly captures her charisma, wit and passion.
+FAIR There are flashes of insight and genuinely moving moments in this long, meandering, wildly indulgent movie record of poet and singer-songwriter Patti Smith.
+FAIR Smith, an eloquent subject with a wry view on her life, generously pays tribute to such influential mentors as Dylan, Burroughs and Ginsberg. Her fans should be entranced.
+BAD Succeeds in making the 109 minute running time feel like at least eight of the eleven years he took to shoot the film.
+FAIR That spirit of encountering the world with undying artistic curiosity -- and without a plan -- informs Dream of Life, a drifting portrait of Smith.
+BAD If you don't already own "Horses," this movie will make you want to go out and buy it. You'll also want to start surfing the Internet to fill in the blanks that Dream of Life fails to include.
+GOOD There's a note of mourning in this otherwise celebratory film -- for punk rock, for New York, for reality, for a time when popular music was animated by something other than money.
+FAIR Heavy on the gabba-gabba, light on the hey!
+FAIR Gets extra credit for trying something different.
+FAIR Dream of Life barely hints at the transformational energy that Smith exudes in person, but it does paint a portrait of a defiantly creative life.
+FAIR Dream of Life takes a while to find its rhythm but once it does, it's riveting stuff.
+FAIR Patti Smith: Dream of Life, fashion photographer Steven Sebring's impressionistic study of the most influential of punk poets, disarms and charms with its honesty.
+FAIR Insufferable, endearing, pretentiously arty, bracingly direct, humorless, hilarious, oddly distant and strangely touching, but always compulsively watchable -- in other words, a fabulous contradictory mess, much like Smith herself.
+FAIR Thanks to its meandering, achronological structure, we don't learn too many specifics of Smith's brilliant career, and only a die-hard fan will find all of it vitally interesting.
+FAIR I imagine you could call Dream of Life a loving meditation on a one-of-a-kind performer. And you don't have to be a Smith fan (I am one, by the way) to enjoy.
+FAIR Few documentaries about living artists get as deep into their subject's brain and heart as this one about the rock priestess and poetess.
+BAD The opportunity to introduce newbies to a serious music-world icon -- and her significance -- feels squandered.
+FAIR Even the crudest punk rocker learned three chords (Smith brags of having five) before they plugged in an amp. Steven Sebring would have done better to have had a few lessons in editing and structure before picking up his camera.
+FAIR Probably could have cut out 15 to 20 minutes without losing anything, but if you're even remotely interested in this fascinating and enigmatic artist or the influence she's had on the world of rock, then you might want to check it out.
+GOOD A lovely, drifty first feature that feels less like a documentary and more like an act of rapturous devotion.
+BAD a schizophrenic case study
+FAIR A series of elegiac episodes from the life and mind of the fantabulous rock n' roll chanteuse and poetess.
+FAIR Some might confuse Zenovich's indictment on the judge as a cop-out in judging Polanski. But the facts remain. There's no further insight into the heinous crime. Nor is there a new judgment to be passed on the man who committed it. Anyone looking for new r
+GOOD "Zenovich's film is a fair and skillful chronicling of the Roman Polanski case, and a study of how the circumstances of celebrity influence the carrying out of justice in the U.S. It's not an in-depth study of the filmmaker's psychology nor of how his lif
+GOOD While not apologising for his disgusting behaviour, the film puts Polanski's actions in the context of a turbulent life.
+GOOD an essential entry in Hollywood's cultural chronicle
+GOOD Mesmo tendo criado uma narrativa envolvente, coesa e impecavel a ponto de servir como base para os advogados de Polanski solicitarem o arquivamento do caso, este documentario foi ignorado pela Academia. Arre.
+GOOD This chronicle of Polanski's life, career and legal woes offers an engaging portrait of the artist.
+GOOD It's the sort of complex story Polanski himself would have excelled at telling, if he weren't busy living it.
+FAIR Though Marina Zenovich's film deals with the notorious case of the film director who pleaded guilty to having sex with a 13-year-old, the film's real subject is the California legal system turned upside down by celebrity and media pressure.
+GOOD Meticulously crafted and keenly thought out, the film also serves as a useful historical document. It illuminates its time period, delves into moral hypocrisy and shows the evolution of muck-raking celebrity journalism.
+BAD With a subject like Roman Polanski, you don't really need to do much to capture audience interest. But maybe that's the reason Roman Polanski: Wanted and Desired doesn't live up to its promise.
+GOOD Roman Polanski: Wanted and Desired, a documentary by Marina Zenovich that is also a first-rate work of reportage, makes a forceful case that the whole truth of the matter was never heard in court and Polanski was more sinned against than sinning.
+FAIR I found myself occasionally enthralled, mainly due to Polanski's haunted presence coming through, even in the form of an absent ghost.
+BAD Roman Polanski (The Pianist, Rosemary's Baby, Chinatown) is unquestionably a great filmmaker, but as Marina Zenovich's documentary Roman Polanski: Wanted and Desired perhaps unintentionally demonstrates, he's also a creep.
+FAIR She has achieved extraordinary access to the other still-living players in the case, and they all seem to be in agreement: Polanski is correct in saying the judge played with him as a cat might play with a mouse.
+GOOD This is a superb picture, sharp, open-minded, wised-up and cinematically accomplished. I wonder if any man could've handled the Polanski enigma with the same ironic intelligence [Marina] Zenovich has.
+GOOD A clever, contemplative kind of courtroom drama that utilizes the best of Hollywood filmmaking style to tell a story so strange, it must be true.
+GOOD Using tons of footage and new interviews with the victim and key legal figures -- but not the subject himself -- director Marina Zenovich shows how Polanski's darker urges were matched on a moral level by others involved in the case.
+FAIR Zenovich has made a feature worthy of its eccentric and reckless central figure at his most cynical and embittered.
+GOOD None of the interviewees in Marina Zenovich's fascinating documentary manages to make sense of the famous filmmaker's behavior or apparent thinking. But they all have compelling impressions.
+FAIR An exhaustive and riveting narrative
+BAD Its indictment ultimately feels like a secondary issue to Polanski's apparently incontrovertible guilt, which makes him--in this instance--still more victimizer than victim.
+FAIR Seeks to explore both sides of the endless debate and asks all parties to consider every angle before labeling him as a pedophile or misunderstood genius...
+GOOD Roman Polanski deserves his badge of dishonor, no question about it. This amazing documentary argues that others need to start sporting one as well.
+GOOD a great and somewhat Kafkaesque story that Polanski might have enjoyed directing... had it been fiction.
+FAIR Persuasively demonstrates Polanski was guilty as sin, yet his conviction was a miscarriage of justice.
+GOOD A subtly intelligent and sharply argued documentary.
+FAIR Is Polanski a great filmmaker who made a mistake, or a perverted coward who ran from the law instead of facing the music?
+FAIR A rollicking paean to the musical that owes as much to Hollywood as it does to Bollywood.
+GOOD Seventy-five years on, it hasn't dated in the slightest.
+GOOD The central themes of illusions, dreams and going on an extraordinary adventure all the better to come home and appreciate what you have there are enduring.
+GOOD One of Hollywood's quintessential productions, this musical adaptation of L Frank Baum's classic fable is probably the most beloved fantasy film of all time and the ultimate family picture.
+GOOD This family classic long ago left the realm of being mere entertainment to emerge as a cultural touchstone for generations of Americans.
+GOOD The Wizard of Oz is the cinematic equivalent of high-end wine, in that it gets better with age. The difference is that while wine must remain unopened to increase in value, the film positively thrives on it being tasted and shared over and over and over.
+GOOD MGM's fantastic IMAX 3D conversion for the The Wizard of Oz's 75th anniversary underlines rather than obscures most of the film's visual pleasures, reminding us (if we'd managed to forget) just how glorious L. Frank Baum's strange world is.
+GOOD The blend of old-fashioned, classic storytelling with cutting-edge technology is undeniably enthralling.
+GOOD Hey, Dorothy actually has freckles in IMAX. Glinda's floating sphere is mesmerizing. The flying monkeys are creepier than ever. The Lollipop Guild even more disturbing - are these guys having a seizure?
+GOOD Any reason to show your children "The Wizard of Oz" on a big screen seems like a good one.
+GOOD The best thing about 3D glasses is that they keep your kids from seeing your tears of sentimental joy at this gorgeous restoration
+GOOD This phantasmagorical fantasy really does represent old-school MGM filmmaking at its best.
+GOOD It is one of the greatest movies ever made, and even today it stands the test of time as a quality family flick.
+GOOD Even decades later, one of the best family films ever made.
+GOOD A head trip of a family film.
+GOOD The moment Judy Garland starts singing in that barnyard, we're all six years old again, with nothing left to do but join her.
+GOOD It's more than a movie; it's an American rite of passage. [Blu-ray]
+GOOD If through some incredible chance you haven't [seen it], all I can say is: do so immediately. Make this the very next movie you watch. Literally.
+GOOD One of only a handful of films that nearly everyone is familiar with.
+GOOD The songs and magic are still fresh, even if it isn't quite knowing enough, perhaps, for today's young audiences.
+GOOD The greatest children's movie of all time. Probably.
+GOOD This 3D remastering of the original, on a giant Imax screen to boot, brings a whole new sense of wonder to Dorothy's yellow-brick road movie.
+GOOD I'll see you on the dark side of the moon...and your little dog, too!
+GOOD A polarizing, but classic piece of children's entertainment filled with whimsy, horror, comedy and imagination.
+GOOD This is Gene Wilder's legacy. He was perfect for the role, and it was his mixture of childlike wonder and bitter, deserved vengeance that made the character so compelling.
+GOOD Pure, sweet imagination for both kids and adults.
+BAD The passages in the mysterious factory, which should be Charlie's and our release from the oppression of the earlier scenes, are just as ugly as everything that's come before, so there's no contrast.
+GOOD ...filled with good humor, good acting, and good songs...and it's just off kilter enough to keep everyone's attention.
+GOOD Ainda que um ou outro numero musical comprometa o ritmo, o clima de fantasia e a atuacao calorosa de Wilder conquistam o espectador.
+GOOD The movie bursts with creativity, deep thought and comedy.
+GOOD Probably Gene Wilder's finest, most manic hour.
+GOOD Weird and wonderful
+GOOD Just a frolicking Wonka visionary schnozberry flavored delight!
+FAIR It has a huge following, though I've never understood why.
+FAIR If "creepy" can be an asset, then this is the best kind of creepy you'll ever find.
+GOOD A timeless family film that will continue to endure as long as people love chocolate.
+GOOD The original feel good film from 1971, is back in a special new DVD edition for its thirtieth anniversary with some great special features.
+GOOD Brings joy to adult and child alike.
+FAIR The zany factory's imaginative gimmicks, and that vivid color scheme, will keep even the youngest kids alert.
+GOOD Fantastic hip-hop documentary has profanity, some drug use.
+FAIR It's an insider's celebration of the form, studded with straight-to-camera rhymesmithery from its best practitioners.
+GOOD All fascinating stuff if a little repetitive and rambling but definitely one for fans.
+FAIR It's hard not to like a film so in love with its subject matter, or boasting such an incredible soundtrack.
+GOOD The film is educative, entertaining, in almost all senses a blast. Your body is left in your seat while your soul is blown to the back of the auditorium.
+FAIR Preaching to the choir, but that's no bad thing.
+FAIR Watchable documentary that showcases some impressive a cappella rap performances and provides the occasional amusing anecdote...
+GOOD A very enjoyable and often fascinating movie.
+FAIR There's no faulting the lyrical excellence on display. These guys are legends for a reason.
+GOOD An extremely interesting insight, proving that rap music is an art form in its own right.
+GOOD It's likely to be fascinating if you are a hip hop fan, but almost wilfully unilluminating if you aren't.
+FAIR Freestyle, funny but finally just too repetitive, Ice's affectionate home-movie needed someone to structure it into a deeper documentary.
+FAIR Hardly definitive (where's Houston and Memphis, and why are MC Lyte and Salt the only females represented?), the movie is nonetheless fascinating for fans, as rappers break down their writing techniques for Ice-T's cameras.
+FAIR Essential viewing and a nice companion piece to "Wild Style," "Style Wars" and other key hip-hop documentaries.
+FAIR In his debut as a documentarian, Ice T creates a vibrant portrait of how and why rap came to be.
+FAIR This is a film that does sweat the technique, with at times illuminating and spirited results.
+FAIR The interviews are often revealing and funny. And much of the music is tremendous.
+FAIR The faces and voices are endlessly compelling as they talk about what inspires them to lay down beats and recall the early days in New York.
+FAIR There's a discipline to moviemaking, too, alas, and when this effort strays from its (admittedly limited) subject to a surfeit of helicopter city shots and Ice's street prowling, it feels padded.
+FAIR An efficient talking heads doc that celebrates the band without deigning to hagiography.
+GOOD The Eagles live in both the present and the past.
+FAIR The film would be valuable for collecting this footage... even if its lapses as documentary cinema and storytelling device were far more serious than they are.
+GOOD A beautiful tribute to a rare artist with an even rarer spirit.
+FAIR It is the mythic resonance of her story that makes it a worthy subject a documentary. But it is the down-to-earth human touches that make "Afternoon of a Faun: Tanaquil Le Clercq" worth watching.
+FAIR "Afternoon of a Faun: Tanaquil Le Clercq" presents enough teasing glimpses into the dancer's personal and inner life to demand a fuller picture.
+GOOD LeClerq, who lived her later years with a fierce independence, died in 2001; in this thoughtful, quiet film, she lives on.
+FAIR As tragedy of the woman whose whole life was the hothouse of the dance -- including narrating her wistful, matter-of-fact letters and journals during treatment -- the doc exploring the myth of Le Clercq will be a balletomane's delight.
+GOOD Reminds us what the ballet world had for a time.
+BAD Afternoon of a Faun is primarily the story of a woman loved, desired, objectified and watched by men.
+GOOD A fascinating story of American ballet and one of the greatest ballerinas in the world.
+GOOD Mythic, indeed.
+GOOD [A] strangely haunting, often heartbreaking new documentary.
+FAIR What's most fascinating about "Afternoon of a Faun" - and what the movie could spend more time delving into - is ballet's grueling and fleeting nature.
+GOOD Director Nancy Buirski not only is able to give rare insights into the dance world but a compelling tale of love, friendship and perseverance.
+FAIR Buirski takes us on an emotional journey, although the start may seem slow to people unfamiliar with the ballet world or Le Clercq's story.
+FAIR [As Le Clercq falls to polio, director Nancy] Buirski digs up footage from the past of people encased in iron lungs or floating in nebulous wonderlands - outside-the-box visual cues that turn the film momentarily phantasmagoric.
+GOOD Illuminating, profound and poignant.
+FAIR Flawed as it is, no balletomane should miss this one.
+GOOD Classical dance great Jacques d'Amboise calls Tanaquil LeClercq's style a "path to heaven." And this lovely documentary by Nancy Buirski makes clear that he's right.
+GOOD While it does profile the work of brilliant dancer, the film also contains two complex and moving love stories as well an account of a physically devastating tragedy followed by an extraordinary tale of struggle and survival.

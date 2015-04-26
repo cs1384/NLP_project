@@ -1,79 +1,439 @@
-0.625 <|###|> The bar has been set so low in mainstream Hollywood movies that it's not even worth seriously analyzing this stuff
-0.625 <|###|> This one had the most potential, and in that way it is the most disappointing.
-0.75 <|###|> A fitting capstone on a collection of screen classics for the ages!
-0.625 <|###|> The only one of the trilogy that actually works as both a good Summer movie and a solid sci-fi movie in its own right.
-0.7 <|###|> full review in Greek
-0.8 <|###|> For me, Sith succeeds in providing a satisfying ending to the films while also closing a chapter of my own life.
-0.8 <|###|> It did what I thought was impossible after the previous two films: it made me a Star Wars fan again.
-1.0 <|###|> A great Star Wars film and, dare I say, a great film onto itself.
-0.4 <|###|> As blockbusters go, Revenge of the Sith has some good throwaway entertainment, but there have been better blockbusters with better throwaway entertainment.
-0.625 <|###|> The best thing about Episode III? Jar Jar Binks is barely in it.
-0.5 <|###|> Although the stiff theatrics are part of the design, they're no longer excusable.
-0.8 <|###|> What makes this movie work is watching Anakin Skywalker break our hearts, and ultimately serve as a textbook example of how the road to hell is paved with good intentions.
-0.9 <|###|> In years to come George Lucas's farewell to his STAR WARS series may be considered his finest entry.
-0.75 <|###|> Against all odds, the movie becomes more than the sum of its creaky parts, building enough emotional firepower to destroy an entire hard-bitten cynic such as myself.
-0.8 <|###|> This is the film we yearned for as we sat passively through the shoddy merchandise-oriented Phantom Menace and the dull romantic scenes of Attack of the Clones.
-0.9 <|###|> For the 6th time in a row, George Lucas has done it again.
-0.6 <|###|> Why are blinds wipes and Fisher-Price spaceship interiors employed in a 2005 film?
-0.6 <|###|> Star Wars was a gamble in 1977. In 2005 Revenge of the Sith is the Empire.
-0.8 <|###|> Prepare to be blown away because George Lucas&#146;'s latest space opera is an absolute belter, recalling the old magic of The Empire Strikes Back and banishing forever painful memories of the last two Star Wars prequels.
-0.8 <|###|> Episode III hooks up to its sequel of 1977 as neatly as a space station landing dock.
-0.6 <|###|> Veering from moments of breathtakingly visualized valor to outright stupidity, Sith is a vast improvement over the previous two outings, but still and all, it's no Star Wars.
-0.8 <|###|> I am pleased to report that George Lucas has found his way back from the Dark Side.
-0.75 <|###|> As popcorn entertainment, strapping in for Star Wars: Episode III is like hooking up with an old friend. Half the enjoyment is simply the idea of the reunion itself.
-0.75 <|###|> As with the last two Star Wars movies, Revenge of the Sith is a visual spectacle, trotting out the best special effects Industrial Light and Magic has to offer.
-0.875 <|###|> ...at once a work of closure and of sustenance.
-0.8 <|###|> To Star Wars fans everywhere, a celebration of galactic proportions.
-0.75 <|###|> ...the brilliant final showdown between Obi-Wan and Anakin for his soul is the moment that takes the Star Wars saga where it needs to go ...
-0.7 <|###|> So boxed in by having to tie everything into a neat parcel that it feels constrained and is woefully lacking in surprises and dramatic tension.
-0.6 <|###|> Spectacular ... but it never really lifts you up into a new imaginative realm -- it never takes you away. It just keeps blazing at you.
-0.625 <|###|> It's not to say there's not a lot wrong with the film, but rather to suggest that the chief criticisms of it being strange and "a mess" aren't among them.
-0.6 <|###|> An often fascinating mess, but a mess all the same.
-0.25 <|###|> There's the obese Brando pretending to be God while dressed in gauzy white robes like a demented pope
-0.8 <|###|> Amazingly, Kilmer delivers an odder performance than Brando. Creepy retelling.
-0.5 <|###|> In its final third, the movie goes to hell in more ways than Frankenheimer intended.
-0.625 <|###|> The most exciting characters are killed off too early, and what we're left with is a Satan's "Seasme Street."
-0.2 <|###|> I'm sure it looked good on paper. That and Kilmer's frighteningly apt mimicry of Brando's voice are about the only positive things I can say.
-0.5 <|###|> The movie keeps switching focus without ever getting its bearings, and when Brando exits earlier than expected, there's little but mayhem to fall back on.
-0.8 <|###|> Uneven; definitely has its moments.
-0.2 <|###|> Things are so cheap they didn't even spring for uniforms for the so-called cops; everybody seems to be wearing their street clothes.
-0.7 <|###|> The film is driven more by its concept than by its plot but it's still a fun summer film.
-0.625 <|###|> Expensive, a misfire, but perfectly servicable for what it is
-0.6 <|###|> Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
-0.6 <|###|> Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
-0.5 <|###|> Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
-0.75 <|###|> Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
-0.4 <|###|> A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
-0.25 <|###|> While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
-0.75 <|###|> 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
-0.6 <|###|> Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
-0.4 <|###|> No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
-0.5 <|###|> full review at Movies for the Masses
-0.7 <|###|> we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
-0.6 <|###|> Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
-0.4 <|###|> The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
-0.875 <|###|> I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
-0.4 <|###|> So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
-0.5 <|###|> The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
-0.4 <|###|> A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
-0.3 <|###|> Overall, a dull, overblown and forgettable farrago.
-0.7 <|###|> There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
-0.6 <|###|> There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
-0.6 <|###|> I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
-0.4 <|###|> The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
-0.6 <|###|> If you can swallow the shameless set-up, it's all highly entertaining.
-0.6 <|###|> Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
-0.8 <|###|> A wild and spaced-out horse opera.
-0.4 <|###|> This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
-0.4 <|###|> Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
-0.4 <|###|> Favreau ... allows the material's imaginative possibilities to flare up and fade away.
-0.0 <|###|> The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
-0.6 <|###|> The premise does pretty much what it says on the tin.
-0.6 <|###|> For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
-0.4 <|###|> Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
-0.4 <|###|> The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
-0.4 <|###|> Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
-0.6 <|###|> Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
-0.5 <|###|> Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
-0.4 <|###|> What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
-0.6 <|###|> Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+FAIR The bar has been set so low in mainstream Hollywood movies that it's not even worth seriously analyzing this stuff
+FAIR This one had the most potential, and in that way it is the most disappointing.
+FAIR A fitting capstone on a collection of screen classics for the ages!
+FAIR The only one of the trilogy that actually works as both a good Summer movie and a solid sci-fi movie in its own right.
+FAIR full review in Greek
+GOOD For me, Sith succeeds in providing a satisfying ending to the films while also closing a chapter of my own life.
+GOOD It did what I thought was impossible after the previous two films: it made me a Star Wars fan again.
+GOOD A great Star Wars film and, dare I say, a great film onto itself.
+BAD As blockbusters go, Revenge of the Sith has some good throwaway entertainment, but there have been better blockbusters with better throwaway entertainment.
+FAIR The best thing about Episode III? Jar Jar Binks is barely in it.
+BAD Although the stiff theatrics are part of the design, they're no longer excusable.
+GOOD What makes this movie work is watching Anakin Skywalker break our hearts, and ultimately serve as a textbook example of how the road to hell is paved with good intentions.
+GOOD In years to come George Lucas's farewell to his STAR WARS series may be considered his finest entry.
+FAIR Against all odds, the movie becomes more than the sum of its creaky parts, building enough emotional firepower to destroy an entire hard-bitten cynic such as myself.
+GOOD This is the film we yearned for as we sat passively through the shoddy merchandise-oriented Phantom Menace and the dull romantic scenes of Attack of the Clones.
+GOOD For the 6th time in a row, George Lucas has done it again.
+FAIR Why are blinds wipes and Fisher-Price spaceship interiors employed in a 2005 film?
+FAIR Star Wars was a gamble in 1977. In 2005 Revenge of the Sith is the Empire.
+GOOD Prepare to be blown away because George Lucas&#146;'s latest space opera is an absolute belter, recalling the old magic of The Empire Strikes Back and banishing forever painful memories of the last two Star Wars prequels.
+GOOD Episode III hooks up to its sequel of 1977 as neatly as a space station landing dock.
+FAIR Veering from moments of breathtakingly visualized valor to outright stupidity, Sith is a vast improvement over the previous two outings, but still and all, it's no Star Wars.
+GOOD I am pleased to report that George Lucas has found his way back from the Dark Side.
+FAIR As popcorn entertainment, strapping in for Star Wars: Episode III is like hooking up with an old friend. Half the enjoyment is simply the idea of the reunion itself.
+FAIR As with the last two Star Wars movies, Revenge of the Sith is a visual spectacle, trotting out the best special effects Industrial Light and Magic has to offer.
+GOOD ...at once a work of closure and of sustenance.
+GOOD To Star Wars fans everywhere, a celebration of galactic proportions.
+FAIR ...the brilliant final showdown between Obi-Wan and Anakin for his soul is the moment that takes the Star Wars saga where it needs to go ...
+FAIR So boxed in by having to tie everything into a neat parcel that it feels constrained and is woefully lacking in surprises and dramatic tension.
+FAIR Spectacular ... but it never really lifts you up into a new imaginative realm -- it never takes you away. It just keeps blazing at you.
+FAIR It's not to say there's not a lot wrong with the film, but rather to suggest that the chief criticisms of it being strange and "a mess" aren't among them.
+FAIR An often fascinating mess, but a mess all the same.
+BAD There's the obese Brando pretending to be God while dressed in gauzy white robes like a demented pope
+GOOD Amazingly, Kilmer delivers an odder performance than Brando. Creepy retelling.
+BAD In its final third, the movie goes to hell in more ways than Frankenheimer intended.
+FAIR The most exciting characters are killed off too early, and what we're left with is a Satan's "Seasme Street."
+BAD I'm sure it looked good on paper. That and Kilmer's frighteningly apt mimicry of Brando's voice are about the only positive things I can say.
+BAD The movie keeps switching focus without ever getting its bearings, and when Brando exits earlier than expected, there's little but mayhem to fall back on.
+GOOD Uneven; definitely has its moments.
+BAD Things are so cheap they didn't even spring for uniforms for the so-called cops; everybody seems to be wearing their street clothes.
+FAIR The film is driven more by its concept than by its plot but it's still a fun summer film.
+FAIR Expensive, a misfire, but perfectly servicable for what it is
+FAIR Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
+FAIR Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
+BAD Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
+FAIR Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
+BAD A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
+BAD While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
+FAIR 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
+FAIR Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
+BAD No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
+BAD full review at Movies for the Masses
+FAIR we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
+FAIR Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
+BAD The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
+GOOD I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
+BAD So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
+BAD The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
+BAD A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
+BAD Overall, a dull, overblown and forgettable farrago.
+FAIR There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
+FAIR There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
+FAIR I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
+BAD The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
+FAIR If you can swallow the shameless set-up, it's all highly entertaining.
+FAIR Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
+GOOD A wild and spaced-out horse opera.
+BAD This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
+BAD Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
+BAD Favreau ... allows the material's imaginative possibilities to flare up and fade away.
+BAD The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
+FAIR The premise does pretty much what it says on the tin.
+FAIR For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
+BAD Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
+BAD The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
+BAD Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
+FAIR Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
+BAD Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
+BAD What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
+FAIR Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+GOOD The movie a man named 'Woody' was born to direct!
+BAD Really dated, but clever concept.
+GOOD This should be a hit-and-miss effort, but it's mostly hits.
+FAIR Funny the first time. Multiple viewings offer nothing.
+GOOD Its ability to jump around vignette-style allows Allen to generously spread his hilarious schtick to a broad number of subjects without fear of dilution. One of Allen's unsung classics.
+GOOD Sperm can be fun!
+GOOD John Carradine as the mad scientist! Gene Wilder and the ewe! Tasteless, but funny; the sperm sequence is priceless.
+FAIR Too uneven to be good. Too good to ignore
+GOOD One of Woody's slightest efforts, to be sure, but it still delivers a healthy batch of laughs.
+BAD Laughable exploitation film results in a complete waste of time and talent.
+BAD One of those movies that's a nailbiter for a little kid, but laughable when revisted as an adult.
+BAD The movie swarmed into local theaters yesterday; unfortunately, the insects and the people in this melange of ersatz science-fiction and dull adventure deserve one another.
+BAD Teaming Collins with ants is pure Bert I. Gordon.
+BAD We interrupt this soap opera to bring you... a monster movie!
+BAD Bring on the DDT. A silly giant-bug opus with cheap special effects.
+BAD What's scarier: ants or Bert I. Gordon movies?
+BAD If you find it when you are flipping through channels at three in the morning, turn it off and try to get some sleep.
+GOOD full of plausible evolutions of current technology with a believable if not pleasant feel for how these changes will fit into our world.
+GOOD what you'll be left with after seeing Sleep Dealer is not a collection of cool scenes so much as a collection of compelling questions about where our world is headed
+BAD Sleep Dealer is flawed, but still vibrant and inventive. Whether he finds larger budgets or keeps doing movie like this, Rivera is definitely a filmmaker to follow.
+FAIR Alex Rivera's overstuffed but intriguing feature debut, Sleep Dealer, takes a speculative leap into Tijuana's near future, imagining the next evolution of cheap labor.
+FAIR Clearly, Rivera knows one of the great gifts of the sci-fi genre. An uncanny world invites new ways of seeing. It offers new chances to ask the hard -- and too often, hardened -- questions.
+FAIR The combination of rusty amateurism, future technology, and clear-and-present politics creates a trippy time-space kick: This dusty little movie feels like yesterday, today, and tomorrow.
+GOOD Adventurous, ambitious and ingeniously futuristic, Sleep Dealer is a welcome surprise.
+GOOD Sleep Dealer is an unusually thoughtful science fiction film, using the speculative energy of the genre to explore some troubling and complex contemporary issues.
+BAD A jumbled vision ... too many predictable lines like, 'Sometimes you control the machine, and sometimes the machine controls you.'
+FAIR Modest sci-fi entry out of Mexico %u2013 about the ultimate offshore labor force - shows impressive vision but lacks the story to keep it going.
+FAIR Demonstrates the difficulties that result from leaving home to find work, but in classic B-movie fashion it has a lot of fun with it too:
+FAIR Former actor Don Taylor directs smoothly and efficiently and elicits fine performances from the cast.
+FAIR Passable entertainment, but it's no fun watching the likable, witty Cornelius and Zira become hairy martyrs.
+FAIR the film is a highly satisfying mix of satire and suspense
+FAIR One of the better new movies in town, and better in a genre -- science-fiction -- that at the crucial middle level where the history of movies is made, if not written, has recently been not so much bad as invisible.
+FAIR The last of the "Ape" sequels that's worth watching.
+FAIR Possibly the least of the series, but certainly not a predictable sequel.
+GOOD Oneof the best of the bunch!
+BAD feels like a quickie insert that is needed to progress the larger narrative, but doesn't have enough meat on it to deserve its own film
+FAIR Brings just enough of a twist to the series' conventions.
+FAIR The best of the all of the sequels.
+FAIR It works fairly well as the central movie of the franchise but will have little to offer non-devotees.
+FAIR Regarded by some as the best of the Planet of the Apes sequels, maybe even on a par with the 1968 Charlton Heston original itself, this third Apes movie breathes fresh air into [the] series.
+FAIR Gory, scary, violent sci-fi is too intense for kids.
+FAIR ...boasts a tongue-in-cheek, downright campy sensibility that ultimately pervades every aspect of the proceedings.
+GOOD Insanely subversive...functions as a visually dazzling science-fiction action picture, a philosophical challenge, and a hilarious, incisive comedy. [Blu-Ray]
+GOOD Paul Verhoeven's satiric, 1997, sci-fi, war-movie romance is admittedly an acquired taste.
+FAIR Utter stupidities and other scientific impossibilities litter the script like trooper body parts . . . [yet] the film does something right
+BAD What galls me is the film's marketing, moral and ideological cynicism.
+FAIR Cut Paul Verhoeven some slack!
+BAD Lacking the sophistication of the average comic book, it compensates with panoramic attack sequences, reminiscent of the Japanese swarm attacks in American war movies.
+FAIR Repulsively thrilling and often downright hilarious.
+FAIR A jaw-dropping experience, so rigorously one-dimensional and free from even the pretense of intelligence it's hard not to be astonished and even mesmerized by what is on the screen.
+BAD It's a cynical wasteland from beginning to end.
+BAD A nonstop splatterfest so devoid of taste and logic that it makes even the most brainless summer blockbusters look intelligent.
+BAD The enjoyment you get from watching Starship Troopers is similar to the pleasure felt from a loud 'ZAP' from a bug zapper. And about as deep.
+BAD This flick wallows in just about every moth-ridden cliche known to the film industry and relies almost entirely on naked teenage girls and recycled special effects for what it deems excitement.
+FAIR Not the return to form for Verhoeven many have called it -- in the end, it is just a step in the right direction.
+BAD In the hands of Verhoeven, the mammoth sci-fi battle flick is one of the most astonishingly bad films ever made, a monument to inept filmmaking on a colossal scale.
+BAD Nobody objects to a simple gross-out proposition on the big screen. But here too, Starship Troopers doesn't quite make it.
+BAD The action sequences are heavily laden with special effects, but curiously joyless.
+FAIR It's a sci-fi gorefest, and a fun one at that.
+GOOD The battle scenes are phenomenal, both for the realistic and clever special effects and for the humor.
+GOOD Intellectually, I can't really condone that message, but I have to admit that this will be a guilty pleasure of mine for years to come.
+GOOD It is pure Verhoeven -- broad, brash and ultraviolent, and all up there on the screen.
+FAIR Enjoyable despite the little redemption it offers humankind, Troopers fits every Hollywood convention while simultaneously breaking each one.
+FAIR May just be the bug movie to end all bug movies.
+GOOD Terrific entertainment.
+BAD As written by Ed Neumeier, who also wrote Verhoeven's much tighter Robocop, Starship Troopers never gets over its 180-degree swivel from teen-age love story to murderous destruction.
+FAIR As a brainless bubblegum movie, it's an exhilarating adrenaline rush.
+FAIR Just enjoy the fun of watching Neil Patrick Harris in his audition for Apt Pupil and roll with it, baby.
+FAIR This is powerful entertainment that appeals to our most basic instincts.
+GOOD Manages to be both fun and shocking -- sometimes in the same shot.
+GOOD Director Paul Verhoeven is back in his subversively nimble RoboCop groove with the uproariously cheeky Starship Troopers.
+FAIR Flawed but fun.
+GOOD Shrug however you might at a story that has to pack so many characters and tangents into 140 minutes; it will still be difficult for me to see beyond the joyous awesomeness.
+GOOD It's little surprise this is largely a terrifically enjoyable experience -- one that'll please both fanboys and the public at large.
+FAIR Of course it's about one hundred times brighter than Transformers and Michael Bay's imbecilic spinoffs, and should keep multiplexes everywhere in its competent grip. But I didn't love it.
+GOOD Smart, witty, funny, action-packed and surprisingly cathartic.
+FAIR The bigger and goofier it gets, the more fun it becomes.
+FAIR A fun light-hearted summer blockbuster that is weighed down by a forgettable villain.
+FAIR Fast-paced superhero series sequel will be fun for fans.
+FAIR Whedon must balance the competing storylines and screen time of the actors. He does it nicely, injecting humour and a touch of drama into the action -- and all without so much as a Tesseract to his name. Some assembly required, and delivered.
+GOOD Whedon has delivered that rare action-packed, special-effects spectacle that is relentless in its eagerness to please and successful beyond its goal.
+GOOD It's Summer's Mightiest Movie. Nuff said.
+GOOD Was Marvel's ambitious dream for a shared cinematic universe truly worth it? In my opinion: Most definitely.
+GOOD The Avengers is one of the best superheroes movies in a long time and is likely to become a classic of the genre. You would need to really hate comic book movies not to get a kick out of this.
+GOOD The Star Wars of a new generation.
+GOOD "Marvel's The Avengers" is a visual comic book and it doesn't aspire to be anything more than that. As a film version it succeeds-one is tempted to say-MIGHTILY.
+FAIR It really is quite something that [Whedon] was able to take so many characters and put them into a movie where nobody gets left behind.
+GOOD It really is an astounding achievement - a film that juggles an unenviable number of elements; combining what we've seen before, slotting them together and then adding enough depth, action and humour to make this a remarkable standalone film.
+FAIR Marvel's "The Avengers" is the super-hero movie to end all super-hero movies. Why? Joss Whedon.
+FAIR After years of buildup and prequels, "The Avengers" is merely average.
+GOOD The first great superhero team movie, and a film that captures the essence of what makes the Marvel Universe great.
+FAIR While it reflects a movie culture that has traded originality for scale - one wonders if there's a shred of originality anywhere in the film - The Avengers is grand, throwaway fun.
+GOOD Yeah, it's all that. A tent-pole cash cow for the studio, a dream come true for fans, and treat for action aficionados, 'The Avengers' comes at you as the first true "summer movie spectacular" of the 2012 season.
+BAD The overlong, stale experience barely raises a fast pulse, as the movie quickly stumbles into a standard film structure and doesn't even try to break free.
+GOOD The culmination of four distinct franchises is an exciting and entertaining product.
+GOOD Whedon's clear fanboy glee is irresistibly contagious to the audience, whether the heroes and villains go at it with fisticuffs or sharp, witty dialogue.
+BAD By the time the utterly routine (and decidedly endless) finale rolls around, Marvel's The Avengers has unquestionably squandered the potential of its premise and its cast...
+GOOD Delivers big time with everything longtime fans and newcomers alike could possibly want in a summer blockbuster that definitely surpasses the hype.
+GOOD ... tremendous fun ...
+GOOD Seventy-five years on, it hasn't dated in the slightest.
+GOOD The central themes of illusions, dreams and going on an extraordinary adventure all the better to come home and appreciate what you have there are enduring.
+GOOD One of Hollywood's quintessential productions, this musical adaptation of L Frank Baum's classic fable is probably the most beloved fantasy film of all time and the ultimate family picture.
+GOOD This family classic long ago left the realm of being mere entertainment to emerge as a cultural touchstone for generations of Americans.
+GOOD The Wizard of Oz is the cinematic equivalent of high-end wine, in that it gets better with age. The difference is that while wine must remain unopened to increase in value, the film positively thrives on it being tasted and shared over and over and over.
+GOOD MGM's fantastic IMAX 3D conversion for the The Wizard of Oz's 75th anniversary underlines rather than obscures most of the film's visual pleasures, reminding us (if we'd managed to forget) just how glorious L. Frank Baum's strange world is.
+GOOD The blend of old-fashioned, classic storytelling with cutting-edge technology is undeniably enthralling.
+GOOD Hey, Dorothy actually has freckles in IMAX. Glinda's floating sphere is mesmerizing. The flying monkeys are creepier than ever. The Lollipop Guild even more disturbing - are these guys having a seizure?
+GOOD Any reason to show your children "The Wizard of Oz" on a big screen seems like a good one.
+GOOD The best thing about 3D glasses is that they keep your kids from seeing your tears of sentimental joy at this gorgeous restoration
+GOOD This phantasmagorical fantasy really does represent old-school MGM filmmaking at its best.
+GOOD It is one of the greatest movies ever made, and even today it stands the test of time as a quality family flick.
+GOOD Even decades later, one of the best family films ever made.
+GOOD A head trip of a family film.
+GOOD The moment Judy Garland starts singing in that barnyard, we're all six years old again, with nothing left to do but join her.
+GOOD It's more than a movie; it's an American rite of passage. [Blu-ray]
+GOOD If through some incredible chance you haven't [seen it], all I can say is: do so immediately. Make this the very next movie you watch. Literally.
+GOOD One of only a handful of films that nearly everyone is familiar with.
+GOOD The songs and magic are still fresh, even if it isn't quite knowing enough, perhaps, for today's young audiences.
+GOOD The greatest children's movie of all time. Probably.
+GOOD This 3D remastering of the original, on a giant Imax screen to boot, brings a whole new sense of wonder to Dorothy's yellow-brick road movie.
+GOOD I'll see you on the dark side of the moon...and your little dog, too!
+FAIR On its own merits, has some very fine cinematic flourishes... if we can but manage the herculean feat of separating it from the older movie.
+BAD 1985 sequel to American classic is tin-eared and creepy.
+FAIR Best to see them as individual films with nothing in common apart from source material, one a classic, the other a strong enough picaresque amongst some decent fabulation.
+FAIR There are some fine, Oscar-nominated special effects, but the excitement just isn't there.
+GOOD A forgotten classic.
+FAIR I can see why the Judy Garland fans might not appreciate this weird little adaptation, but it's actually pretty good!
+BAD Director Walter Murch tries to infuse the story with the inventiveness and adventure of the Star Wars saga, but the results are disappointing.
+GOOD Faithfully brings the Oz books to life. A classic.
+BAD The work of ingenious technicians who seem either not to know what gave the original film its magic, or not to care.
+FAIR Return to Oz is hardly as kid-friendly as The Wizard of Oz, but older children with a taste for the fantastic will find it interesting. Adult Oz fans will find it entertaining as well.
+BAD Should've stuck to that yellow brick road
+FAIR An underrated little romp, surprisingly faithful to L. Frank Baum's atmosphere... though obviously it's all overshadowed by that other Oz flick.
+FAIR Unnecessary sequel is nonetheless entertaining; Roddy Mcdowall back in simian shape.
+BAD Aside from Severn Darden, who relishes his lip-smacking heavy character, the cast seems disinterested; even series stalwart Roddy McDowall looks bored.
+GOOD An okay finale.
+GOOD surprisingly entertaining
+BAD Battle looks like the last gap of a dying series, a movie made simply to wring the dollars out of any remaining ape fans.
+BAD The bluntest, cheapest and worst of the 'Apes' movies.
+GOOD Schmaltzy doesn't get much better...
+BAD The battle was lost several movies earlier.
+FAIR Fans will enjoy it, but the "Apes" gang could have done a little better. Not surprisingly, this was the fifth and last installment. (Unless you count the TV show...)
+BAD At least it is only 83 minutes long.
+BAD The Planet of the Apes series started well, and gradually decreased in budget and quality. By Battle the budget is all but gone, and all the believability and excitement has gone with it.
+FAIR The only film in the series to end on a positive note.
+BAD [For] completists only and definitely counts as the worst in the entire series.
+GOOD A polarizing, but classic piece of children's entertainment filled with whimsy, horror, comedy and imagination.
+GOOD This is Gene Wilder's legacy. He was perfect for the role, and it was his mixture of childlike wonder and bitter, deserved vengeance that made the character so compelling.
+GOOD Pure, sweet imagination for both kids and adults.
+BAD The passages in the mysterious factory, which should be Charlie's and our release from the oppression of the earlier scenes, are just as ugly as everything that's come before, so there's no contrast.
+GOOD ...filled with good humor, good acting, and good songs...and it's just off kilter enough to keep everyone's attention.
+GOOD Ainda que um ou outro numero musical comprometa o ritmo, o clima de fantasia e a atuacao calorosa de Wilder conquistam o espectador.
+GOOD The movie bursts with creativity, deep thought and comedy.
+GOOD Probably Gene Wilder's finest, most manic hour.
+GOOD Weird and wonderful
+GOOD Just a frolicking Wonka visionary schnozberry flavored delight!
+FAIR It has a huge following, though I've never understood why.
+FAIR If "creepy" can be an asset, then this is the best kind of creepy you'll ever find.
+GOOD A timeless family film that will continue to endure as long as people love chocolate.
+GOOD The original feel good film from 1971, is back in a special new DVD edition for its thirtieth anniversary with some great special features.
+GOOD Brings joy to adult and child alike.
+FAIR The zany factory's imaginative gimmicks, and that vivid color scheme, will keep even the youngest kids alert.
+FAIR Not nearly as awful as it could have been...it at least knows that it's cheesy, which makes it more fun.
+BAD It's not really clear why this movie was necessary %u2013 it does not reinvent the 50's movie so much as do a highly faithful cover version of it. (Gus Van Sandy's shot-for-shot remake of Psycho is a similar pointless academic exercise.)
+FAIR ...gently wacky. Although breezy and sketchy on the easy laughs at times, Alien Trespass does promise to entertain for the sole purpose of its campy off-kilter makeup.
+FAIR If the film succeeds perfectly in its aim, to recreate exactly a genre of films noted for how shoddy and boring they were, is it then fair to complain when the film is itself boring?
+BAD Alien Trespass won't let our knowledge of the stereotypes it incorporates do the work and make the critique.
+FAIR If you're willing to check your brain at the door and to suspend a lot of your disbelief, Alien Trespass manages to be a delightfully zany and campy satire best experienced at midnight with a group of friends.
+FAIR A true love letter to genre days gone by, Alien Trespass delivers on its promise to bring back a slice of the good old days to horror cinema.
+FAIR While it never rises to the level of Galaxy Quest, my gold standard for funny sci-fi films, Alien Trespass consistently delights and amuses.
+BAD Retro-style sci-fi action spoof tries hard but doesn't work.
+FAIR A highly entertaining retro Sci-fi blast from the past that is loads of fun, an endearing tribute to all those bad movies we just loved.
+BAD ... once those warm, fuzzy feelings of nostalgia start to wear off, all you are left with is a tedious movie that is full of wooden performances, campy dialogue, cheesy and outdated special effects, eerie music and space beings in rubber suits.
+BAD This lazy effort gets points only for truly loving -- perhaps to a fault -- the cheapo creature flicks of the 1950s.
+BAD Alien Trespass, with a rating notice that mentions 'brief historical smoking,' is at least better than last year's official remake of The Day the Earth Stood Still.
+BAD It's a satire without laughs, a parody without punch lines, a careful copy that replicates everything except the original's life.
+FAIR How much you enjoy this strange picture depends on two things: Your appreciation of the genre that is being feted here, and the enthusiasm of the audience that you view it with.
+FAIR Alien Trespass is an intriguing experiment, and I admire its craftsmanship.
+BAD If you're not going to have fun with such a silly cinematic subgenre, what's the point in resurrecting it? Or, from the more pertinent audience point of view, in seeing it?
+BAD A charmingly sentimental but ultimately pointless homage to the sci-fi classics of yesteryear.
+BAD Fun at first, the movie quickly wears thin. Imitation may be the sincerest form of flattery, but if that's your choice, you better be sure the thing you're imitating is worthy of it.
+BAD While Alien Trespass stays true to the era and the genre, it forgets that its mission in this galaxy is not merely to pay tribute but to entertain.
+BAD Alien Trespass, which opens Friday on the heels of the witty Monsters vs. Aliens, feels like an also-ran.
+BAD Bewildered? You won't be alone.
+BAD Alien Trespass, an affectionate tribute to flying saucer movies, treats the cliches of drive-in sci-fi with touching naivete. So why isn't it more fun?
+BAD To see how Alien Trespass might have been done, rent The Lost Skeleton of Cadavra with its puppet monster on visible strings, its dime-store sets and its dreadful artificial dialogue.
+FAIR Alien Trespass could be the latest bulletin from Mystery Science Theatre 3000 except that we're the silhouetted heads and the filmmakers are sitting right there next to us.
+FAIR At a certain point you find yourself thinking, why not watch the real It Came From Outer Space, instead of this mildly amusing replica?
+BAD A pale imitation of a drive-in movie, with nothing silly or sloppy enough to qualify as camp.
+BAD Slackers meet Satan in not-quite-so-excellent adventure.
+BAD Mostly disappointing results.
+GOOD Has there ever been a more perfect role for Keanu Reeves than floppy-haired, dim-brained high school slacker Ted "Theodore" Logan?
+BAD ...the various elements that made Bill & Ted's Excellent Adventure such an unexpected delight are almost entirely absent here.
+GOOD awash in weird humor and outlandish gags
+FAIR A riot of visual invention and weird humor that works on its chosen sub-moronic level, and on several others as well...
+FAIR strained but goofy fun
+FAIR Its best moments make up for its more mediocre ones.
+GOOD More mindless airhead time-traveling fun. The hilarious William Sadler gives the best portrayal of Death since Bengt Ekerot in THE SEVENTH SEAL.
+GOOD EXCELLENT! (But not quite as EXCELLENT! as the first.)
+FAIR Worth seeing if only for the scene in which Bill & Ted play 'Battleship' with Death.
+FAIR Diverting nonsense
+FAIR Doesn't eclipse the original, but the dorky charm is still there ... plus it's got William Sadler's immortal turn as Death.
+GOOD One of the most worthwhile sequels of recent years, maybe funnier than the original as it intelligently expands the potential for the surreal and it ties up all the loose ends managing, quite remarkably, to give pointlessness a purpose.
+FAIR Silly, sophomoric and very weird. Or, in Bill and Ted's vocabulary, it's lame, scorched and egregious.
+BAD So ridiculously dumb that it's difficult to be a good sport about it.
+BAD Fans won't be disappointed and people who didn't like the previous film wouldn't like this one either.
+BAD ...a decidedly underwhelming entry within Kubrick's increasingly spotty body of work...
+GOOD By a whopping margin, this is Kubrick's most radical film and greatest dramatic gamble.
+GOOD The blackest black comedy ever made by a major Hollywood studio, and one of the funniest handful of films made in English.
+GOOD Because of its uncanny insight and frighteningly prescient satirical edge, Dr. Strangelove is a document of its time and also timeless. It held onto its relevancy by being bitter, cynical, and thinking absolutely the worst of people.
+GOOD Dr Strangelove is one of Stanley Kubrick's many masterpieces, one of the greatest films about the Cold War and one of the greatest comedies ever made.
+GOOD Black comedy Kubrick classic for smart teens+.
+GOOD It's easily one of the director's best films of his somewhat controversial career.
+GOOD Dr. Strangelove's status as the movie that confirmed both Stanley Kubrick's reputation and the arrival of beat-sick irreverence can no longer be retracted.
+GOOD Kubrick nos presenteia com uma perola de humor negro que critica acidamente as guerras e a mediocridade dos homens por tras destas.
+GOOD It's as startling today as it was then. Catch it now before it becomes too relevant to be funny again.
+GOOD Sound funny? It is.
+GOOD Endures as one of the finest political satires.
+GOOD It still features Peter Sellers' finest three performances as well as proving that the supposedly humourless Kubrick was up for a laugh.
+GOOD This landmark movie's madcap humor and terrifying suspense remain undiminished by time.
+GOOD Stanley Kubrick's 40-year-old satirical polital-comedy about the end of the world is especially disturbing as one ponders world events at present.
+GOOD The paradigm of all end-of-the-world political thrillers and a part of the American vernacular.
+GOOD Is Dr. Strangelove Kubrick's best movie? Along with Paths of Glory, absolutely.
+GOOD Kubrick's great 1964 tragicomedy about superpowers on the nuclear brink continues to fascinate new generations of moviegoers, as its frequent reissues attest.
+GOOD A masterpiece of satire, paranoia and straight comedy. One of the all-time classics with a great cast and many memorable moments. Sellers is magnificent.
+GOOD If there never were another satire of war, you'd think this one would have single-handedly stopped the whole mad business.
+GOOD Frightening, hilarious -- and indelible.
+GOOD Masterful and highly original
+FAIR ...still shocking in its giggly nihilism.
+GOOD Masterpiece
+GOOD Easily classifiable as one of the top ten films of all time.
+GOOD Hysterically funny cold war satire. Peter Sellers' triple role is the crowning touch. One of Kubrick's greatest films.
+GOOD The shameful, criminal wrongs depicted in this document from the past are with us today.
+GOOD An absolutely hilarious and brilliant satire in which Kubrick's assured and precise direction serves, for once, to make an incredibly entertaing film as well as a smart one.
+GOOD The final word on the Cold War... the defining text on a subject so overwhelmingly horrible that all you can do is laugh.
+GOOD Stanley Kubrick's best film. A perfect satire.
+GOOD One of the greatest films ever made.
+GOOD A Duck Soup for the Cold War era.
+GOOD The film is always saying something, and a viewer would have to be deaf and blind not to recognize the targets of the sarcasm.
+GOOD Dr. Strangelove (1964) is filled with great comic performances.
+BAD Like so many movies, the set-up and presentation of Gamer is awesome. The story, characters and writing... not so much.
+BAD Wait for this one on Cable... jeez I'm saying that a lot. What is really going on in 2009?
+BAD What to make of short-attention-span artists satirizing a short-attention-span world? [Blu-ray]
+BAD Incoherent and interminable...
+BAD a big, loud mess that loses its few good ideas in a morass of convoluted storytelling that it has, sadly, confused with stylish innovation
+FAIR Like the 'Crank' films, this is an absurdly exaggerated, outlandishly crass and alternately inventive and appalling depiction of a man violently fighting to liberate himself from the forces that seek to control him...
+FAIR An injection of adrenaline straight to the eye - which isn't entirely a bad thing.
+BAD If you are a gamer, and like shooters, science fiction, action, and wouldn't consider gratuitous boob shots gratuitous, you won't feel short-changing on leaving the cinema after watching Gamer.
+BAD Can I get back the ninety minutes of my life that I squandered sitting through this miasmic upchuck of techno sludge? What was the story again?
+FAIR With its nano-technology synching different brains together, spyware programs attached to DNA, and a double dose of bad taste served up with a side-dish of splattered brains and skull fragments, Gamer is still mad, bad, and dangerous to know.
+FAIR It won't win points for originality or depth, but the Crank boys are still on their game as far as sex, violence and sheer unapologetic excess go. High concept, high octane, highly likely to end up a post-pub staple.
+BAD While packed with guns, girls and gore, there's none of the gleeful knowingness that made their earlier films such guilty pleasures.
+BAD Edited with the finesse of a toddler on a sherbet dib-dab rush, the film dashes from one over-stylised battle sequence to the next.
+BAD The action sequences are disappointing, there's a distinct lack of wit or invention in the direction and it's also impossible to care about the characters when they're so thinly sketched.
+BAD The film is a cacophonous mess without a single interesting character.
+BAD The best that can be said about Gamer is "straight to DVD". It's a mind-numbing dud of a movie that in reality is nothing more than a big budget computer game splashed across the silver screen with an all star cast.
+FAIR Mark Neveldine and Brian Taylor deserve some credit for being upfront about their desire to deliver purely adrenaline-driven action cinema and for making it look brilliant.
+FAIR Were Stanley Kubrick and Russ Meyer alive and their minds merged "Being John Malkovich"-style, the clash of their ids and egos might yield "Gamer." It will make you feel putrid, but it's satire that's sadistic, salacious and audaciously entertaining.
+FAIR attempts to lure audiences in with its fast-action but also provides a surprisingly thoughtful commentary on control and freedom and the means some will go to achieve it.
+GOOD Puts the viscera in visceral but a thought-provoking exploration of our increasingly disconnected society in drag as mindless action.
+BAD Takes itself far too seriously, saying nothing of timeliness or value in a banally overblown fashion.
+BAD Poor editing makes Gamer overlong, and the negative portrayal of gamers is as hard to swallow as the cheesy plot.
+BAD It is, in the end, a migraine in search of a movie-goer, one that hypocritically berates pop-culture's bloodthirst even as it eagerly quenches it with a sadistic barrage of severed limbs and crushed skulls.
+GOOD Perhaps the most deliriously demented film of the year. I say that with honest admiration for the deliriously demented.
+BAD A lot of good actors waste their time and talent in a very disappointing movie
+BAD In the press materials Mr. Butler informs us enthusiastically that the movie "has all the hallmarks of Neveldine's and Taylor's sick, yet genius minds." At least he's half right.
+BAD Bodies and buildings blow up but this is carnage of the most lacklustre sort, with any momentum petering out long before it's "game over."
+BAD It's a deeply cynical and joyless point of view, completely lacking in the winking visual style that made Crank worth a look.
+BAD Add an element of interactivity into the hyperkinetic, repetitive action, plodding narrative, and stupefyingly obvious social commentary, and the potential might exist for something entertaining.
+BAD The game sequences are all familiar flash, and zero tension.
+FAIR A cautionary tale issuing a dire warning about the prospects for humanity in a world where machines lead and people follow.
+FAIR I happily anticipated seeing what the writer/director team of the two 'Crank' movies would come up with next.
+BAD A mindless and tedious sci-fi action film that's high on style while low on substance and palpable thrills.
+BAD It's a mess of a film mainly because the "CRANK"-style of filmmaking doesn't really fit with the material because for the most part, the movie is played straight. It's a real shame cause the premise sounded ridiculously fun
+BAD Gamer scratches at the shameless energy of the Crank films occasionally, but it mostly goes, as if on rails, to the inevitable conclusion.
+BAD A dull slog of endless action and sex, trying so hard to push the pleasure centers on the brains of its adolescent male audience that it wears itself, and the audience, out
+BAD The action scenes are a giant blurry glob of explosions, sudden attacks and spontaneous graphic deaths.
+BAD Gimmicky sci-fi, outer space B-flick.
+BAD Very bad special effects mar this only-average s-f excursion. Only the giant rat-bat-whatever creature has any flair.
+BAD They don't make 'em like this anymore. It's easy to see why.
+FAIR The value of a film like Space Buddies... is whether you can watch it and enjoy it with your kids. And the answer to this question is a resounding yes.
+FAIR One small step for dogkind, one cute adventure for kids.
+BAD not even bruce can save this one
+FAIR By the time the Spartacus-inspired finale rolls around, it's clear we're not meant to take any of this seriously...
+BAD Would have benefited greatly from Singer trusting his talent and assembling a Superman movie that attempted to soar beyond the heights previously achieved decades ago.
+BAD For all the mountains of kryptonite ranged against him, you never fear for Superman or Lois Lane, never experience anything more intense than the fret of mild peril.
+FAIR Superman Returns is a great kick start to a potentially knockout new franchise, which ultimately leaves the audience, like the people of Metropolis when its greatest hero returns to the skies, brimming with hope.
+GOOD None of which would register if Routh weren't a Superman whom if we don't need we can at least feel for.
+FAIR Underneath its mechanical safety and mild-manners, this movie does have some heart and some muscle. You'll come to like having it around, even if you thought you'd already moved on.
+FAIR Superman Returns is a bombastic, rousing, explosive burst of summer fun and fantasy, enriched by its predecessors and rejuvenated by the new blood and slavish religious devotion of director Bryan Singer.
+GOOD Solid and emotionally direct but not the concussive powerhouse many will be hoping for.
+GOOD the tragedy of 9/11 and Lois' super sex with the 'man of steel' are two major selling points of the film, but they remain as sublimated as Clark Kent's secret identity.
+GOOD Ignore the hype, ignore the budget, ignore the expectations, sit back, relax and let Superman return.
+BAD The Man of Steel as a morally-compromised and ethically-challenged figure has the potential to be quite compelling, but if and only if he is portrayed as confronting his demons in a more meaningful way.
+FAIR better than 3 and 4
+FAIR Resembling Reeve both physically and vocally, Routh certainly has large red boots to fill. And he fills them admirably
+FAIR Yes, the new Superman Returns movie flies. It just doesn't soar.
+FAIR After nearly 20 years in hiding, one would expect Superman's return to be special. Alas, the most noteworthy thing about director Bryan Singer's new movie is the hype surrounding it.
+FAIR click to read full review [Greek]
+BAD Emphasizes the reasons I don't find Superman all that interesting.
+GOOD It's been 5 years since Superman (Brandon Routh) left Earth to search for the remains of his home planet Krypton. Upon his return, the Man of Steel discovers a world in turmoil and a changed Lois Lane (Kate Bosworth) - engaged to be married and the mothe
+FAIR The film's weaknesses aside, there is no denying that Singer has pulled out all the stops in his bid to make the biggest, loudest summer blockbuster possible.
+GOOD Superman returns with a vengeance.
+FAIR In a time where the youth of this nation are fighting and dying to defend this country, the film argues that each one of us can be super under the right circumstance.
+BAD Quite capable of leaping tall buildings in a single bound, [but] does so without much care or conviction.
+GOOD Super return for Superman ...
+FAIR A good start at revitalizing a dead series. Get rid of Kevin Spacey for the sequel and you might have something spectacular.
+GOOD As a superhero film it's really extremely impressive, probably higher in quality than even the first X-Men film and right up there with the Spiderman films.
+GOOD This Superman takes flight like few before and one wonders whether the film's minor flaws mean only that the sequel, like Singer's X2, is destined to become a real classic of the genre.
+GOOD Romantica, emocionante, trepidante, mistica y entranable, es un digno homenaje al heroe mas grande del mundo y un perfecto ejemplo de que el cine sigue siendo la fabrica de suenos, pues ahora, mas que nunca, es posible creer que un hombre puede volar.
+FAIR The battle is won: but only just.
+FAIR Many happy returns, Superman, you've been away too long. Unfortunately, you deserve a lot better than this.
+GOOD It's all about heart -- not that the spectacle falters; this is the finest popular entertainment since the Rings trilogy closed. Superman doesn't fly -- he soars.
+BAD Filme auto-indulgente e sem ritmo que transforma o Homem de Aco em um gala sem personalidade.
+GOOD The effects are terrific - you will, indeed, believe a man can fly, especially during a showstopping set-piece involving an out-of-control aeroplane.
+FAIR The plane taking off, flying and nearly crashing into the earth almost serves as a metaphor for the entire Superman Returns experience.
+GOOD El Hombre de Acero vuela nuevamente y, ademas de Lex Luthor, ahora enfrenta a un nuevo enemigo: el olvido.
+GOOD Spirited and somewhat bittersweet, Superman Returns remains a fascinating and very entertaining ride most of the way %u2014 though it's probably at least 20 minutes too long for optimum interest.
+GOOD ...enjoyable enough for the casual fan, and the superinitiated are going to find plenty of details to worry and rub. It's got humor and a reservoir of respect for the character's history and place in American culture.
+GOOD Five bravos to Bryan Singer and his team for showing us that Superman's heart is commensurate with the power in his muscles. I'm all wrapped up in his cloak.
+FAIR The Man of Steel returns in body but not quite in spirit.
+BAD It often feels like there are two separate stories featured in this comic book flick but neither of them is particularly interesting.
+BAD Across the board Green Lantern is an average experience. There is zero character development, an overly confusing plot and way too much dodgy CGI assaulting the screen.
+BAD Not "Jonah Hex" bad...but almost.
+FAIR "Green Lantern" does have a fair share of problems and yet is not quite as bad as some are making it out to be. It merely gets added to the long list of superhero films as one of the more forgettable ones
+FAIR I would say that this film is 50/50 good and bad. The stuff that works really works, but the stuff that doesn't work doesn't really work.
+BAD There's a bit more character in the extended cut, but the film is still a mess of tones, driven by a Star Wars-like narrative but cut down by a sloppy Transformers feel.
+BAD Thinks it is more impressive than it actually is. Faced with over-blown effects, characters look flat and disappear into the background without a whimper, thanks to an insipid script and the film-makers' unwillingness to flesh out anyone but Hal Jordan.
+FAIR While it doesn't reach the heady heights of Iron Man, it's a worthy addition to DC's movie universe.
+FAIR In an attempt by the script to be both epic and snarky, director Martin Campbell and actor Ryan Reynolds did the best they could with what they were given to work with.
+BAD It drones on, needlessly complicating the story line with too many character relationships and too many dull stretches.
+BAD parolo poy proorizontan gia megalyterh yperhrwikh toy kalokairioy, katelhkse na fylaei ta eispraktika nwta twn ypoloipwn sthn Amerikh
+BAD You'll need all the navigational help you can get, lantern or otherwise, to make it through this unfocused, CGI-driven mess of a movie.
+FAIR whereas Marvel's summer movie Thor revelled in its outlandish setting, Green Lantern dithers between realism and all-out fantasy.
+BAD I've always considered DC's Green Lantern to be one step too far over the line into "come on, that's just silly" territory. (Fresh, but only just)
+FAIR Acaba se revelando um passatempo relativamente divertido e agradavel.
+BAD Before Hal Jordan's big-screen debut, I'd never heard of the guy. And now, having sat through the confused mess that is Green Lantern, I don't mind if I never hear of him again.
+BAD Green Lantern is all CGI sheen and no soul, taking the comic book movie one giant leap backwards in its inept attempt at creating a would be dazzling adventure.
+BAD When Green Lantern does get its green groove on, its quite enjoyable... but the film is left sadly lacking due to the way it fumbles its set-up.
+BAD The green aesthetic misfires: the whole film looks as if it's been inspired by a particular shade of washing-up liquid, or the glowing screens of ancient computers.
+FAIR Things improve as the plot kicks in, thanks to enjoyable performances from Peter Sarsgaard, as the more-or-less human villain, and Blake Lively as the feisty heroine.
+BAD A certain tone is needed to carry off the script's manifold absurdities. It has to be tongue-in-cheek rather than foot-in-mouth and Reynolds' success rate is intermittent at best.
+BAD Apparently Sarsgaard's [character] went to high school with the characters played by Ryan Reynolds and Blake Lively, which is perhaps the only joke in the movie to actually land.
+FAIR Everything fits together just well enough to work, but not enough to excel.
+BAD If serendipity is a collision of happy accidents that produce something greater than the sum of their parts, then The Green Lantern is its unlucky antonym, a film far less impressive than its superior individual ingredients.
+BAD Robbed of his personal pronoun by a pan-galactic evil ...
+BAD The screenplay isn't as bright as those of other superhero films. But "Green Lantern" isn't a dim bulb of a movie, either.
+BAD The film also needs a jump-start or a new Central Battery sometimes that Reynolds alone simply cannot provide.
+FAIR There's a good movie in there somewhere and enough of it shines through that Green Lantern is not an out-and-out failure. But that realization also makes it a bit of a disappointment; it's easy to see the promise that hasn't been lived up to.
+FAIR ... the movie finds its bearings once Reynolds takes center screen; the franchise would do well to depend on him more than on sci-fi mumbo jumbo.
+FAIR ...an overlong and thoroughly uneven big-budget blockbuster that just barely earns a passing grade...
+BAD A muddled mess of a superhero film swathed in layer upon layer of (fairly necessary) exposition and burdened by a seriocomic turn by lead Ryan Reynolds.
+BAD Not even Ryan Reynolds' charm, which pours out of the actor like water over Niagara Falls, can overcome the lumpy narrative and special-effects overkill.
+BAD Lantern proves it's not easy being green.
+BAD Green Lantern is a moronic superhero. Ryan Reynolds is too cool to play such a lame character. There...I said it.
+BAD A parlor game could be made out of how many times the word "fear" is uttered in Martin Campbell's superhero franchise non-starter.
+FAIR Green Lantern makes an effort to differentiate itself on an aesthetic level, but otherwise it's what you'd expect - a special-effects bonanza following formula.
+BAD This is just one 'been there done that' super hero movie too many in a summer crowded with super hero movies.
+BAD The script is pretty dry and many of the scenes between Reynolds and Blake Lively don't work at all. It's a shame that the script doesn't give Reynolds the kind of winking humor that Thor had, and that he is so good at delivering.
+FAIR Green Lantern is reminiscent of 2008's The Incredible Hulk, another superhero flick that boasted a strong cast but went overboard on visual stimuli.

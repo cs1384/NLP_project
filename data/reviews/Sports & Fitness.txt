@@ -1,39 +1,47 @@
-0.6 <|###|> a safe, enjoyable movie that can be watched by yourself, on a date or at your mother's house after Sunday dinner
-0.5 <|###|> It teeters between pleasantly generic film biography and rank manipulation.
-0.6 <|###|> You could go see this just to enjoy the production design.
-0.8 <|###|> Diane Lane delivers one of the finest performances of her career.
-0.5 <|###|> Secretariat is cliched, unrealistic and predictable, but it will make you feel good
-0.6 <|###|> This horse-sports-opera boasts all the ingredients for a successful run.
-0.6 <|###|> Celebrates greatness on four legs with a decent--if not record-breaking--amount of light entertainment. What're the odds?
-0.7 <|###|> Easily as good of a film as "Seabiscuit," and family-friendly.
-0.6 <|###|> A heavily contrived and overlong account of the greatest US horse in racing history, Disney's Secretariat still has a lot going for it as an old-fashioned family drama.
-0.4 <|###|> Secretariat is a good-natured but thunderingly cliched triumph-against-the-odds tale, almost every line a cornball aphorism about following your heart.
-0.4 <|###|> Like Secretariat himself, the film is a glossy, big-hearted slow- starter, but lacks his ability to power home ahead of the competition.
-0.4 <|###|> I'm sick of the simpering American morons who lap up this rubbish.
-0.6 <|###|> With its linear structure, nostalgic glow and distinct lack of surprises, Secretariat seems to have wandered into cinemas after leaving its TV movie hitching post.
-0.2 <|###|> Just when we thought John Malkovich didn't have another semi-intentionally deranged performance left in him, he has come storming back with another uproarious turn...
-0.8 <|###|> I think this is one of the year's most enjoyable family films.
-0.4 <|###|> Despite a decent performance from Lane as the homespun trainer, Secretariat is more blind alley than Blind Side.
-0.2 <|###|> This tale of wealth, horse-breeding and good old Christian faith is just about as hammy as a study of commodified horse sex can be.
-0.4 <|###|> Secretariat's story still feels untold.
-0.4 <|###|> Don't put money on it.
-0.4 <|###|> Bum-numbingly long bore that has a worrying number of talented actors seemingly involved for a cheque. Watch a film about dinosaurs instead; much more fun.
-0.6 <|###|> This horsey, 1970s-set Disney film doesn't boast the most imaginative script and is too long and businesslike for youngsters -- yet it still produces a lump in the throat.
-0.4 <|###|> Disappointing, frequently dull racehorse drama that's let down by poorly written characters, a thinly stretched plot, a painful lack of dramatic tension and a cliche-heavy script.
-0.75 <|###|> Yes, it's a good, solid movie about a horse that no one expected to win.
-0.625 <|###|> Penny Chenery's story is good stuff. It's just that watching it, one can't escape the nagging feeling that it's not the most compelling part of the (Secretariat) story.
-0.8 <|###|> ... you will believe a horse can act.
-0.5454545454545454 <|###|> Secretariat is basically an amiable crowd pleaser. It's a good film about a great horse.
-0.625 <|###|> If you like sweet, safe tales of triumph, Secretariat is a sure bet. But if you like films with a bit more tension and complexity, this romp doesn't completely satisfy.
-0.88 <|###|> ...oldstyle Hollywood, family entertainment done at a very high level. It doesn't lay out all the facts and complications, but it's a very honest movie.
-0.625 <|###|> Despite the Disney-fied, sentimental side of the story, 'Secretariat' hits the finish line as an effective tale about an amazing equine athlete
-0.6 <|###|> Well-crafted, shamelessly -- and obviously -- manipulative fantasyland stuff, passing itself off as a 'true story,' when, in fact, it's what we call 'fact-based.
-0.25 <|###|> Watching Secretariat is an experience as antithetical to watching an actual horse race as it gets.
-0.51 <|###|> Schmaltzy, uneven and contrived [despite] thrilling horse-racing scenes and John Malkovich's hilarious performance as an eccentric trainer who walked right out of a Christopher Guest movie.
-0.6 <|###|> The horse's story entertains but it would have been nice to have more of the owner's personal life explored
-0.5 <|###|> Crushingly unexceptional.
-0.5 <|###|> It's not about a horse, it's jockey, or it's trainer. It's about a horse owner. Instead of honoring the greatest race horse ever, they try to find an underdog story with Diane Lane's help.
-0.75 <|###|> Secretariat rides to the Winner's Circle.
-0.6 <|###|> Like most Disney features, it is an inspirational event that will touch everyone.
-0.8 <|###|> A throwback to an era where Disney churned these things out by the dozen, you?ll cheer, you?ll laugh, and wish you?d brought a hanky. There is, however, no photo finish.
-0.625 <|###|> Until the Sports Illustrated subscription runs out at the Walt Disney Studios offices, I expect audiences will continue to be privy to cookie-cutter yarns centered around notable achievements in the sports world.
+FAIR a safe, enjoyable movie that can be watched by yourself, on a date or at your mother's house after Sunday dinner
+BAD It teeters between pleasantly generic film biography and rank manipulation.
+FAIR You could go see this just to enjoy the production design.
+GOOD Diane Lane delivers one of the finest performances of her career.
+BAD Secretariat is cliched, unrealistic and predictable, but it will make you feel good
+FAIR This horse-sports-opera boasts all the ingredients for a successful run.
+FAIR Celebrates greatness on four legs with a decent--if not record-breaking--amount of light entertainment. What're the odds?
+FAIR Easily as good of a film as "Seabiscuit," and family-friendly.
+FAIR A heavily contrived and overlong account of the greatest US horse in racing history, Disney's Secretariat still has a lot going for it as an old-fashioned family drama.
+BAD Secretariat is a good-natured but thunderingly cliched triumph-against-the-odds tale, almost every line a cornball aphorism about following your heart.
+BAD Like Secretariat himself, the film is a glossy, big-hearted slow- starter, but lacks his ability to power home ahead of the competition.
+BAD I'm sick of the simpering American morons who lap up this rubbish.
+FAIR With its linear structure, nostalgic glow and distinct lack of surprises, Secretariat seems to have wandered into cinemas after leaving its TV movie hitching post.
+BAD Just when we thought John Malkovich didn't have another semi-intentionally deranged performance left in him, he has come storming back with another uproarious turn...
+GOOD I think this is one of the year's most enjoyable family films.
+BAD Despite a decent performance from Lane as the homespun trainer, Secretariat is more blind alley than Blind Side.
+BAD This tale of wealth, horse-breeding and good old Christian faith is just about as hammy as a study of commodified horse sex can be.
+BAD Secretariat's story still feels untold.
+BAD Don't put money on it.
+BAD Bum-numbingly long bore that has a worrying number of talented actors seemingly involved for a cheque. Watch a film about dinosaurs instead; much more fun.
+FAIR This horsey, 1970s-set Disney film doesn't boast the most imaginative script and is too long and businesslike for youngsters -- yet it still produces a lump in the throat.
+BAD Disappointing, frequently dull racehorse drama that's let down by poorly written characters, a thinly stretched plot, a painful lack of dramatic tension and a cliche-heavy script.
+FAIR Yes, it's a good, solid movie about a horse that no one expected to win.
+FAIR Penny Chenery's story is good stuff. It's just that watching it, one can't escape the nagging feeling that it's not the most compelling part of the (Secretariat) story.
+GOOD ... you will believe a horse can act.
+BAD Secretariat is basically an amiable crowd pleaser. It's a good film about a great horse.
+FAIR If you like sweet, safe tales of triumph, Secretariat is a sure bet. But if you like films with a bit more tension and complexity, this romp doesn't completely satisfy.
+GOOD ...oldstyle Hollywood, family entertainment done at a very high level. It doesn't lay out all the facts and complications, but it's a very honest movie.
+FAIR Despite the Disney-fied, sentimental side of the story, 'Secretariat' hits the finish line as an effective tale about an amazing equine athlete
+FAIR Well-crafted, shamelessly -- and obviously -- manipulative fantasyland stuff, passing itself off as a 'true story,' when, in fact, it's what we call 'fact-based.
+BAD Watching Secretariat is an experience as antithetical to watching an actual horse race as it gets.
+BAD Schmaltzy, uneven and contrived [despite] thrilling horse-racing scenes and John Malkovich's hilarious performance as an eccentric trainer who walked right out of a Christopher Guest movie.
+FAIR The horse's story entertains but it would have been nice to have more of the owner's personal life explored
+BAD Crushingly unexceptional.
+BAD It's not about a horse, it's jockey, or it's trainer. It's about a horse owner. Instead of honoring the greatest race horse ever, they try to find an underdog story with Diane Lane's help.
+FAIR Secretariat rides to the Winner's Circle.
+FAIR Like most Disney features, it is an inspirational event that will touch everyone.
+GOOD A throwback to an era where Disney churned these things out by the dozen, you?ll cheer, you?ll laugh, and wish you?d brought a hanky. There is, however, no photo finish.
+FAIR Until the Sports Illustrated subscription runs out at the Walt Disney Studios offices, I expect audiences will continue to be privy to cookie-cutter yarns centered around notable achievements in the sports world.
+FAIR Jon Favreau's charismatic and convincing performance as the boxing legend is enough to recommend this biopic.
+BAD Rocky Marciano was a knockout of a fighter to say the least. It's too bad Winkler's movie about him carries no particular punch
+GOOD The football scenes are brutally real; the locker room scenes are totally authentic.
+GOOD Pro football fans may be disillusioned by this excellent, honest, and often brutal expose of the play-for-pay game.
+FAIR The leading man, Nick Nolte, has a physical authority and a clowning, irreverent manner that lend the film some semblance of continuity, even when it's about to flounder.
+FAIR Raucous football tale with effective Nolte.
+FAIR It's still fascinating to get a glimpse of what athletes sacrifice to entertain us. It would have been considerably more fascinating if more of the people involved had seemed more human.
+FAIR For a sports flick, this is unique and holds your attention for the most part.

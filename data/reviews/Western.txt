@@ -1,40 +1,53 @@
-0.7 <|###|> The film is driven more by its concept than by its plot but it's still a fun summer film.
-0.625 <|###|> Expensive, a misfire, but perfectly servicable for what it is
-0.6 <|###|> Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
-0.6 <|###|> Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
-0.5 <|###|> Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
-0.75 <|###|> Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
-0.4 <|###|> A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
-0.25 <|###|> While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
-0.75 <|###|> 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
-0.6 <|###|> Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
-0.4 <|###|> No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
-0.5 <|###|> full review at Movies for the Masses
-0.7 <|###|> we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
-0.6 <|###|> Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
-0.4 <|###|> The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
-0.875 <|###|> I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
-0.4 <|###|> So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
-0.5 <|###|> The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
-0.4 <|###|> A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
-0.3 <|###|> Overall, a dull, overblown and forgettable farrago.
-0.7 <|###|> There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
-0.6 <|###|> There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
-0.6 <|###|> I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
-0.4 <|###|> The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
-0.6 <|###|> If you can swallow the shameless set-up, it's all highly entertaining.
-0.6 <|###|> Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
-0.8 <|###|> A wild and spaced-out horse opera.
-0.4 <|###|> This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
-0.4 <|###|> Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
-0.4 <|###|> Favreau ... allows the material's imaginative possibilities to flare up and fade away.
-0.0 <|###|> The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
-0.6 <|###|> The premise does pretty much what it says on the tin.
-0.6 <|###|> For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
-0.4 <|###|> Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
-0.4 <|###|> The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
-0.4 <|###|> Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
-0.6 <|###|> Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
-0.5 <|###|> Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
-0.4 <|###|> What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
-0.6 <|###|> Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+FAIR The film is driven more by its concept than by its plot but it's still a fun summer film.
+FAIR Expensive, a misfire, but perfectly servicable for what it is
+FAIR Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
+FAIR Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
+BAD Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
+FAIR Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
+BAD A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
+BAD While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
+FAIR 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
+FAIR Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
+BAD No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
+BAD full review at Movies for the Masses
+FAIR we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
+FAIR Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
+BAD The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
+GOOD I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
+BAD So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
+BAD The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
+BAD A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
+BAD Overall, a dull, overblown and forgettable farrago.
+FAIR There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
+FAIR There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
+FAIR I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
+BAD The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
+FAIR If you can swallow the shameless set-up, it's all highly entertaining.
+FAIR Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
+GOOD A wild and spaced-out horse opera.
+BAD This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
+BAD Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
+BAD Favreau ... allows the material's imaginative possibilities to flare up and fade away.
+BAD The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
+FAIR The premise does pretty much what it says on the tin.
+FAIR For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
+BAD Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
+BAD The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
+BAD Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
+FAIR Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
+BAD Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
+BAD What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
+FAIR Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+FAIR A fascinatingly disjointed hybrid of Western and combat film.
+GOOD One of Leone's best movies -- and one of his looniest, which may be exactly why it's one of the best.
+GOOD Not exactly classic Leone, but enjoyable nonetheless as many of the great elements are in place: maverick heroes, action, and Ennio Morricone music.
+BAD The idiosyncrasies are there, all right, but they have never seemed less interesting.
+FAIR Well-plotted action, but as in most of Leone's films scenes seem to have been deleted from the American prints.
+GOOD Woefully overlooked... Top-tier widescreen action... Ennio Morricone's enchanting score and Leone's trademark flourishes handshake in wild agreement. Sucker punches its way to the top of the Italian-western mountains.
+GOOD Features one of the most glorious and unforgettable scores by Leone's composer, Ennio Morricone.
+FAIR The further adventures of immigrant mice.
+FAIR What can you say about a sequel that comes five years later and yet feels rushed?
+BAD Our sweet little Fievel has been stricken with a case of sequelitis ... but it's not too bad.
+GOOD A fast paced, highly intelligent, endlessly enjoyable matinee joyride.
+FAIR It is so gloriously unconvincing, so utterly absurd, that it achieves a kind of greatness.
+BAD A sure candidate for the worst movie ever made...

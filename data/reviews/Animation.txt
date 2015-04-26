@@ -1,33 +1,113 @@
-1.0 <|###|> Nick Park is a genius. Enough said.
-1.0 <|###|> A quest for cheese has never been more gutbustingly funny.
-0.7 <|###|> Funny for families of all ages, this animated comedy is a rare and delightful treat.
-0.75 <|###|> The Pirates! Band of Misfits is cinematic booty that shines like gold.
-0.8 <|###|> The Pirates! is the first truly great animated film of the year: a painstakingly-modelled laugh riot that boggles the mind while tickling the funnybone.
-0.625 <|###|> It's got great vocal talent and well-done animation, but it proves once again that the story is the key ingredient.
-0.9 <|###|> A rollicking good time that offers enough broad comedy mixed with more cerebral sight gags to ensure this will be a family favourite for years to come.
-0.625 <|###|> It's full of jokes for adults that will fly right over kids' heads, but retains just enough plot conflict and slapstick to keep younger audiences involved as well.
-0.7 <|###|> The Aardman folks might not have created a pirate film to rival the big screen's best, but they've created a subtle parody of pirate movies that's well worth watching.
-0.85 <|###|> Yes, the film feels childish, but in the best possible way.
-0.6 <|###|> ... enough amusing throwaway gags to keep us entertained.
-0.6 <|###|> The Pirates! Band of Misfits deserves two doubloons up. It shivered me funny bone.
-0.875 <|###|> The fun, infectious tone is set early on and never peters out. The humor is kind of like Monty Python for kids.
-0.75 <|###|> Droll and charming, and will probably appeal more to fans of Monty Python and 'The Hitchhiker's Guide to the Galaxy' than to young kids...
-0.8 <|###|> This is a very funny, very good looking movie getting lost in the fray.
-0.75 <|###|> The best laughs come around the fringes, with great throwaway gags and Grant's usual self-deprecating way with dialogue.
-0.5 <|###|> A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one.
-0.7 <|###|> Deserves no small amount of credit for being an absolute delight... and for never acting like the viewer is an idiot even as it never requires that the viewer be a genius.
-0.8 <|###|> As a running gag, the man-panzee is pretty predictable, but as an observation of how cute creatures are perpetually manipulated and abused in family entertainments, it is rather rich.
-0.875 <|###|> It's hard to emphasize enough just how intricate it is, abundant with rich details... At the same time, it's also warmly human, with characters so expressive you'll want to join the crew.
-0.8 <|###|> The majority of the film can't quite live up to this barnstorming first half hour, but it remains a delight throughout, even when the gags become a little more hit and miss.
-0.75 <|###|> Another winner from Aardman
-0.5 <|###|> I wish I could call the plot about a dodo bird 'whimsical,' but there just wasn't enough laughs from these 'Pirates.'
-0.5 <|###|> The filmmakers have said they are already dreaming up a sequel. They needn't hurry. Whatever treasures these pirates have are well buried.
-0.7 <|###|> The Pirates! Band of Misfits, succeeds in spite of a faint but persistent sense of factory settings and finishes.
-0.625 <|###|> The Pirates! Band of Misfits fares OK against most modern toon flicks but pales next to other Aardman releases. How a person chooses to rate its success depends on whether one looks at a glass of water and views it as half-full or half-empty.
-0.8 <|###|> a gem of a movie that deserves more praise and audience than it'll probably get
-0.875 <|###|> Delivers all of the laughs, giggles and guffaws land lubbers like us want in a silly film like this.
-0.6 <|###|> There is a lot to like about The Pirates!, especially for those of us who watch a lot of BBC America.
-0.6 <|###|> Young and old alike love a good pirate yarn and the stop-motion specialists at Aardman Animations deliver the goods.
-0.8 <|###|> Pirate adventure blends Victorian history, high-seas fun.
-0.8 <|###|> Pirates haven't generated this many laughs since Johnny Depp's first dip into the Caribbean.
-0.8 <|###|> Even with all the enormous pirate ships, detailed cityscapes and dazzling action, Pirates! is at its best when it focuses on the sillier, calmer moments.
+GOOD Nick Park is a genius. Enough said.
+GOOD A quest for cheese has never been more gutbustingly funny.
+FAIR Funny for families of all ages, this animated comedy is a rare and delightful treat.
+FAIR The Pirates! Band of Misfits is cinematic booty that shines like gold.
+GOOD The Pirates! is the first truly great animated film of the year: a painstakingly-modelled laugh riot that boggles the mind while tickling the funnybone.
+FAIR It's got great vocal talent and well-done animation, but it proves once again that the story is the key ingredient.
+GOOD A rollicking good time that offers enough broad comedy mixed with more cerebral sight gags to ensure this will be a family favourite for years to come.
+FAIR It's full of jokes for adults that will fly right over kids' heads, but retains just enough plot conflict and slapstick to keep younger audiences involved as well.
+FAIR The Aardman folks might not have created a pirate film to rival the big screen's best, but they've created a subtle parody of pirate movies that's well worth watching.
+GOOD Yes, the film feels childish, but in the best possible way.
+FAIR ... enough amusing throwaway gags to keep us entertained.
+FAIR The Pirates! Band of Misfits deserves two doubloons up. It shivered me funny bone.
+GOOD The fun, infectious tone is set early on and never peters out. The humor is kind of like Monty Python for kids.
+FAIR Droll and charming, and will probably appeal more to fans of Monty Python and 'The Hitchhiker's Guide to the Galaxy' than to young kids...
+GOOD This is a very funny, very good looking movie getting lost in the fray.
+FAIR The best laughs come around the fringes, with great throwaway gags and Grant's usual self-deprecating way with dialogue.
+BAD A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one.
+FAIR Deserves no small amount of credit for being an absolute delight... and for never acting like the viewer is an idiot even as it never requires that the viewer be a genius.
+GOOD As a running gag, the man-panzee is pretty predictable, but as an observation of how cute creatures are perpetually manipulated and abused in family entertainments, it is rather rich.
+GOOD It's hard to emphasize enough just how intricate it is, abundant with rich details... At the same time, it's also warmly human, with characters so expressive you'll want to join the crew.
+GOOD The majority of the film can't quite live up to this barnstorming first half hour, but it remains a delight throughout, even when the gags become a little more hit and miss.
+FAIR Another winner from Aardman
+BAD I wish I could call the plot about a dodo bird 'whimsical,' but there just wasn't enough laughs from these 'Pirates.'
+BAD The filmmakers have said they are already dreaming up a sequel. They needn't hurry. Whatever treasures these pirates have are well buried.
+FAIR The Pirates! Band of Misfits, succeeds in spite of a faint but persistent sense of factory settings and finishes.
+FAIR The Pirates! Band of Misfits fares OK against most modern toon flicks but pales next to other Aardman releases. How a person chooses to rate its success depends on whether one looks at a glass of water and views it as half-full or half-empty.
+GOOD a gem of a movie that deserves more praise and audience than it'll probably get
+GOOD Delivers all of the laughs, giggles and guffaws land lubbers like us want in a silly film like this.
+FAIR There is a lot to like about The Pirates!, especially for those of us who watch a lot of BBC America.
+FAIR Young and old alike love a good pirate yarn and the stop-motion specialists at Aardman Animations deliver the goods.
+GOOD Pirate adventure blends Victorian history, high-seas fun.
+GOOD Pirates haven't generated this many laughs since Johnny Depp's first dip into the Caribbean.
+GOOD Even with all the enormous pirate ships, detailed cityscapes and dazzling action, Pirates! is at its best when it focuses on the sillier, calmer moments.
+GOOD Nothing is put together for you, but all the pieces of the puzzle are there for you to create what you want. It's refreshing to see a movie that is completely out of the box, and doesn't follow any present forumla. THE WALL is a great rock opera.
+GOOD Visually stunning and disturbing, an essential midnight movie.
+GOOD A stunning portrayal of a slide from isolation into madness. And the music rocks, too--bonus.
+BAD One of Alan Parker's few truly bad movies.
+GOOD Visually stunning yet strangely forced tale.
+FAIR dated and self-aggrandizing but a watershed
+BAD Good music. Sick imagery.
+GOOD A midnight movie classic!
+GOOD This dark coming-of-age story is a unique romp.
+FAIR The further adventures of immigrant mice.
+FAIR What can you say about a sequel that comes five years later and yet feels rushed?
+BAD Our sweet little Fievel has been stricken with a case of sequelitis ... but it's not too bad.
+GOOD The Curse of the Were-Rabbit, featuring his heroic man-and-dog duo, Wallace and Gromit, is Park at his sublimely silly best.
+GOOD Park and co have shaped a wonderfully warm and fuzzy family adventure out of old horror clichA (C)s.
+GOOD Instead of vainly pursuing today's latest trends, only to see them turn into tomorrow's embarrassments, Park and co. fall back on the values of the past, preferring substance and craft to the fleetingly voguish.
+GOOD It's a one-joke premise, but part of Nick Park's madness/genius is the skill and detail with which he approaches it.
+FAIR With Were-Rabbit, Mr. Park establishes Gromit as the best animated canine character since Snoopy.
+GOOD Full of the British wit and kinetic action-movie thrills that have made Nick Park's cartoons so popular.
+FAIR ...cute and pleasant (yet essentially forgettable)...
+FAIR click to read review [Greek]
+BAD It's a surprising misstep from the people who gave us Chicken Run.
+GOOD The comedy is never indulged at the expense of the plot, which flies off in genuinely unexpected directions, culminating in a boundlessly inventive funfair chase sequence.
+GOOD I don't see how anyone who enjoys their animated movies won't enjoy all of this one.
+GOOD Gromit...could teach ninety percent of the actors working today something. He can say more in a glance than most actors can using their entire range of tools.
+GOOD Wallace & Gromit: The Curse of the Were-Rabbit is an inventive pseudo-thriller in the Claymation style.
+GOOD An unqualified success.
+GOOD This might be Plasticine's finest hour.
+GOOD Taken as a whole, this is a superb film and an astonishing technical achievement.
+FAIR The script this time is really better than the animation and the result is genuinely funny. This is an animated film, but it aims to please the whole family and its aim is good.
+GOOD [Not] merely one of the best animated films of the year; it's the best, and further, ranks among 2005's most satisfying cinematic experiences.
+GOOD A delight for the kids and well set to take classic status.
+GOOD Cheeky and inventive, it's the perfect Halloween movie for the kids! Or as they say, it's the world's first vegetarian horror movie.
+GOOD It doesn't feel produced; it feels made.
+GOOD It deserves to be the biggest thing in animated features since Shrek and quite possibly Toy Story.
+FAIR The first two acts of the movie are actually solid, filled with vintage W&G moments as well as some stunning animation.
+GOOD It's a ripping good yarn, to boot, breathlessly paced and seamlessly edited, but most important, resoundingly and surpassingly fun.
+GOOD Park and Box make this 85 minute film feel like a half hour with its quick moving plot line, making it perfect for children.
+GOOD It is suitable for any child who can follow a complicated story -- although there are some scary bits -- and it is equally appealing to the child hiding in any adult.
+GOOD There is something indescribably satisfying about the vaguely off-kilter world of Wallace and Gromit and its litany of details.
+FAIR There's none of the Hollywood cynicism or too-clever winks meant to instill a sense of exclusive superiority, just a sincere celebration of what makes good filmmaking and a desire to entertain.
+GOOD It is funny, exciting, and it's a fantastic piece of animation.
+FAIR Go for the beginning and the end and try to endure the middle.
+BAD A shockingly crass grab for holiday pocket money that's both infantile and endlessly patronising.
+BAD A re-hash of tired cliches and CGI effects.
+BAD That the lead character is a 'male cow' complete with udders shows how confused the picture is.
+FAIR A beatifully animated simple but fun plot, carries enough giggles for all age groups.
+BAD The animation is perfectly colorful and the voice actors earn their paychecks, but it's blatantly obvious that this thing started production without a screenplay -- and hit the screens without a plot.
+BAD Deserves to be hanging in the nearest meat locker.
+BAD This could be the film that snaps everyone's patience with Hollywood animations which have a Dell computer chip where their heart should be.
+BAD There are far better ways of keeping the kids happy.
+FAIR Good voice talent and some funny moments.
+BAD It's impossible to shake the impression that Barnyard was written by idiots. Why else would the male cows have udders?
+BAD The design is uninteresting, the characters are bland and the story is terrible.
+BAD Strictly for kids, and, as the three or four people who saw Oedekerk's previous directing effort, Kung Pow: Enter the Fist, can attest, the writer/director tends to stretch even throwaway jokes minutes past the punch line.
+FAIR Ben the Cow (the voice of Sam Elliott) has to teach his carefree son Otis (Kevin James) the responsibility of leadership over the farm animals. This is far from Otis' mind, but inevitable. Barnyard is a farm version of The Lion King with eno
+FAIR There is a nice mix of humour and pathos here. Barnyard may not be all that exceptional, but it is quite satisfying.
+BAD Not good enough for even a rental, this 'Barnyard' should be burned for fear of mad cow disease
+BAD Barnyard doesn't know if it wants to be another tiresomely 'hip' piece of post-Shrek postmodernism or a comfortably traditional kids' movie that delivers family values without the self-conscious smirk.
+BAD Could cause more gender confusion than 'Transamerica.'
+FAIR All the cows have udders - even the male ones. In real life, only female cows have udders. What kind of sick, alternate cow universe does this movie take place in anyway?
+BAD Barnyard is a one-note premise that falls flat after about 10 minutes.
+BAD "Barnyard" doesn't stink. But it's not the cream of the crop, either.
+BAD The funniest joke is the one nobody talks about: the gender confusion of male cows with udders.
+BAD Barnyard isn't a complete waste of time, it's just too familiar.
+BAD A Lion King clone that's tailored to the Fisher-Price crowd.
+BAD With shamefully obvious nods to the father/son sentimentality of traditional Disney 'toons and even an awkward love interest, Barnyard is a mishmash of modern cartoon cliches.
+BAD With 'Barnyard,' the androgynous udders, as annoying as they can be, are about the only original thing to be found in the whole movie.
+BAD never really amazing enough to separate it from the rest of the herd of great animation that we've seen this summer.
+BAD [W]hy do the male cows have udders?.. This isn't supposed to be the animated version of TransAmerica.
+BAD doesn't just violate the audience's right to entertainment, it violates animal dignity to such an extent that PETA might want to consider getting involved
+BAD The CG animation looks like rubbery plastic instead of animals, and much of it is spent on jokes related to derrieres and hindquarters.
+BAD Lesbian Cows!!! Lesbian COWS!!!! Carnivorous LESBIAN COWS!!!! Aarg!
+BAD There's barely enough of a story to sustain a short film, much less a feature.
+BAD Forget the confusion of the he-cows that populate the film; the real problem is that Barnyard is just a lousy, lousy movie.
+BAD Udderly ordinary.
+BAD Nearly every joke lays an egg.
+BAD your kid won't learn anything from Barnyard, but they might need 10 years of therapy after viewing the movie's fight scenes and COYOTES ATTACKING THE FARM.
+BAD Laughter comes from the movie's absurdity, not its comedy.
+BAD Other than confusing children, it's hard to know what the inane, tedious, mean-spirited Barnyard is trying to do.
+GOOD A most welcome, utterly delightful treat.

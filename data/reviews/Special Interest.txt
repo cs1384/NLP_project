@@ -1,73 +1,134 @@
-0.8 <|###|> Words on the screen, their power to free you, and also entrap you - if this isn't the internet's deadly blessing, what is?
-0.6 <|###|> Having recently released documentaries on clerical abuse, Mario Cuomo, Park Avenue, Lance Armstrong and, now, WikiLeaks, Gibney seems in danger of becoming an actualite machine.
-0.8 <|###|> Outstanding, cool-headed documentary.
-0.8 <|###|> A breathless, dazzling and mind-blowingly complex 130-minute story.
-0.8 <|###|> I'd have liked to know more about his private life and background but Gibney has too much other ground to cover.
-0.8 <|###|> We Steal Secrets is much concerned with conspiracy theories and may well wind up fuelling new ones.
-0.6 <|###|> A thorough and decently intentioned work, though it accepts a little too glibly the more-in-sorrow-than-in-anger line against Assange: that he is a fascinating radical who simply became a paranoid authoritarian.
-0.7 <|###|> With a subject matter that oddly feels both timely and out-of-date, this documentary is packed with telling details about WikiLeaks, Although it gets muddy as it delves into the lives of founder Julian Assange and whistleblower Bradley Manning.
-0.8 <|###|> This is saying something important. Check your Facebook settings.
-0.8 <|###|> This is an expertly organised documentary; Gibney's always are.
-0.8 <|###|> In truth, there's little in Alex Gibney's film that won't be familiar to attentive news watchers, but this skilled documentarian has mastered the art of condensing a vast and complex amount of information into a gripping and entertaining package.
-0.8 <|###|> This thorough, engrossing film shows how idealistic Aussie hacker Julian Assange took on the might of the US, exposing their military and diplomatic misconduct, then allowed his own murky personal life to tarnish his credibility.
-0.8 <|###|> The range of Gibney's subjects, the rigour of his research and the complexity of his questions make We Steal Secrets breathlessly compelling, but it's the moments of psychological probing that haunt the most.
-0.8 <|###|> Noxious government activities may warrant exposure, but Gibney points out that the whistleblowers can be pretty flawed too.
-0.8 <|###|> Alex Gibney adds to his forensic examinations of Enron and Abu Ghraib with another fine documentary.
-0.8 <|###|> A thoughtful documentary about Julian Assange, Bradley Manning, secrets, lies, power and the poorly understood nature of the internet.
-0.9 <|###|> If you're looking for a really comprehensive, clear, evenhanded and thoroughly entertaining examination of, well, the story of WikiLeaks, master documentarian Alex Gibney has gone to the trouble of providing you with one.
-0.8 <|###|> A fascinating insight into Wikileaks and the two men behind the world's largest ever whistleblowing scandal.
-0.8 <|###|> This look at WikiLeaks -- and founder Julian Assange -- makes its case long before the film stops talking.
-0.8 <|###|> It portrays a seething nest of highly volatile personalities whose motivations are fraught with ambiguities and contradictions, and a chain of actions and reactions the full impact of which has yet to be measured.
-0.8 <|###|> Alex Gibney's film is an absorbing examination of the world's most infamous information portal.
-0.75 <|###|> Which is the real Assange? This movie cannot say. It's as if Gibney threw up his hands, put the whole mess in the audience's lap and said, "Here, YOU figure this guy out."
-0.875 <|###|> Sometimes it takes a feature-length documentary to stitch together a story we think we already know.
-0.875 <|###|> Smart and opinionated, it's a great introduction to this ongoing story.
-0.875 <|###|> A real-life cyber-thriller with real-life consequences, Alex Gibney's We Steal Secrets: The Story of WikiLeaks is a riveting and revelatory documentary ...
-0.875 <|###|> Gibney builds a remarkable level of suspense, given how exhaustively WikiLeaks has been covered in the media.
-1.0 <|###|> Engaging, kinetic, revelatory and unexpected.
-0.8 <|###|> At once an awkward mingling of two complex life stories and a gripping, necessary look at how information is gathered, shared and, yes, stolen.
-0.875 <|###|> Who is "We" in the title We Steal Secrets? There's no need for a spoiler alert, but it's neither Gibney nor Assange.
-0.75 <|###|> Despite its wonky-Washington theme, We Steal Secrets ends up being a surprisingly soulful and, yes, even moving story of hubris, good intentions and mistakes.
-0.72 <|###|> The film is fascinating and provocative, deftly navigating complex personalities and shifting allegiances.
-0.875 <|###|> The movie's especially deft at exposing spin, whether it's the US media's or Assange's.
-0.75 <|###|> A fascinating account of a man who loved stirring the pot until he was the one sitting in it.
-0.8 <|###|> Gibney has created one of the signature discussions on the signature debate of the post-9/11 information-security age, namely: Who needs to know?
-0.5751000000000001 <|###|> It doesn't offer any new or surprising information or any profound analysis, so it barely scratches the multifaceted surface of Assange and remains slightly undercooked.
-0.4 <|###|> This movie has confirmed my suspicion that people need to leave Hunter S. Thompson's story alone for a while.
-0.77 <|###|> Gonzo's brilliance is in showing Thompson warts and all, without taking anything away from his greatness even as it shows his many deficiencies.
-0.9 <|###|> Alex Gibney's documentary about bad boy journalist Dr. Hunter S. Thompson is both a memorial exaltation and a lament. Gibney's masterful style balances verite and dramatic effect. He doesn't doesn't tell you what to think, but spurs you to think.
-0.8 <|###|> A definitive, accessible, even inspiring screen biography put together with thought and vitality.
-0.6666666666666666 <|###|> The film's plea that we need Thompson now more than ever is a little misty-eyed: Thompson's day was long gone by the time he put a gun to his head.
-0.9 <|###|> Much like the man himself, it's quite a piece of work.
-0.8 <|###|> Gonzo is much more than a tribute to a maverick and genuine pioneer. It's a lament for the gaping hole that Thompson left behind. The only obvious weakness is Gibney's reluctance to engage fully with Thompson's toxic personal life.
-0.6 <|###|> This documentary about his life by Alex Gibney, though entertaining in many ways, is oddly uninterested in his strengths or otherwise as a writer, the very gift for which Thompson earnestly wished to be known.
-0.6 <|###|> Director Alex Gibney has plundered 200 hours of audiotapes, hundreds of photos and personal testimony from an impressive roster of Thompson's colleagues and family to put together an even-handed portrait.
-0.6 <|###|> A straight-line journey through the good doctor's loopy myth and madness, but one that doesn't push far enough into uncharted territory. Fine as a primer, but Gibney leans more towards admiration than examination.
-0.6 <|###|> The film is content to laugh affectionately at Thompson's bad boy exploits, giggle at the impatience of a man who went hunting boar with a sub machine-gun.
-0.4 <|###|> This soft-headed hagiography is a disappointment, and at least half an hour too long.
-0.8 <|###|> Gibney says the film took so much out of him that he limped into the Sundance Festival with a ruptured disc, a green liver and spots in his eyes that will not disappear. I hope he now thinks it worth the trouble. I'm pretty sure watchers will.
-0.8 <|###|> Superbly directed, hugely entertaining documentary that's a treat for both newcomers and aficionados of Thompson's work.
-0.9 <|###|> With a wealth of archive material, documentary filmmaker Gibney assembles a remarkably astute and comprehensive look at the life of one of the most notorious journalists in American history.
-0.8 <|###|> a seminal work of talking head biography
-0.8 <|###|> Gonzo is an excellent reminder that Thompson was more than just a wild man. He was, at least for a time, a first-rate writer who covered his times and helped shape them.
-0.6 <|###|> [Gibney] is never quite able to get beyond the familiar in order to give viewers a new and penetrating look at the subject of Thompson and his work.
-0.5 <|###|> Too much time in this overly long film is spent on minutiae.
-0.875 <|###|> The rare documentary that puts you in a headlock to pin you to your seat, Gonzo: The Life and Work of Dr. Hunter S. Thompson is a bracing masterpiece.
-0.8 <|###|> Gibney thus has to negotiate a treacherous path. Its easy to romanticize a larger-than-life personality like Dr. Hunter S. Thompson, gonzo journalist, and it makes for compelling viewing. However, Dr. Hunter S. Thompson, gonzo journalist, was not exactly
-0.6 <|###|> The movie is full of itself and fun but nonessential.
-0.6 <|###|> I wanted more unearthed footage. But if you are looking for a tribute to the man, you won't find anything better.
-1.0 <|###|> Filmmaker Alex Gibney had access to those who knew the guy, the famous, the infamous and the obscure, and he paints a picture of a serious journalist who saw himself documenting 'the death of the American Dream.'
-0.75 <|###|> As informative as parts of it are, the movie is not nearly as colorful as longtime Aspen, Colo., resident Thompson.
-0.75 <|###|> In the manner of such key Thompson works as 'Fear and Loathing on the Campaign Trail '72,' the movie links entertaining personal biography with fascinating cultural history...
-0.85 <|###|> As a diverting documentary, Gonzo lives up to its subject matter - it is indulgent and witty, filled with a thousand little insights and ultimately sad. Thompson seemed obscure to his family, cartoonishly overblown to his friends.
-0.75 <|###|> Far more insightful than typical rose-colored-glasses eulogizing, the subjects are as brutally honest about Thompson's successes and shortcomings as Thompson was as a writer.
-0.6 <|###|> Gonzo director Gibney frees himself from the heady topicality of his recent documentaries...and dives right down into the deep -- and dark -- end.
-0.625 <|###|> [Director] Gibney assembles a wealth of Thompson memorabilia and first-person interviews for this often insightful and sometimes overly indulgent chronicle.
-0.8 <|###|> Reading his books will give you better insight, but it's hard to imagine a better primer into Thompson's outlaw life.
-0.625 <|###|> I was curious to see why we needed a two-hour documentary about the three-hit wonder who cast away his career halfway through life and coasted on celebrity status for 30 years. After seeing Gonzo, I'm still not convinced we do.
-0.75 <|###|> An amused and affectionate look at the writer who formed a crucial link between the New Journalism of the 1960s and today's blogosphere.
-0.625 <|###|> At its worst, the film takes a long detour into Thompson's admiration for an utterly banal 1974 Carter speech (The Powerful were sticking it to The People again) as a way to make us feel virtuous, political and leftish.
-0.75 <|###|> Thompson created a rebellious niche for himself in a business that more often than you might think channels its writers into conformist routine.
-0.7 <|###|> It's nice to be reminded, as Shakespeare taught us, that truth comes from the most unexpected places, even the booze-ree
-0.5 <|###|> If you really want to understand and appreciate [Thompson], you'd be better off reading his books.
-0.75 <|###|> Neatly balancing full-hearted celebration with evenhanded examination.
+GOOD Words on the screen, their power to free you, and also entrap you - if this isn't the internet's deadly blessing, what is?
+FAIR Having recently released documentaries on clerical abuse, Mario Cuomo, Park Avenue, Lance Armstrong and, now, WikiLeaks, Gibney seems in danger of becoming an actualite machine.
+GOOD Outstanding, cool-headed documentary.
+GOOD A breathless, dazzling and mind-blowingly complex 130-minute story.
+GOOD I'd have liked to know more about his private life and background but Gibney has too much other ground to cover.
+GOOD We Steal Secrets is much concerned with conspiracy theories and may well wind up fuelling new ones.
+FAIR A thorough and decently intentioned work, though it accepts a little too glibly the more-in-sorrow-than-in-anger line against Assange: that he is a fascinating radical who simply became a paranoid authoritarian.
+FAIR With a subject matter that oddly feels both timely and out-of-date, this documentary is packed with telling details about WikiLeaks, Although it gets muddy as it delves into the lives of founder Julian Assange and whistleblower Bradley Manning.
+GOOD This is saying something important. Check your Facebook settings.
+GOOD This is an expertly organised documentary; Gibney's always are.
+GOOD In truth, there's little in Alex Gibney's film that won't be familiar to attentive news watchers, but this skilled documentarian has mastered the art of condensing a vast and complex amount of information into a gripping and entertaining package.
+GOOD This thorough, engrossing film shows how idealistic Aussie hacker Julian Assange took on the might of the US, exposing their military and diplomatic misconduct, then allowed his own murky personal life to tarnish his credibility.
+GOOD The range of Gibney's subjects, the rigour of his research and the complexity of his questions make We Steal Secrets breathlessly compelling, but it's the moments of psychological probing that haunt the most.
+GOOD Noxious government activities may warrant exposure, but Gibney points out that the whistleblowers can be pretty flawed too.
+GOOD Alex Gibney adds to his forensic examinations of Enron and Abu Ghraib with another fine documentary.
+GOOD A thoughtful documentary about Julian Assange, Bradley Manning, secrets, lies, power and the poorly understood nature of the internet.
+GOOD If you're looking for a really comprehensive, clear, evenhanded and thoroughly entertaining examination of, well, the story of WikiLeaks, master documentarian Alex Gibney has gone to the trouble of providing you with one.
+GOOD A fascinating insight into Wikileaks and the two men behind the world's largest ever whistleblowing scandal.
+GOOD This look at WikiLeaks -- and founder Julian Assange -- makes its case long before the film stops talking.
+GOOD It portrays a seething nest of highly volatile personalities whose motivations are fraught with ambiguities and contradictions, and a chain of actions and reactions the full impact of which has yet to be measured.
+GOOD Alex Gibney's film is an absorbing examination of the world's most infamous information portal.
+FAIR Which is the real Assange? This movie cannot say. It's as if Gibney threw up his hands, put the whole mess in the audience's lap and said, "Here, YOU figure this guy out."
+GOOD Sometimes it takes a feature-length documentary to stitch together a story we think we already know.
+GOOD Smart and opinionated, it's a great introduction to this ongoing story.
+GOOD A real-life cyber-thriller with real-life consequences, Alex Gibney's We Steal Secrets: The Story of WikiLeaks is a riveting and revelatory documentary ...
+GOOD Gibney builds a remarkable level of suspense, given how exhaustively WikiLeaks has been covered in the media.
+GOOD Engaging, kinetic, revelatory and unexpected.
+GOOD At once an awkward mingling of two complex life stories and a gripping, necessary look at how information is gathered, shared and, yes, stolen.
+GOOD Who is "We" in the title We Steal Secrets? There's no need for a spoiler alert, but it's neither Gibney nor Assange.
+FAIR Despite its wonky-Washington theme, We Steal Secrets ends up being a surprisingly soulful and, yes, even moving story of hubris, good intentions and mistakes.
+FAIR The film is fascinating and provocative, deftly navigating complex personalities and shifting allegiances.
+GOOD The movie's especially deft at exposing spin, whether it's the US media's or Assange's.
+FAIR A fascinating account of a man who loved stirring the pot until he was the one sitting in it.
+GOOD Gibney has created one of the signature discussions on the signature debate of the post-9/11 information-security age, namely: Who needs to know?
+BAD It doesn't offer any new or surprising information or any profound analysis, so it barely scratches the multifaceted surface of Assange and remains slightly undercooked.
+BAD This movie has confirmed my suspicion that people need to leave Hunter S. Thompson's story alone for a while.
+FAIR Gonzo's brilliance is in showing Thompson warts and all, without taking anything away from his greatness even as it shows his many deficiencies.
+GOOD Alex Gibney's documentary about bad boy journalist Dr. Hunter S. Thompson is both a memorial exaltation and a lament. Gibney's masterful style balances verite and dramatic effect. He doesn't doesn't tell you what to think, but spurs you to think.
+GOOD A definitive, accessible, even inspiring screen biography put together with thought and vitality.
+FAIR The film's plea that we need Thompson now more than ever is a little misty-eyed: Thompson's day was long gone by the time he put a gun to his head.
+GOOD Much like the man himself, it's quite a piece of work.
+GOOD Gonzo is much more than a tribute to a maverick and genuine pioneer. It's a lament for the gaping hole that Thompson left behind. The only obvious weakness is Gibney's reluctance to engage fully with Thompson's toxic personal life.
+FAIR This documentary about his life by Alex Gibney, though entertaining in many ways, is oddly uninterested in his strengths or otherwise as a writer, the very gift for which Thompson earnestly wished to be known.
+FAIR Director Alex Gibney has plundered 200 hours of audiotapes, hundreds of photos and personal testimony from an impressive roster of Thompson's colleagues and family to put together an even-handed portrait.
+FAIR A straight-line journey through the good doctor's loopy myth and madness, but one that doesn't push far enough into uncharted territory. Fine as a primer, but Gibney leans more towards admiration than examination.
+FAIR The film is content to laugh affectionately at Thompson's bad boy exploits, giggle at the impatience of a man who went hunting boar with a sub machine-gun.
+BAD This soft-headed hagiography is a disappointment, and at least half an hour too long.
+GOOD Gibney says the film took so much out of him that he limped into the Sundance Festival with a ruptured disc, a green liver and spots in his eyes that will not disappear. I hope he now thinks it worth the trouble. I'm pretty sure watchers will.
+GOOD Superbly directed, hugely entertaining documentary that's a treat for both newcomers and aficionados of Thompson's work.
+GOOD With a wealth of archive material, documentary filmmaker Gibney assembles a remarkably astute and comprehensive look at the life of one of the most notorious journalists in American history.
+GOOD a seminal work of talking head biography
+GOOD Gonzo is an excellent reminder that Thompson was more than just a wild man. He was, at least for a time, a first-rate writer who covered his times and helped shape them.
+FAIR [Gibney] is never quite able to get beyond the familiar in order to give viewers a new and penetrating look at the subject of Thompson and his work.
+BAD Too much time in this overly long film is spent on minutiae.
+GOOD The rare documentary that puts you in a headlock to pin you to your seat, Gonzo: The Life and Work of Dr. Hunter S. Thompson is a bracing masterpiece.
+GOOD Gibney thus has to negotiate a treacherous path. Its easy to romanticize a larger-than-life personality like Dr. Hunter S. Thompson, gonzo journalist, and it makes for compelling viewing. However, Dr. Hunter S. Thompson, gonzo journalist, was not exactly
+FAIR The movie is full of itself and fun but nonessential.
+FAIR I wanted more unearthed footage. But if you are looking for a tribute to the man, you won't find anything better.
+GOOD Filmmaker Alex Gibney had access to those who knew the guy, the famous, the infamous and the obscure, and he paints a picture of a serious journalist who saw himself documenting 'the death of the American Dream.'
+FAIR As informative as parts of it are, the movie is not nearly as colorful as longtime Aspen, Colo., resident Thompson.
+FAIR In the manner of such key Thompson works as 'Fear and Loathing on the Campaign Trail '72,' the movie links entertaining personal biography with fascinating cultural history...
+GOOD As a diverting documentary, Gonzo lives up to its subject matter - it is indulgent and witty, filled with a thousand little insights and ultimately sad. Thompson seemed obscure to his family, cartoonishly overblown to his friends.
+FAIR Far more insightful than typical rose-colored-glasses eulogizing, the subjects are as brutally honest about Thompson's successes and shortcomings as Thompson was as a writer.
+FAIR Gonzo director Gibney frees himself from the heady topicality of his recent documentaries...and dives right down into the deep -- and dark -- end.
+FAIR [Director] Gibney assembles a wealth of Thompson memorabilia and first-person interviews for this often insightful and sometimes overly indulgent chronicle.
+GOOD Reading his books will give you better insight, but it's hard to imagine a better primer into Thompson's outlaw life.
+FAIR I was curious to see why we needed a two-hour documentary about the three-hit wonder who cast away his career halfway through life and coasted on celebrity status for 30 years. After seeing Gonzo, I'm still not convinced we do.
+FAIR An amused and affectionate look at the writer who formed a crucial link between the New Journalism of the 1960s and today's blogosphere.
+FAIR At its worst, the film takes a long detour into Thompson's admiration for an utterly banal 1974 Carter speech (The Powerful were sticking it to The People again) as a way to make us feel virtuous, political and leftish.
+FAIR Thompson created a rebellious niche for himself in a business that more often than you might think channels its writers into conformist routine.
+FAIR It's nice to be reminded, as Shakespeare taught us, that truth comes from the most unexpected places, even the booze-ree
+BAD If you really want to understand and appreciate [Thompson], you'd be better off reading his books.
+FAIR Neatly balancing full-hearted celebration with evenhanded examination.
+FAIR You may not want to hang around [Hunter S. Thompson] all the time, but he would be a pretty interesting guy to have over for breakfast.
+GOOD ...wildly entertaining...
+FAIR Do we get to know the real Hunter through viewing Breakfast with Hunter? Possibly. More than ever before, at least.
+GOOD Breakfast With Hunter is a cinematic exploration that is perhaps the closest you can get to Hunter Thompson without scoring an invite up to the 'fortified compound'.
+FAIR Takes a peculiarly predictable and conventional approach to its study of the godfather of gonzo journalism, Hunter S. Thompson
+BAD Curiously prosaic for the wicked incisiveness of its subject.
+GOOD Ever wish you could see what goes on behind those famed, heavily fortified walls of Owl Farm? Here's your invitation.
+FAIR "The Barefoot Bandit" never coalesces into a complete portrait of a fascinating figure, but it has its moments of difficult truth.
+FAIR ...a fascinating dossier, even if the protagonist remains somewhat an enigma. Or perhaps because of it, "The Barefoot Bandit" makes a case for a modern-day folk hero.
+FAIR Some might confuse Zenovich's indictment on the judge as a cop-out in judging Polanski. But the facts remain. There's no further insight into the heinous crime. Nor is there a new judgment to be passed on the man who committed it. Anyone looking for new r
+GOOD "Zenovich's film is a fair and skillful chronicling of the Roman Polanski case, and a study of how the circumstances of celebrity influence the carrying out of justice in the U.S. It's not an in-depth study of the filmmaker's psychology nor of how his lif
+GOOD While not apologising for his disgusting behaviour, the film puts Polanski's actions in the context of a turbulent life.
+GOOD an essential entry in Hollywood's cultural chronicle
+GOOD Mesmo tendo criado uma narrativa envolvente, coesa e impecavel a ponto de servir como base para os advogados de Polanski solicitarem o arquivamento do caso, este documentario foi ignorado pela Academia. Arre.
+GOOD This chronicle of Polanski's life, career and legal woes offers an engaging portrait of the artist.
+GOOD It's the sort of complex story Polanski himself would have excelled at telling, if he weren't busy living it.
+FAIR Though Marina Zenovich's film deals with the notorious case of the film director who pleaded guilty to having sex with a 13-year-old, the film's real subject is the California legal system turned upside down by celebrity and media pressure.
+GOOD Meticulously crafted and keenly thought out, the film also serves as a useful historical document. It illuminates its time period, delves into moral hypocrisy and shows the evolution of muck-raking celebrity journalism.
+BAD With a subject like Roman Polanski, you don't really need to do much to capture audience interest. But maybe that's the reason Roman Polanski: Wanted and Desired doesn't live up to its promise.
+GOOD Roman Polanski: Wanted and Desired, a documentary by Marina Zenovich that is also a first-rate work of reportage, makes a forceful case that the whole truth of the matter was never heard in court and Polanski was more sinned against than sinning.
+FAIR I found myself occasionally enthralled, mainly due to Polanski's haunted presence coming through, even in the form of an absent ghost.
+BAD Roman Polanski (The Pianist, Rosemary's Baby, Chinatown) is unquestionably a great filmmaker, but as Marina Zenovich's documentary Roman Polanski: Wanted and Desired perhaps unintentionally demonstrates, he's also a creep.
+FAIR She has achieved extraordinary access to the other still-living players in the case, and they all seem to be in agreement: Polanski is correct in saying the judge played with him as a cat might play with a mouse.
+GOOD This is a superb picture, sharp, open-minded, wised-up and cinematically accomplished. I wonder if any man could've handled the Polanski enigma with the same ironic intelligence [Marina] Zenovich has.
+GOOD A clever, contemplative kind of courtroom drama that utilizes the best of Hollywood filmmaking style to tell a story so strange, it must be true.
+GOOD Using tons of footage and new interviews with the victim and key legal figures -- but not the subject himself -- director Marina Zenovich shows how Polanski's darker urges were matched on a moral level by others involved in the case.
+FAIR Zenovich has made a feature worthy of its eccentric and reckless central figure at his most cynical and embittered.
+GOOD None of the interviewees in Marina Zenovich's fascinating documentary manages to make sense of the famous filmmaker's behavior or apparent thinking. But they all have compelling impressions.
+FAIR An exhaustive and riveting narrative
+BAD Its indictment ultimately feels like a secondary issue to Polanski's apparently incontrovertible guilt, which makes him--in this instance--still more victimizer than victim.
+FAIR Seeks to explore both sides of the endless debate and asks all parties to consider every angle before labeling him as a pedophile or misunderstood genius...
+GOOD Roman Polanski deserves his badge of dishonor, no question about it. This amazing documentary argues that others need to start sporting one as well.
+GOOD a great and somewhat Kafkaesque story that Polanski might have enjoyed directing... had it been fiction.
+FAIR Persuasively demonstrates Polanski was guilty as sin, yet his conviction was a miscarriage of justice.
+GOOD A subtly intelligent and sharply argued documentary.
+FAIR Is Polanski a great filmmaker who made a mistake, or a perverted coward who ran from the law instead of facing the music?
+GOOD The Central Park Five," the second best documentary of 2013, examines the case, placing in perfect context of what was happening in 1989 in NYC and how it led to evil both in Central Park and in the offices of the people trying to keep us safe.
+GOOD Like the "Paradise Lost" films, it's a shocking but clear-eyed portrait of injustice.
+GOOD The Central Park Five is such a moving piece of work, it is difficult to watch at times.
+FAIR Expect your blood pressure to rise during The Central Park Five.
+GOOD Burns and company conduct a thorough, riveting investigation that does a far better job of assessing the tragedy than the justice system did two decades before. Of course, hindsight is an advantage we all take for granted.
+GOOD A heartbreaking expose' about a rush to judgment which ruined five, innocent young lives.
+GOOD Exclusive interviews with former heads of Israel's counter terrorism agency reveal insiders' analysis about the country's policies. Fascinating. Frightening.
+FAIR How could this second crime have occurred? The film asks that question but only partly answers it, and in the process it raises an even more troubling one.
+FAIR "The Central Park Five" is worth seeing, both for the ways it's timeless and for the ways it encapsulates an era.
+GOOD What's amazing about listening to them speak now, often through tears, is the absence of bitterness.
+GOOD You'll notice something odd as you watch and your anger rises at the injustice of it all: The anger of the wrongly convicted does not.
+FAIR What keeps the film from being an impossible downer is the guts and spirit and smart words of the Central Park Five, four of whom, now freed, are interviewed at length.
+GOOD At times, this is a devastating film, one that acknowledges the desire for but refuses to buy into an easy answer.
+FAIR Among all of the case's horrors, one of the strongest is that a serial rapist ultimately cared more about the truth than the prosecution.
+GOOD An unusually good documentary about an outlandish miscarriage of justice.
+GOOD Involves a detailed reconstruction of how the story broke, was developed and was dramatized by lurid tabloid headlines.
+GOOD A wonderfully vital, illuminating study of the New York of 20-plus years ago.
+BAD ... a respectable but often tedious film that adds little to what is already well known about this episode
+GOOD A careful, thoughtful documentary that meticulously re-creates what happened on that night and details how and why everything went so terribly off-course.
+FAIR A skillfully told and important story, though less factual blow-by-blow and more time spent with the five would have been more compelling.
+FAIR Even as "The Central Park Five" seeks satisfactory answers, it stirs outrage and discouragement all over again.
+GOOD It's still chilling to see how easily "The Central Park Five" evokes those mad days of urban distrust.
+GOOD Director Jennifer Jessum, who also co-produced and co-shot the film with Simon Joseph, adeptly contextualizes White's story within the painful and complex Lakota and Pine Ridge history.
+FAIR An efficient talking heads doc that celebrates the band without deigning to hagiography.
+GOOD The Eagles live in both the present and the past.

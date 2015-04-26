@@ -1,16 +1,59 @@
-0.4 <|###|> Immaculate execution in every detail of one poor conception after another... uninspired, arrogant, and lazy.
-0.6 <|###|> Cool original camp. This is a fun little movie.
-0.6 <|###|> It's Back to the Beach writ saucy.
-0.5 <|###|> It's all enjoyable enough, but it's played so broadly that it loses whatever impact it might have had.
-0.8 <|###|> Sharp satire. Great fun.
-0.65 <|###|> A funny tongue-in-cheek comedy, cinematic commentary and murder mystery all rolled in to one.
-0.6 <|###|> It may be fluff, but it's knowing, relatively enjoyable fluff.
-0.3 <|###|> It's too much filmed theater to come alive fully on the screen.
-0.7 <|###|> A promising recipe for comedy that goes flat in the execution.
-0.6 <|###|> Has a great look, but its broad laughs at the expense of '50s and '60s cultural naivete aren't really all that clever.
-0.6 <|###|> An enjoyable, if weightless, romp.
-0.9 <|###|> Not since Rocky Horror has the film world produced such a vibrant farce of teen angst, violence, and sexual deviance.
-0.8 <|###|> Wonderfully campy entertainment that doesn't ask anything of its viewers.
-0.8 <|###|> The sort of movie that even today's superstars might love to slum around in.
-0.625 <|###|> It's best to just relax and enjoy the Party.
-0.8 <|###|> It definitively skewers the false innocence of American pop culture on the eve of the countercultural deluge.
+BAD Immaculate execution in every detail of one poor conception after another... uninspired, arrogant, and lazy.
+FAIR Cool original camp. This is a fun little movie.
+FAIR It's Back to the Beach writ saucy.
+BAD It's all enjoyable enough, but it's played so broadly that it loses whatever impact it might have had.
+GOOD Sharp satire. Great fun.
+FAIR A funny tongue-in-cheek comedy, cinematic commentary and murder mystery all rolled in to one.
+FAIR It may be fluff, but it's knowing, relatively enjoyable fluff.
+BAD It's too much filmed theater to come alive fully on the screen.
+FAIR A promising recipe for comedy that goes flat in the execution.
+FAIR Has a great look, but its broad laughs at the expense of '50s and '60s cultural naivete aren't really all that clever.
+FAIR An enjoyable, if weightless, romp.
+GOOD Not since Rocky Horror has the film world produced such a vibrant farce of teen angst, violence, and sexual deviance.
+GOOD Wonderfully campy entertainment that doesn't ask anything of its viewers.
+GOOD The sort of movie that even today's superstars might love to slum around in.
+FAIR It's best to just relax and enjoy the Party.
+GOOD It definitively skewers the false innocence of American pop culture on the eve of the countercultural deluge.
+BAD Laughable exploitation film results in a complete waste of time and talent.
+BAD One of those movies that's a nailbiter for a little kid, but laughable when revisted as an adult.
+BAD The movie swarmed into local theaters yesterday; unfortunately, the insects and the people in this melange of ersatz science-fiction and dull adventure deserve one another.
+BAD Teaming Collins with ants is pure Bert I. Gordon.
+BAD We interrupt this soap opera to bring you... a monster movie!
+BAD Bring on the DDT. A silly giant-bug opus with cheap special effects.
+BAD What's scarier: ants or Bert I. Gordon movies?
+BAD If you find it when you are flipping through channels at three in the morning, turn it off and try to get some sleep.
+FAIR Gory, scary, violent sci-fi is too intense for kids.
+FAIR ...boasts a tongue-in-cheek, downright campy sensibility that ultimately pervades every aspect of the proceedings.
+GOOD Insanely subversive...functions as a visually dazzling science-fiction action picture, a philosophical challenge, and a hilarious, incisive comedy. [Blu-Ray]
+GOOD Paul Verhoeven's satiric, 1997, sci-fi, war-movie romance is admittedly an acquired taste.
+FAIR Utter stupidities and other scientific impossibilities litter the script like trooper body parts . . . [yet] the film does something right
+BAD What galls me is the film's marketing, moral and ideological cynicism.
+FAIR Cut Paul Verhoeven some slack!
+BAD Lacking the sophistication of the average comic book, it compensates with panoramic attack sequences, reminiscent of the Japanese swarm attacks in American war movies.
+FAIR Repulsively thrilling and often downright hilarious.
+FAIR A jaw-dropping experience, so rigorously one-dimensional and free from even the pretense of intelligence it's hard not to be astonished and even mesmerized by what is on the screen.
+BAD It's a cynical wasteland from beginning to end.
+BAD A nonstop splatterfest so devoid of taste and logic that it makes even the most brainless summer blockbusters look intelligent.
+BAD The enjoyment you get from watching Starship Troopers is similar to the pleasure felt from a loud 'ZAP' from a bug zapper. And about as deep.
+BAD This flick wallows in just about every moth-ridden cliche known to the film industry and relies almost entirely on naked teenage girls and recycled special effects for what it deems excitement.
+FAIR Not the return to form for Verhoeven many have called it -- in the end, it is just a step in the right direction.
+BAD In the hands of Verhoeven, the mammoth sci-fi battle flick is one of the most astonishingly bad films ever made, a monument to inept filmmaking on a colossal scale.
+BAD Nobody objects to a simple gross-out proposition on the big screen. But here too, Starship Troopers doesn't quite make it.
+BAD The action sequences are heavily laden with special effects, but curiously joyless.
+FAIR It's a sci-fi gorefest, and a fun one at that.
+GOOD The battle scenes are phenomenal, both for the realistic and clever special effects and for the humor.
+GOOD Intellectually, I can't really condone that message, but I have to admit that this will be a guilty pleasure of mine for years to come.
+GOOD It is pure Verhoeven -- broad, brash and ultraviolent, and all up there on the screen.
+FAIR Enjoyable despite the little redemption it offers humankind, Troopers fits every Hollywood convention while simultaneously breaking each one.
+FAIR May just be the bug movie to end all bug movies.
+GOOD Terrific entertainment.
+BAD As written by Ed Neumeier, who also wrote Verhoeven's much tighter Robocop, Starship Troopers never gets over its 180-degree swivel from teen-age love story to murderous destruction.
+FAIR As a brainless bubblegum movie, it's an exhilarating adrenaline rush.
+FAIR Just enjoy the fun of watching Neil Patrick Harris in his audition for Apt Pupil and roll with it, baby.
+FAIR This is powerful entertainment that appeals to our most basic instincts.
+GOOD Manages to be both fun and shocking -- sometimes in the same shot.
+GOOD Director Paul Verhoeven is back in his subversively nimble RoboCop groove with the uproariously cheeky Starship Troopers.
+FAIR Flawed but fun.
+BAD Gimmicky sci-fi, outer space B-flick.
+BAD Very bad special effects mar this only-average s-f excursion. Only the giant rat-bat-whatever creature has any flair.
+BAD They don't make 'em like this anymore. It's easy to see why.

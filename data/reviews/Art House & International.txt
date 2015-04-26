@@ -1,85 +1,223 @@
-0.625 <|###|> The acting is excellent and the bickering is the best. ... Director Iris Green and the terrific cast leave us with a lot of promise for future films.
-0.875 <|###|> Lukas Moodyson's debut feature has a grainy, immediate feel that nicely enhances the story's emotional honesty -- a quality that our own popular teen movies have only just begun to embrace.
-0.8 <|###|> Nobody can deny the honesty or the outright sincerity this film has.
-0.75 <|###|> Dahlstrom and especially Liljeberg are first-rate.
-0.875 <|###|> Unfortunately, as the plot develops, it shies away from exploring that discontent, in favor of demonstrating precisely the kind of naivete and sweetness that one would expect to find in any teen romance.
-0.875 <|###|> It's just an incredibly insightful character drama about true, awkward, beautiful first love, and it's all the better for it. Oh, and that last shot is as cute as it gets.
-0.75 <|###|> High school, small town, teenagers in hormone hell -- or is that heaven?
-0.9 <|###|> A completely charming reality-based romantic fantasy, both sweet-natured and sympathetic.
-0.75 <|###|> The movie is funny, gentle, and true.
-0.5 <|###|> The film has some charm and a winning simplicity but not an iota of depth.
-0.5 <|###|> I'm tired of teens talking about make-up and making out. A lesbian twist to an otherwise standard story just isn't enough to make it compelling.
-0.75 <|###|> Successfully captures the frenzied angst and boredom of youth, as well as the powerful, unbridled emotions of first love.
-0.8 <|###|> A poignant exploration of the cruelty and anguish of teenage existence.
-1.0 <|###|> Right away this film grabs attention with documentary-style close- ups and upends teen movie cliches.
-0.8 <|###|> Incredibly fun, incredibly entertaining, and worth watching in all respects.
-0.8 <|###|> A breath of fresh air in a genre too often controlled by Hollywood teen-pap.
-0.875 <|###|> One of the most honest and heartfelt teen dramas ever to grace the screen.
-0.75 <|###|> Director To doesn't sacrifice substance to style. The over-the-top violent flourishes, more psychological than paint-the-screen-red literal, will burrow under your skin.
-0.6 <|###|> Whatever he lacks in narrative drive, To is still the master of style.
-0.8 <|###|> The exposition is perfectly balanced with bloody action and muscular set-pieces.
-0.875 <|###|> The film's violence erupts in rare, staccato bursts, all the more horrifying for coming out of nowhere.
-0.6 <|###|> If it is too stylistically modest to win converts among the multiplex crowd, the film surely rewards followers of the genre.
-0.875 <|###|> If Machiavelli's The Prince and Sun Tzu's The Art of War translate to other centuries and cultures, so might Election and Triad Election.
-0.75 <|###|> [Director To's] talent for documentary-style realism and navigating complex political systems sets him apart, though his nationalism puts him squarely in the mainstream.
-0.5 <|###|> The moviea(TM)s most powerful component is political.
-0.75 <|###|> This remains a well-crafted genre movie, and one that promises further developments in its final scene.
-0.625 <|###|> Like the late John Frankenheimer, director To marries his drama with action and superb composition to achieve compelling results at times.
-0.875 <|###|> Into a season of Hollywood blockbusters, this import arrives with the impact of a high-velocity bullet.
-0.8 <|###|> Like any good sequel, this film takes what is familiar with the original's concept -- in this case, an internecine struggle for supremacy -- and deepens it.
-0.625 <|###|> Triad Election is slow-burning and sedate, even dull in stretches. But it deserves credit for presenting such a courageous critique of the Chinese system, which combines the worst aspects of official corruption and mob lawlessness.
-0.625 <|###|> Like many Hong Kong mob movies, Triad Election</i is not about fleshed-out characters or intricate stories. It's a blunt, grimly efficient action movie that underlines the lies gangsters tell themselves so they, at least, can believe they're good guys.
-0.875 <|###|> Johnny To's superb, graceful new Triad Election actually has quite a bit in common with Francis Coppola's Godfather trilogy.
-0.8333333333333334 <|###|> The director rejuvenates the genre by connecting the dots between a criminal subculture and a much bigger sociological picture. He's finally given HK cinema its very own Godfather.
-0.75 <|###|> Two screenwriters were responsible for this fascinating look at organized crime in China, as well as the continuing governmental policies that make the triads thrive.
-0.875 <|###|> Comparisons to The Godfather Part II are inevitable. For a change, such comparisons are also favorable.
-0.8 <|###|> Guided by To's elegant camera moves, less visceral than most Hong Kong filmmakers, the Election movies put a fresh, intriguing spin on the usual cinematic gangster motifs.
-0.75 <|###|> Ready for The Godfather with a distinctly Hong Kong flavor?
-0.75 <|###|> Plenty of films owe a debt to The Godfather, but it's rare to see inspiration used as successfully as it is here.
-0.8 <|###|> expertly captures the battle between old-school gangster pathology and the new cutthroat tactics of the corporate criminal
-0.75 <|###|> The parallels to all three Godfather films are there, if you care to look, but the Election films have other pleasures.
-0.9 <|###|> The surfaces gleam as luxuriously in Johnnie To's exemplary gangster thriller Triad Election as those in a similarly slicked-up Hollywood film, but the blood on the floor here seems stickier.
-1.0 <|###|> Maybe you don't know much about this director. But if you like Hong Kong action movies where everyone's constantly killing each other in a ballet of bullets (and other weapons), then [Johnny To] is your new Francis Ford Coppola.
-0.875 <|###|> This disturbing social order, both inside and outside the Triad, is the series' defining characteristic. Because of its emphasis, this installment satisfies, even if another sequel feels inevitable.
-0.625 <|###|> Election 2 is equal in precision to its predecessor, exuding a perpetual sense of danger.
-0.75 <|###|> The unusually subtle yet eloquent debut of Israeli director Haim Tabakman...
-0.75 <|###|> The movie respects the Jewish tradition of inquiry and debate; it unreels as a sort of dramatic dialogue that acknowledges the benefits and terrors of both religious fundamentalism and personal freedom.
-0.6 <|###|> This restrained piece from first-time Israeli film-maker Haim Tabakman explores the tension between faith and sexuality in Jerusalem.
-0.6 <|###|> The simplicity of the tale is its strength and the acting of Zohar Strauss as Aaron and Ran Danker as Ezri is entirely natural.
-0.9 <|###|> It's almost impossible to imagine anyone making a gay romance between two orthodox Jews. And yet this film is subtle and sensitive, and full of earthy honesty as it explores a seriously difficult situation.
-0.75 <|###|> A sensitively directed and movingly acted story of forbidden love.
-0.8 <|###|> A very human story quietly unfolds with a compelling understatement in this dour but deeply-felt drama from director Haim Tabakman.
-0.6 <|###|> This is responsible, restrained and intelligent, but if anything, the risky subject material is handled with too much caution.
-0.2 <|###|> Director Haim Tabakman avoids sensationalism so assiduously that his film has slightly less eroticism than the average party political broadcast.
-0.8 <|###|> It's not just the subject matter of impossible love that recalls Brokeback Mountain, but the same aching sadness and pathos.
-1.0 <|###|> One of the best and most moving love stories you'll ever see. Absolutely top draw.
-0.6 <|###|> Tabakman makes evocative use of enclosed spaces and silences, and tempers the melodrama with a sociological authenticity that confirms the centrality of belief in Jewish culture.
-0.8 <|###|> Slow and often silent, it's an extraordinarily disciplined film that respects, if not honours, the milieu of its story...
-0.4 <|###|> Worthy in theme, honourable in intent, oddly bloodless in execution.
-0.6 <|###|> Director Haim Tabakman conjures up the sad mood very skilfully, with natural lighting, measured pace and an unexpected electronic soundtrack. In fact, it's probably my favourite film about the romantic love between two Jewish guys since Superbad.
-0.6 <|###|> The film's urgent point about the need for understanding is made with dignity and an appreciable tinge of sorrow.
-0.6 <|###|> Impressively directed, thought-provoking and emotionally engaging drama that plays like an orthodox Jewish version of Brokeback Mountain, though the pacing and minimalistic dialogue might prove too arthouse for some tastes.
-0.875 <|###|> As oblique and laconic as its characters, Tabakman's moral tale rises to a melancholy spirituality.
-0.9 <|###|> "Brokeback Mezuzah": Tender, affecting, brave, and beautifully wrought,
-0.825 <|###|> Brave, provocative and gently engrossing with well-nuanced performances.
-0.9 <|###|> It moves slowly and patiently through the ordeal of a single soul, illuminating in the process a cosmos of intense and hidden feeling.
-0.625 <|###|> Quiet, sober and tense, the movie makes some interesting points, but it lacks the emotional firepower of Brokeback Mountain.
-0.6 <|###|> The drama's moments of inspiration vindicate its desultory proceedings.
-0.6 <|###|> Haim Tabakman's feature directing debut fascinates for the powerful, multi-layered themes that percolate beneath its visually spare and delicately told story.
-0.8 <|###|> Unusually sensitive look into the hearts of nonconformists in an extremely conforming community as the different risks they take and the choices they make are quite moving.
-0.6 <|###|> Bellocchio famously took on the Catholic Church and the Italian family in his frenetic first film ... Now 40 years later, Bellocchio's attack on the same institutions is calmer and more temperate.
-0.75 <|###|> Enigmatic and mesmerizing.
-0.75 <|###|> An artful look at religious hypocrisy, interfamily dynamics and the way people wrestle with personal history long after the original events are over.
-0.75 <|###|> It's a bit of a mess but strong stuff nevertheless.
-0.75 <|###|> Exceptionally handsome, somber film.
-0.5 <|###|> It's almost as if screenwriter/director Marco Bellocchio wants to exorcise personal demons rather than entertain.
-0.625 <|###|> The quizzically abrupt ending leaves [too many] questions, and the viewer, hanging.
-0.75 <|###|> It is a riveting, rich portrait of an atheist who thinks he's resistant to faith but may be in the throes of a feverish conversion.
-0.8 <|###|> Bellocchio's complex drama is held together by the tight and focused performance of Castellitto.
-0.6 <|###|> It's a sly, subtle portrait of systematic hypocrisy (try to count the number of times faith is referred to as an 'insurance policy') and the mysterious way fate binds children to their parents.
-0.625 <|###|> An edgy drama unwinds with an emotional letdown.
-1.0 <|###|> This superbly filmed Italian drama stands with Bellocchio's best work.
-0.8 <|###|> Marco Bellocchio's expansive, memorable film floats and plummets like a box kite in a storm on drafts of melodrama, mysticism and humor.
-0.6 <|###|> My Mother's Smile overflows with mildly interesting ideas and characters, but the end result is decidedly tepid.
-0.6 <|###|> Flawed but fascinating portrait of Vatican politics.
-0.625 <|###|> Bellocchio has a way of spelling everything out for the audience; nonetheless, the film's intellectualism is both provocative and remarkably playful.
+FAIR The acting is excellent and the bickering is the best. ... Director Iris Green and the terrific cast leave us with a lot of promise for future films.
+GOOD Lukas Moodyson's debut feature has a grainy, immediate feel that nicely enhances the story's emotional honesty -- a quality that our own popular teen movies have only just begun to embrace.
+GOOD Nobody can deny the honesty or the outright sincerity this film has.
+FAIR Dahlstrom and especially Liljeberg are first-rate.
+GOOD Unfortunately, as the plot develops, it shies away from exploring that discontent, in favor of demonstrating precisely the kind of naivete and sweetness that one would expect to find in any teen romance.
+GOOD It's just an incredibly insightful character drama about true, awkward, beautiful first love, and it's all the better for it. Oh, and that last shot is as cute as it gets.
+FAIR High school, small town, teenagers in hormone hell -- or is that heaven?
+GOOD A completely charming reality-based romantic fantasy, both sweet-natured and sympathetic.
+FAIR The movie is funny, gentle, and true.
+BAD The film has some charm and a winning simplicity but not an iota of depth.
+BAD I'm tired of teens talking about make-up and making out. A lesbian twist to an otherwise standard story just isn't enough to make it compelling.
+FAIR Successfully captures the frenzied angst and boredom of youth, as well as the powerful, unbridled emotions of first love.
+GOOD A poignant exploration of the cruelty and anguish of teenage existence.
+GOOD Right away this film grabs attention with documentary-style close- ups and upends teen movie cliches.
+GOOD Incredibly fun, incredibly entertaining, and worth watching in all respects.
+GOOD A breath of fresh air in a genre too often controlled by Hollywood teen-pap.
+GOOD One of the most honest and heartfelt teen dramas ever to grace the screen.
+FAIR Director To doesn't sacrifice substance to style. The over-the-top violent flourishes, more psychological than paint-the-screen-red literal, will burrow under your skin.
+FAIR Whatever he lacks in narrative drive, To is still the master of style.
+GOOD The exposition is perfectly balanced with bloody action and muscular set-pieces.
+GOOD The film's violence erupts in rare, staccato bursts, all the more horrifying for coming out of nowhere.
+FAIR If it is too stylistically modest to win converts among the multiplex crowd, the film surely rewards followers of the genre.
+GOOD If Machiavelli's The Prince and Sun Tzu's The Art of War translate to other centuries and cultures, so might Election and Triad Election.
+FAIR [Director To's] talent for documentary-style realism and navigating complex political systems sets him apart, though his nationalism puts him squarely in the mainstream.
+BAD The moviea(TM)s most powerful component is political.
+FAIR This remains a well-crafted genre movie, and one that promises further developments in its final scene.
+FAIR Like the late John Frankenheimer, director To marries his drama with action and superb composition to achieve compelling results at times.
+GOOD Into a season of Hollywood blockbusters, this import arrives with the impact of a high-velocity bullet.
+GOOD Like any good sequel, this film takes what is familiar with the original's concept -- in this case, an internecine struggle for supremacy -- and deepens it.
+FAIR Triad Election is slow-burning and sedate, even dull in stretches. But it deserves credit for presenting such a courageous critique of the Chinese system, which combines the worst aspects of official corruption and mob lawlessness.
+FAIR Like many Hong Kong mob movies, Triad Election</i is not about fleshed-out characters or intricate stories. It's a blunt, grimly efficient action movie that underlines the lies gangsters tell themselves so they, at least, can believe they're good guys.
+GOOD Johnny To's superb, graceful new Triad Election actually has quite a bit in common with Francis Coppola's Godfather trilogy.
+GOOD The director rejuvenates the genre by connecting the dots between a criminal subculture and a much bigger sociological picture. He's finally given HK cinema its very own Godfather.
+FAIR Two screenwriters were responsible for this fascinating look at organized crime in China, as well as the continuing governmental policies that make the triads thrive.
+GOOD Comparisons to The Godfather Part II are inevitable. For a change, such comparisons are also favorable.
+GOOD Guided by To's elegant camera moves, less visceral than most Hong Kong filmmakers, the Election movies put a fresh, intriguing spin on the usual cinematic gangster motifs.
+FAIR Ready for The Godfather with a distinctly Hong Kong flavor?
+FAIR Plenty of films owe a debt to The Godfather, but it's rare to see inspiration used as successfully as it is here.
+GOOD expertly captures the battle between old-school gangster pathology and the new cutthroat tactics of the corporate criminal
+FAIR The parallels to all three Godfather films are there, if you care to look, but the Election films have other pleasures.
+GOOD The surfaces gleam as luxuriously in Johnnie To's exemplary gangster thriller Triad Election as those in a similarly slicked-up Hollywood film, but the blood on the floor here seems stickier.
+GOOD Maybe you don't know much about this director. But if you like Hong Kong action movies where everyone's constantly killing each other in a ballet of bullets (and other weapons), then [Johnny To] is your new Francis Ford Coppola.
+GOOD This disturbing social order, both inside and outside the Triad, is the series' defining characteristic. Because of its emphasis, this installment satisfies, even if another sequel feels inevitable.
+FAIR Election 2 is equal in precision to its predecessor, exuding a perpetual sense of danger.
+FAIR The unusually subtle yet eloquent debut of Israeli director Haim Tabakman...
+FAIR The movie respects the Jewish tradition of inquiry and debate; it unreels as a sort of dramatic dialogue that acknowledges the benefits and terrors of both religious fundamentalism and personal freedom.
+FAIR This restrained piece from first-time Israeli film-maker Haim Tabakman explores the tension between faith and sexuality in Jerusalem.
+FAIR The simplicity of the tale is its strength and the acting of Zohar Strauss as Aaron and Ran Danker as Ezri is entirely natural.
+GOOD It's almost impossible to imagine anyone making a gay romance between two orthodox Jews. And yet this film is subtle and sensitive, and full of earthy honesty as it explores a seriously difficult situation.
+FAIR A sensitively directed and movingly acted story of forbidden love.
+GOOD A very human story quietly unfolds with a compelling understatement in this dour but deeply-felt drama from director Haim Tabakman.
+FAIR This is responsible, restrained and intelligent, but if anything, the risky subject material is handled with too much caution.
+BAD Director Haim Tabakman avoids sensationalism so assiduously that his film has slightly less eroticism than the average party political broadcast.
+GOOD It's not just the subject matter of impossible love that recalls Brokeback Mountain, but the same aching sadness and pathos.
+GOOD One of the best and most moving love stories you'll ever see. Absolutely top draw.
+FAIR Tabakman makes evocative use of enclosed spaces and silences, and tempers the melodrama with a sociological authenticity that confirms the centrality of belief in Jewish culture.
+GOOD Slow and often silent, it's an extraordinarily disciplined film that respects, if not honours, the milieu of its story...
+BAD Worthy in theme, honourable in intent, oddly bloodless in execution.
+FAIR Director Haim Tabakman conjures up the sad mood very skilfully, with natural lighting, measured pace and an unexpected electronic soundtrack. In fact, it's probably my favourite film about the romantic love between two Jewish guys since Superbad.
+FAIR The film's urgent point about the need for understanding is made with dignity and an appreciable tinge of sorrow.
+FAIR Impressively directed, thought-provoking and emotionally engaging drama that plays like an orthodox Jewish version of Brokeback Mountain, though the pacing and minimalistic dialogue might prove too arthouse for some tastes.
+GOOD As oblique and laconic as its characters, Tabakman's moral tale rises to a melancholy spirituality.
+GOOD "Brokeback Mezuzah": Tender, affecting, brave, and beautifully wrought,
+GOOD Brave, provocative and gently engrossing with well-nuanced performances.
+GOOD It moves slowly and patiently through the ordeal of a single soul, illuminating in the process a cosmos of intense and hidden feeling.
+FAIR Quiet, sober and tense, the movie makes some interesting points, but it lacks the emotional firepower of Brokeback Mountain.
+FAIR The drama's moments of inspiration vindicate its desultory proceedings.
+FAIR Haim Tabakman's feature directing debut fascinates for the powerful, multi-layered themes that percolate beneath its visually spare and delicately told story.
+GOOD Unusually sensitive look into the hearts of nonconformists in an extremely conforming community as the different risks they take and the choices they make are quite moving.
+FAIR Bellocchio famously took on the Catholic Church and the Italian family in his frenetic first film ... Now 40 years later, Bellocchio's attack on the same institutions is calmer and more temperate.
+FAIR Enigmatic and mesmerizing.
+FAIR An artful look at religious hypocrisy, interfamily dynamics and the way people wrestle with personal history long after the original events are over.
+FAIR It's a bit of a mess but strong stuff nevertheless.
+FAIR Exceptionally handsome, somber film.
+BAD It's almost as if screenwriter/director Marco Bellocchio wants to exorcise personal demons rather than entertain.
+FAIR The quizzically abrupt ending leaves [too many] questions, and the viewer, hanging.
+FAIR It is a riveting, rich portrait of an atheist who thinks he's resistant to faith but may be in the throes of a feverish conversion.
+GOOD Bellocchio's complex drama is held together by the tight and focused performance of Castellitto.
+FAIR It's a sly, subtle portrait of systematic hypocrisy (try to count the number of times faith is referred to as an 'insurance policy') and the mysterious way fate binds children to their parents.
+FAIR An edgy drama unwinds with an emotional letdown.
+GOOD This superbly filmed Italian drama stands with Bellocchio's best work.
+GOOD Marco Bellocchio's expansive, memorable film floats and plummets like a box kite in a storm on drafts of melodrama, mysticism and humor.
+FAIR My Mother's Smile overflows with mildly interesting ideas and characters, but the end result is decidedly tepid.
+FAIR Flawed but fascinating portrait of Vatican politics.
+FAIR Bellocchio has a way of spelling everything out for the audience; nonetheless, the film's intellectualism is both provocative and remarkably playful.
+BAD Marijuana legalization is a hot button issue, ripe for boundary-pushing humor. Don't Legalize It oddly pulls back at the very moment when it should be charging forward with all its might.
+BAD Given how established their roles are, Don't Legalize It could really use some sort of narrative pull, but it is mostly just content to stand in the middle and watch everyone circle in their fitfully funny ruts.
+BAD It gets as stale as pot left too long in the freezer.
+FAIR You've got to take your toque off to a dumb movie that is clever enough to try to rook Ottawa politicians into doing the right thing for the wrong reason.
+BAD It's tolerable because director Mike Clattenburg, who created the series, overlays the stumblebum ineptitude with a layer of affection.
+GOOD ...a crazed road trip to Chuckleville.
+BAD Cool! clearly aspires to be in the tradition of lost-boys masterpieces Los Olvidados and Pixote, but is too exploitative to succeed as a cautionary tale and too cautious to succeed as an exploitation picture.
+GOOD A textbook example of the perfect crowd-pleaser.
+GOOD The biggest impression left by Yojimbo is the characterization of Sanjuro, whose iconography of stoic cool (that inspired Clint Eastwood's antiheroic "Man with No Name") is consistently undercut with dashes of comical realism...[Blu-ray]
+GOOD This is one of those movies where it sounds like none of it should work and yet all of it somehow does.
+GOOD Even Eastwood's Man With No Name is inspired, perhaps, by the samurai in Yojimbo.
+GOOD The explosive outbursts of violence in Yojimbo are superbly choreographed, with Kurosawa's customary use of a telephoto lens creating a hallucinatory feeling.
+BAD Despite the sometime appearance of the whole thing as a forthright travesty, it does have stretches of excitement and cinematic power.
+GOOD Japan's definitive leading man, Toshiro Mifune, wields wits that are even deadlier than his Katana. Funny, clever, and never a dull moment.
+GOOD It is fair to say that, without Yojimbo, certain key aspects of Western cinema would not be the same today.
+GOOD Every shot in this film is a textbook study of camera movement and placement, composition in depth, and the use of deep-focus photography.
+GOOD There's no denying its snappiness. Whenever you shut your brain off, it hums amicably right along.
+GOOD Overall, 'twas a good movie, albeit kind of strange.
+GOOD One of Japan's great contributions to cinema, the inspiration for spaghetti Westerns and the introduction of a new kind of film hero.
+GOOD Great beginning and ending, but drags a bit in the middle.
+GOOD Massive amounts of swordplay and treachery turn it into one of the most entertaining and best Kurosawa films.
+FAIR Lots of fun....sexy, slick and surprisingly novel
+FAIR What it loses in novelty and subtlety it makes up for in its earnest depiction of love and individual human decency in the face of societal cruelty.
+FAIR Dealing with the Balkan wars, this ambitious and compassionate art film interweaves three stories (one set in London) that contrast the calm beauty of the Macedonian landscape with the harowing violence that erups within its borders.
+FAIR Unfortunately not the masterpiece I hoped for, but still a thought-provoking trio of intertwined stories set in the war-torn Balkans.
+GOOD Impecable.
+FAIR the film offers Americans an empathetic glimpse of the country we revolted against all those years ago.
+GOOD About more than Bosnia: it's about the immigrant experience; it's about tolerance; it's about making a difference; it's about learning to make the best of what one has.
+GOOD full of plausible evolutions of current technology with a believable if not pleasant feel for how these changes will fit into our world.
+GOOD what you'll be left with after seeing Sleep Dealer is not a collection of cool scenes so much as a collection of compelling questions about where our world is headed
+BAD Sleep Dealer is flawed, but still vibrant and inventive. Whether he finds larger budgets or keeps doing movie like this, Rivera is definitely a filmmaker to follow.
+FAIR Alex Rivera's overstuffed but intriguing feature debut, Sleep Dealer, takes a speculative leap into Tijuana's near future, imagining the next evolution of cheap labor.
+FAIR Clearly, Rivera knows one of the great gifts of the sci-fi genre. An uncanny world invites new ways of seeing. It offers new chances to ask the hard -- and too often, hardened -- questions.
+FAIR The combination of rusty amateurism, future technology, and clear-and-present politics creates a trippy time-space kick: This dusty little movie feels like yesterday, today, and tomorrow.
+GOOD Adventurous, ambitious and ingeniously futuristic, Sleep Dealer is a welcome surprise.
+GOOD Sleep Dealer is an unusually thoughtful science fiction film, using the speculative energy of the genre to explore some troubling and complex contemporary issues.
+BAD A jumbled vision ... too many predictable lines like, 'Sometimes you control the machine, and sometimes the machine controls you.'
+FAIR Modest sci-fi entry out of Mexico %u2013 about the ultimate offshore labor force - shows impressive vision but lacks the story to keep it going.
+FAIR Demonstrates the difficulties that result from leaving home to find work, but in classic B-movie fashion it has a lot of fun with it too:
+GOOD Wristcutters: A Love Story is like a suicidal Wizard of Oz.
+BAD It is a staggeringly awful road movie, not much enlivened by the presence of Tom Waits as a wizened participant.
+FAIR The purgatorial premise is pleasingly eccentric but, in the end, Wristcutters falls victim to its washed-out mood, and limps bloodlessly to a close.
+BAD A dreary, self-consciously quirky indie flick that seems to go on forever, despite an economical running time.
+BAD Veering from witty to occasionally trite, Wristcutters: A Love Story has plenty of originality on its side, but never manages to be more than the sum of its self-consciously quirky parts.
+FAIR A little self-consciously kooky but with an ace soundtrack that combines gypsy punksters Gogol Bordello with real-life plug-pullers this sure beats putting your head in the oven.
+FAIR Dark subject matter, but Goran Dukic's film is whimsical and determinedly optimistic about life.
+FAIR For the better part of the journey this a bizarrely uplifting yarn - razor sharp, you might say.
+BAD Opportunities to comment on the ethical grey areas of suicide are mostly squandered and, as the pointless digressions begin to pile up, your mind begins to drift from the action on screen.
+GOOD Enjoyably quirky black comedy that's clearly destined to become a cult movie amongst the Gothic contingent.
+FAIR Despite being occasionally hilarious, director Goran Dukic should have toned down the wackiness.
+BAD Another indie director more interested in style than substance.
+BAD If you're going to make a comedy about suicide, you'd better make sure the jokes land. There are people out there who could use a laugh.
+FAIR It has 'midnight movie' written all over it.
+FAIR Wristcutters is a small film of ambitions nicely scaled to the performances and story. Who knew that affectless characters could be so oddly affecting?
+FAIR Wristcutters opens with what proves to be its best scene, one that could stand alone as a brilliant short subject.
+GOOD The vision of life after death varies between the religious and the non-religious, the optimists and the pessimists and the believers and non-believers. There are few after-life stories, though, as unique and humorous as this.
+FAIR All this sounds rather grim, and indeed it is -- but this backward Heaven Can Wait is also, thanks to [director] Dukic's inventive imagination, surprisingly involving and ultimately sweet.
+FAIR Wristcutters is a cut above most low-budget American indies, with something original to say about the human condition and an artful way of saying it.
+BAD Goran Dukic's film starts off seeming hip and funky and dark, but almost immediately runs out of steam. It feels like a short carelessly padded to feature length.
+BAD The future of Wristcutters as a cult favorite is less assured. Rather than benefiting from repeated viewings, the movie's charm is pretty much spent after the first half hour.
+FAIR We witness the birth of a new genre, the Post-Slasher Movie.
+FAIR Croatian filmmaker Goran Dukic's debut feature turns out to be a sweetly grim lark: a road film through Limbo.
+FAIR ...more whimsical and charming than you would ever expect from a picture about suicide.
+FAIR Though it goes a bit wonky toward the end and seems to travel a very long way to drive home a rather simple point, Wristcutters: A Love Story remains a wonderfully evocative experience.
+BAD Almost 40 years ago Easy Rider established that road trips can make great independent films. Or at least cheap ones. But when booking a room inside the pearly gates, cheap may not be exactly what you're looking for.
+BAD Screenwriter/director Goran Dukic can't quite decide on a tone. The film is at times lighthearted, almost effervescent, and then it's so dark that it becomes depressingly bleak.
+FAIR Wristcutters is quite a bit darker than most mainstream romantic comedies. As you might not expect, it's also quite a bit more inventive and far wittier than most mainstream romantic comedies.
+GOOD Goran Dukic, working from a short story by Etgar Kiret, has fashioned a life-after-death that is both somber and silly.
+BAD The witless Wristcutters holds all the fascination of a train wreck. Youa(TM)ll stay in your seat just to see if ita(TM)ll get any worse, and you wona(TM)t be disappointed.
+FAIR The Girl Who Kicked The Hornet's Nest doesn't exactly give the Millennium trilogy the explosive send-off it deserves, and stacked against the other two movies in the series, it's perhaps the weakest story of the three.
+GOOD This film ends up being more of a courtroom drama, and yet it's almost as equally thrilling as the first film in the series.
+FAIR Unlike its two predecessors, The Girl Who Kicked the Hornet's Nest boasts a briskly-paced opening half hour that proves effective at immediately drawing the viewer into the movie...
+FAIR For me the most deadening aspect of these films is the presence of Michael Nykvist as Blomqvist; he seems to have a personality by-pass, and remains expressionless at all times, no matter what's going on.
+BAD The best thing that can be said about the excruciatingly dull, badly made closing chapter in this punishingly bad Swedish crime trilogy is that it really whets the appetite for the upcoming American version.
+GOOD Seeing the first two films -- The Girl with the Dragon Tattoo and The Girl Who Played with Fire -- will make the third film more satisfying.
+BAD Lisbeth Salander, played by Noomi Rapace, spends most of the story constrained -- first in the hospital, then in prison. What fun is that?
+BAD The third and final entry in Stieg Larsson's enormously successful series is perhaps the least thrilling, but it's easily the most satisfying.
+GOOD Finale of dark subtitled Swedish trilogy still very violent.
+FAIR Semi-satisfying, if you can keep up.
+GOOD The gap between this and Dragon Tattoo is pretty big -- this won't be on my '10 Best' list and Tattoo might -- but as the rest of the story, it does nicely.
+FAIR While the events are fascinating and entertaining, the film itself is less emotionally involving or viscerally thrilling.
+BAD Much of it still plays like bad Thomas Harris...
+GOOD A pick-up after the second film, if not as assured as the first. Rapace sets a high watermark for Rooney Mara in David Fincher's remakes.
+BAD One final course of Europudding that may leave audiences feeling less satisfied than simply tired and bloated.
+BAD A more apt title would be 'The Girl Who Sat Quietly in a Dimly Lit Room'.
+BAD This is the most disappointing end to a trilogy since Sam Raimi's Spider-Man 3.
+FAIR Anyone who has invested in the trilogy will savour the mixture of dread and anticipation as the cat-and-mouse game reaches a stirring conclusion.
+BAD A bunch of evil old men get their comeuppance in 'The Girl Who Kicked the Hornet's Nest,' but the girl who messes with their nest does hardly anything at all.
+BAD The third and worst of Stieg Larsson's trilogy is poorly directed, under-energised and unthrilling.
+GOOD A compelling mix of 70s-style conspiracy thriller, courtroom procedural and psychological drama...
+GOOD The powerful performances by the leads, unobtrusive direction that is exemplified in a beguiling courtroom clash, and Larsson's deftly interwoven fabric of treachery and compassion all ensure that we are left yearning for more.
+BAD As well as being conventional, The Girl Who Kicked is also confusing, dull and grubby (do we really need to see examples from a child-porn site?).
+BAD Is the Millennium Trilogy over? Can we go home?
+BAD The Girl Who Makes Us Wish We Were Anywhere Else.
+FAIR The final film based on Stieg Larsson's bestselling thriller trilogy opens with a whimper but ends with a bang.
+GOOD As ever, Rapace steals every scene she's in, maintaining Lisbeth's moody enigma whether she's lying on her sick bed, making a memorable court entrance in full punk regalia, or taking care of family business.
+FAIR This remains watchable thanks to Nyqvist and Rapace but the lacklustre direction, lack of pace and bloated script ensure that it's closer to the mediocre nature of the second film than the brilliance of the first.
+GOOD ...could be read as the passion of Lisbeth Salander, as she undergoes a kind of secular crucifixion at the hands of the Swedish establishment ...
+FAIR It's enough to see Rapace's Salander smile, however tentatively, however briefly, however unlikely. Those white teeth framed by black-on-black everything? They bite.
+FAIR The series is quite satisfying as a whole, in the manner of the type of well-made, limited-episode crime program that might appear on AMC or HBO.
+BAD The Matrix: Revolutions of the Millennium Trilogy.
+BAD While Rapace remains a strong and captivating actress in the title role, the film is remarkably bad. In fact, it's easily one of the year's worst movies. Boring beyond belief.
+BAD The Millennium Trilogy follows a similar pattern as The Matrix Trilogy, and that's not a compliment.
+FAIR The European equivalent of The Matrix Revolutions, this third chapter finds a once-vibrant saga largely coasting on the fumes of its well-regarded predecessors.
+BAD When your series' most compelling character remains mute and largely on the periphery of the action (albeit all decked out in punker regalia, including a big Mohawk), something is seriously amiss.
+FAIR This 148-minute movie is best appreciated if you have already watched the first two movies or read the books. It is not intended to be a standalone film. Neophytes will find themselves lost and confused without sufficient background to fully appreciate...
+FAIR Fascinating study of criminal justice in the crumbling Nazi empire of 1944.
+BAD It crouches but -- alas -- never springs.
+FAIR It is so gloriously unconvincing, so utterly absurd, that it achieves a kind of greatness.
+BAD A sure candidate for the worst movie ever made...
+FAIR ...unabashed fantasy...
+BAD The plotting is too obvious, too contrived and too convenient.
+GOOD Friedrich isn't particularly sharp, but Riemelt's wonderfully nuanced performance gives him intricate layers of feeling.
+BAD Nearly every point made in Before the Fall, be it about militarism or the secret sexual codes of fascism, is made too obviously, or has been made before, in films from Cabaret to Europa, Europa.
+FAIR It asks us to sympathize with teenage boys being groomed for National Socialist glory, and for that reason alone, it absorbs.
+FAIR ... hooks you by focusing on Friedrich's very human story.
+BAD One senses that Gansel took the most egregious stories from his research and stuffed them all into the shapeless script.
+BAD The film is a competent but callow work dealing with a monstrous subject that automatically rejects callowness.
+FAIR The best thing about Gansel's film is it doesn't ask you to absolve anyone; it only tries to make everyone a little more human.
+FAIR Gansel and his screenwriting partner, Maggie Gansel, bring not a whiff of fresh nor penetrating insight to these subjects.
+GOOD A work of exemplary craftsmanship, crisp and forthright yet modulated by subtle nuances, Before the Fall ranks high among the year's films.
+FAIR While the background of the story is fascinating and enlightening, the foreground story could be more complex and original. The plot is a good story whose arc is a little overly familiar. Still the production values are high and the story is compelling.
+FAIR The movie's own moral stance is above reproach, and the two leads are engaged enough to make you care about the outcome.
+GOOD Bankrupt fascist politics and a talent in the ring combine to force decisions no teenager should have to make.
+FAIR It's a handsomely mounted production that benefits greatly from location shooting and sharp attention to historical detail.
+FAIR The acting is believable; the photography, atmospheric; and the moral, unmistakable.
+FAIR Nazis were once innocent children -- that, at least, is the notion behind Dennis Gansel's overcooked wartime drama about the ill-fated friendship between two teenage boys at a training school for elite German military recruits.
+BAD Though well-made, Before the Fall never really comes to cinematic life.
+BAD I guarantee you nothing this cheesy happened during World War I.
+GOOD Set in Berlin in 1942, Dennis Gansel's intensely beautiful film brings us inside Hitler's network of elite schools to groom young Germans for positions of power.
+FAIR A convincing German morality play about the Nazi's amoral worship of strength and power.
+BAD A polished, German-tinged Dead Poets Society with budding SS automatons subbing in for privileged Vermont WASPs.
+FAIR Gansel crafts story and characters to show us a rare but possible youth of Nazi Germany whose inborn morality is not subject to "training.
+BAD an interesting mess
+FAIR There are moments of absolute magic.
+FAIR Nearly a masterpiece
+GOOD by every definition, a beautiful film: it's lovely to look at--and perhaps even moreso to listen to; and the acting is exquisite.
+FAIR A good-spirited fable ... it's the type of movie that either you'll love or you'll hate. Count me in the former category.

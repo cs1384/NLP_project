@@ -30,7 +30,7 @@ import org.json.JSONObject;
 public class Crawler {
     Set<String> ids;
     Set<String> genres;
-    String delimiter = " <|###|> ";
+    String delimiter = " ";
     
     public Crawler(){
         ids = new HashSet<String>();
@@ -150,8 +150,9 @@ public class Crawler {
                 }
                 String quote = j.getString("quote");
                 if(quote.equals("")) continue;
+                String mark = getMark(score);
                 for(String g : list){
-                    map.get(g).write(score+this.delimiter+quote+"\n");
+                    map.get(g).write(mark+this.delimiter+quote+"\n");
                 }
                 count++;
             }
@@ -160,6 +161,12 @@ public class Crawler {
         }
         for(String g : genres) map.get(g).close();
         System.out.println("=== PROCESSED "+count+" REVIEWS ===");
+    }
+    
+    private String getMark(double score){
+        if(score>=0.8) return "GOOD";
+        if(score>=0.6) return "FAIR";
+        else return "BAD";
     }
     
     public void collectReviews(String idsPath, int max) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
@@ -236,7 +243,7 @@ public class Crawler {
         //cl.getIds(keywords);
         // get genres based on first 500 ids and store genres to .ser
         //cl.collectReviews("data/ids.ser", 500);
-        cl.collectReviewsForGenres("data/genres.ser", "data/ids.ser", 100);
+        cl.collectReviewsForGenres("data/genres.ser", "data/ids.ser", 500);
     }
 
 }

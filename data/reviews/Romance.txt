@@ -1,48 +1,255 @@
-0.875 <|###|> Lukas Moodyson's debut feature has a grainy, immediate feel that nicely enhances the story's emotional honesty -- a quality that our own popular teen movies have only just begun to embrace.
-0.8 <|###|> Nobody can deny the honesty or the outright sincerity this film has.
-0.75 <|###|> Dahlstrom and especially Liljeberg are first-rate.
-0.875 <|###|> Unfortunately, as the plot develops, it shies away from exploring that discontent, in favor of demonstrating precisely the kind of naivete and sweetness that one would expect to find in any teen romance.
-0.875 <|###|> It's just an incredibly insightful character drama about true, awkward, beautiful first love, and it's all the better for it. Oh, and that last shot is as cute as it gets.
-0.75 <|###|> High school, small town, teenagers in hormone hell -- or is that heaven?
-0.9 <|###|> A completely charming reality-based romantic fantasy, both sweet-natured and sympathetic.
-0.75 <|###|> The movie is funny, gentle, and true.
-0.5 <|###|> The film has some charm and a winning simplicity but not an iota of depth.
-0.5 <|###|> I'm tired of teens talking about make-up and making out. A lesbian twist to an otherwise standard story just isn't enough to make it compelling.
-0.75 <|###|> Successfully captures the frenzied angst and boredom of youth, as well as the powerful, unbridled emotions of first love.
-0.8 <|###|> A poignant exploration of the cruelty and anguish of teenage existence.
-1.0 <|###|> Right away this film grabs attention with documentary-style close- ups and upends teen movie cliches.
-0.8 <|###|> Incredibly fun, incredibly entertaining, and worth watching in all respects.
-0.8 <|###|> A breath of fresh air in a genre too often controlled by Hollywood teen-pap.
-0.875 <|###|> One of the most honest and heartfelt teen dramas ever to grace the screen.
-0.87 <|###|> Dreyer goes to the Christian heart of the matter in this film. Damned powerful.
-1.0 <|###|> Carl Theodor Dreyer's 1943 parable about witch-finding and witch-burning in 17th-century Denmark is coldly brilliant.
-1.0 <|###|> A compelling family melodrama and a sombre exploration of how men co-opt religious dogma to oppress and punish female desires.
-1.0 <|###|> Day of Wrath is probably the simplest of the Dreyer films that I've seen, but it is still a great work.
-1.0 <|###|> Dreyer was a master of conveying emotion in a way that can only be called "literary"
-1.0 <|###|> A study of good and evil, repression and oppression, sexuality and guilt, Day of Wrath is a truly spiritual film.
-0.2 <|###|> Things are so cheap they didn't even spring for uniforms for the so-called cops; everybody seems to be wearing their street clothes.
-0.75 <|###|> The unusually subtle yet eloquent debut of Israeli director Haim Tabakman...
-0.75 <|###|> The movie respects the Jewish tradition of inquiry and debate; it unreels as a sort of dramatic dialogue that acknowledges the benefits and terrors of both religious fundamentalism and personal freedom.
-0.6 <|###|> This restrained piece from first-time Israeli film-maker Haim Tabakman explores the tension between faith and sexuality in Jerusalem.
-0.6 <|###|> The simplicity of the tale is its strength and the acting of Zohar Strauss as Aaron and Ran Danker as Ezri is entirely natural.
-0.9 <|###|> It's almost impossible to imagine anyone making a gay romance between two orthodox Jews. And yet this film is subtle and sensitive, and full of earthy honesty as it explores a seriously difficult situation.
-0.75 <|###|> A sensitively directed and movingly acted story of forbidden love.
-0.8 <|###|> A very human story quietly unfolds with a compelling understatement in this dour but deeply-felt drama from director Haim Tabakman.
-0.6 <|###|> This is responsible, restrained and intelligent, but if anything, the risky subject material is handled with too much caution.
-0.2 <|###|> Director Haim Tabakman avoids sensationalism so assiduously that his film has slightly less eroticism than the average party political broadcast.
-0.8 <|###|> It's not just the subject matter of impossible love that recalls Brokeback Mountain, but the same aching sadness and pathos.
-1.0 <|###|> One of the best and most moving love stories you'll ever see. Absolutely top draw.
-0.6 <|###|> Tabakman makes evocative use of enclosed spaces and silences, and tempers the melodrama with a sociological authenticity that confirms the centrality of belief in Jewish culture.
-0.8 <|###|> Slow and often silent, it's an extraordinarily disciplined film that respects, if not honours, the milieu of its story...
-0.4 <|###|> Worthy in theme, honourable in intent, oddly bloodless in execution.
-0.6 <|###|> Director Haim Tabakman conjures up the sad mood very skilfully, with natural lighting, measured pace and an unexpected electronic soundtrack. In fact, it's probably my favourite film about the romantic love between two Jewish guys since Superbad.
-0.6 <|###|> The film's urgent point about the need for understanding is made with dignity and an appreciable tinge of sorrow.
-0.6 <|###|> Impressively directed, thought-provoking and emotionally engaging drama that plays like an orthodox Jewish version of Brokeback Mountain, though the pacing and minimalistic dialogue might prove too arthouse for some tastes.
-0.875 <|###|> As oblique and laconic as its characters, Tabakman's moral tale rises to a melancholy spirituality.
-0.9 <|###|> "Brokeback Mezuzah": Tender, affecting, brave, and beautifully wrought,
-0.825 <|###|> Brave, provocative and gently engrossing with well-nuanced performances.
-0.9 <|###|> It moves slowly and patiently through the ordeal of a single soul, illuminating in the process a cosmos of intense and hidden feeling.
-0.625 <|###|> Quiet, sober and tense, the movie makes some interesting points, but it lacks the emotional firepower of Brokeback Mountain.
-0.6 <|###|> The drama's moments of inspiration vindicate its desultory proceedings.
-0.6 <|###|> Haim Tabakman's feature directing debut fascinates for the powerful, multi-layered themes that percolate beneath its visually spare and delicately told story.
-0.8 <|###|> Unusually sensitive look into the hearts of nonconformists in an extremely conforming community as the different risks they take and the choices they make are quite moving.
+GOOD Lukas Moodyson's debut feature has a grainy, immediate feel that nicely enhances the story's emotional honesty -- a quality that our own popular teen movies have only just begun to embrace.
+GOOD Nobody can deny the honesty or the outright sincerity this film has.
+FAIR Dahlstrom and especially Liljeberg are first-rate.
+GOOD Unfortunately, as the plot develops, it shies away from exploring that discontent, in favor of demonstrating precisely the kind of naivete and sweetness that one would expect to find in any teen romance.
+GOOD It's just an incredibly insightful character drama about true, awkward, beautiful first love, and it's all the better for it. Oh, and that last shot is as cute as it gets.
+FAIR High school, small town, teenagers in hormone hell -- or is that heaven?
+GOOD A completely charming reality-based romantic fantasy, both sweet-natured and sympathetic.
+FAIR The movie is funny, gentle, and true.
+BAD The film has some charm and a winning simplicity but not an iota of depth.
+BAD I'm tired of teens talking about make-up and making out. A lesbian twist to an otherwise standard story just isn't enough to make it compelling.
+FAIR Successfully captures the frenzied angst and boredom of youth, as well as the powerful, unbridled emotions of first love.
+GOOD A poignant exploration of the cruelty and anguish of teenage existence.
+GOOD Right away this film grabs attention with documentary-style close- ups and upends teen movie cliches.
+GOOD Incredibly fun, incredibly entertaining, and worth watching in all respects.
+GOOD A breath of fresh air in a genre too often controlled by Hollywood teen-pap.
+GOOD One of the most honest and heartfelt teen dramas ever to grace the screen.
+GOOD Dreyer goes to the Christian heart of the matter in this film. Damned powerful.
+GOOD Carl Theodor Dreyer's 1943 parable about witch-finding and witch-burning in 17th-century Denmark is coldly brilliant.
+GOOD A compelling family melodrama and a sombre exploration of how men co-opt religious dogma to oppress and punish female desires.
+GOOD Day of Wrath is probably the simplest of the Dreyer films that I've seen, but it is still a great work.
+GOOD Dreyer was a master of conveying emotion in a way that can only be called "literary"
+GOOD A study of good and evil, repression and oppression, sexuality and guilt, Day of Wrath is a truly spiritual film.
+BAD Things are so cheap they didn't even spring for uniforms for the so-called cops; everybody seems to be wearing their street clothes.
+FAIR The unusually subtle yet eloquent debut of Israeli director Haim Tabakman...
+FAIR The movie respects the Jewish tradition of inquiry and debate; it unreels as a sort of dramatic dialogue that acknowledges the benefits and terrors of both religious fundamentalism and personal freedom.
+FAIR This restrained piece from first-time Israeli film-maker Haim Tabakman explores the tension between faith and sexuality in Jerusalem.
+FAIR The simplicity of the tale is its strength and the acting of Zohar Strauss as Aaron and Ran Danker as Ezri is entirely natural.
+GOOD It's almost impossible to imagine anyone making a gay romance between two orthodox Jews. And yet this film is subtle and sensitive, and full of earthy honesty as it explores a seriously difficult situation.
+FAIR A sensitively directed and movingly acted story of forbidden love.
+GOOD A very human story quietly unfolds with a compelling understatement in this dour but deeply-felt drama from director Haim Tabakman.
+FAIR This is responsible, restrained and intelligent, but if anything, the risky subject material is handled with too much caution.
+BAD Director Haim Tabakman avoids sensationalism so assiduously that his film has slightly less eroticism than the average party political broadcast.
+GOOD It's not just the subject matter of impossible love that recalls Brokeback Mountain, but the same aching sadness and pathos.
+GOOD One of the best and most moving love stories you'll ever see. Absolutely top draw.
+FAIR Tabakman makes evocative use of enclosed spaces and silences, and tempers the melodrama with a sociological authenticity that confirms the centrality of belief in Jewish culture.
+GOOD Slow and often silent, it's an extraordinarily disciplined film that respects, if not honours, the milieu of its story...
+BAD Worthy in theme, honourable in intent, oddly bloodless in execution.
+FAIR Director Haim Tabakman conjures up the sad mood very skilfully, with natural lighting, measured pace and an unexpected electronic soundtrack. In fact, it's probably my favourite film about the romantic love between two Jewish guys since Superbad.
+FAIR The film's urgent point about the need for understanding is made with dignity and an appreciable tinge of sorrow.
+FAIR Impressively directed, thought-provoking and emotionally engaging drama that plays like an orthodox Jewish version of Brokeback Mountain, though the pacing and minimalistic dialogue might prove too arthouse for some tastes.
+GOOD As oblique and laconic as its characters, Tabakman's moral tale rises to a melancholy spirituality.
+GOOD "Brokeback Mezuzah": Tender, affecting, brave, and beautifully wrought,
+GOOD Brave, provocative and gently engrossing with well-nuanced performances.
+GOOD It moves slowly and patiently through the ordeal of a single soul, illuminating in the process a cosmos of intense and hidden feeling.
+FAIR Quiet, sober and tense, the movie makes some interesting points, but it lacks the emotional firepower of Brokeback Mountain.
+FAIR The drama's moments of inspiration vindicate its desultory proceedings.
+FAIR Haim Tabakman's feature directing debut fascinates for the powerful, multi-layered themes that percolate beneath its visually spare and delicately told story.
+GOOD Unusually sensitive look into the hearts of nonconformists in an extremely conforming community as the different risks they take and the choices they make are quite moving.
+BAD It's probably best to think of the film as an extended music video, a watershed moment for movie sound tracks, and not much more.
+FAIR ...there is so much good music involved...it easily distracts one's mind from the clunky histrionics.
+BAD The musical performances are memorable, everything else is forgettable
+BAD Bland Prince vehicle that takes itself far too seriously.
+FAIR intriguingly well-told story
+BAD Those who are looking for a two-hour music video with a coherent story will not be disappointed.
+GOOD The performers have a bit of a wink behind their performances, and so the artificiality meshes together neatly.
+BAD Purple Rain shares a trump card--its set list--with casual Prince fans, who are advised to reach for the soundtrack album instead.
+FAIR Purple Rain's gazillion-selling soundtrack album has more or less eclipsed the film in pop culture history books.
+FAIR Short people of Hollywood...DANCE!
+GOOD it isn't much of a movie, but it's one hell of a show
+GOOD A classic '80s rock movie, whose soundtrack was perhaps the best album of the decade.
+FAIR Prince is one of the most talented musicians of our time. His movie doesn't quite reflect that, but it's in Minneapolis, so it's cool.
+FAIR So-so picture that is most notable for the terrific musical sequences featuring Prince and his band.
+FAIR You'll have a rockin' good time!
+BAD Where are all those people who called this "the Citizen Kane of rock movies" hiding?
+FAIR Just as the relationships at the core of this drama, The Yellow Handkerchief is one big compromise. Make do with the lackluster parts and receive something uniquely pleasant.
+FAIR A well-acted little film, The Yellow Handkerchief captures the loneliness of these characters and the sparks of hope they harbor, despite everything.
+FAIR This uplifting film is an indie gem with a wonderful payoff that will bring you to tears. The acting is superlative and makes this emotionally moving experience good to the last drop.
+BAD When The Yellow Handkerchief finally hooks into the meat of Hamill's source story, the narrative tension puts enough wind in the film's sails to arrive at its corny but sentimentally satisfying conclusion.
+BAD The only positive thing about the aimless film The Yellow Handkerchief is the idea that William Hurt may be ready for his Jeff Bridges moment.
+FAIR The unhurried direction of Udayan Prasad and the unafraid choices of the sure-footed cast keep this character-driven drama afloat.
+FAIR The Yellow Handkerchief is a love story. Two, really. At its center is the sweetly fractured ticking of a broken heart on the mend.
+FAIR The story arc of Handkerchief is entirely predictable, and the direction is pedestrian. But its pleasures are to be found in the graceful acting of Hurt and Bello...
+FAIR This modest but moving indie ensemble piece puts three estimable actors in a convertible, sets them on a long drive to post-Katrina Louisiana and lets the character dynamics do the rest.
+FAIR The Yellow Handkerchief is a surprisingly moving drama -- a throwback to the small, character-driven indies of yesteryear.
+FAIR Even Stewart, an untutored colt of an actress who can toggle between natural grace and utter haplessness, finds her groove here.
+FAIR You don't need an original story for a movie. You need original characters and living dialogue.
+BAD Sluggish. Torpid. Boring.
+BAD Prasad's take on the well-traveled folk tale (it didn't originate with Hamill -- he was just smart enough to put it down on paper) won't win any Oscars...
+FAIR The sleepy scenery and charming performances -- Stewart escapes her vampires and reminds everyone what the fuss used to be about -- keep The Yellow Handkerchief from blowing it.
+FAIR With tired eyes, a hesitant stoop and thinning hair, William Hurt makes only occasional appearances in films these days, but he's forgotten nothing about the kind of niche acting that informed his early work and won him a coveted Best Actor Oscar.
+GOOD Kristen Stewart, just 17 at the time the movie was shot (several months before filming began on the first "Twilight" picture), navigates the swells of teenage confusion with precocious confidence.
+BAD Director Udayan Prasad knows how to maximize tight spaces and closed-up characters, but Stewart underwhelms with her churlish pout and Southern twang, while Redmayne is simply annoying.
+FAIR The romantic drama earns solid marks for atmosphere, moving shots of post-Katrina New Orleans and acting-few do sad-and-wise better than William Hurt-but each theme is hit a bit too hard and predictably.
+GOOD Subtly powerful road trip film OK for most teens.
+GOOD A road movie about three travelers in post-Katrina Louisiana and their quest to avoid a bleak and dark future.
+GOOD Erin Dignam's episodic script, brimming with humor and honest emotion -- and the pitch-perfect direction of Udayan Prasad -- thankfully avoids manipulating the audience at every turn.
+FAIR William Hurt, who specializes in playing high-strung, upscale neurotics, brings his formidable skills to The Yellow Handkerchief.
+FAIR a refreshingly dimensional four-character ensemble piece
+BAD Well-shot and well-acted, but also so consistently lightweight that it risks disappearing from the screen as you watch it.
+BAD A wispy story of revelation that's blessed with gorgeously photographed Southern discomfort, and beset by on-the-nose dialogue and awkward time-shifting.
+BAD The film fails to provide Kristen Stewart the courtesy of a role with scene-stealing potential.
+GOOD [Arthur] Cohn has assembled a quartet of gifted actors who are captivating under Prasad's perceptive direction.
+FAIR Yellow Handkerchief is just another quiet character piece that may make its way to theaters in limited release, but won't cause any waves.
+GOOD If you have been with Jesse and Celine through the twists and turns, slips and stumbles of their romantic journey then their long, flowing, deceptively gripping conversations ripple with the realities of life.
+GOOD Maybe we'll see more of them in another nine years. But if not, if things end here in this perfect trilogy, then that's enough to consider it as perhaps the greatest cinematic love story of all time.
+GOOD The movie's funny at times and difficult at others, and ends absolutely perfectly. The best of the three.
+GOOD Delpy and Hawke talk and talk and talk but it is all fascinating.
+GOOD Like the Up series, a return to visit old friends
+GOOD Making a movie with nothing more than smart dialogue and fine performances is a dying art, but Linklater, Hawke and Delpy remind us that it's a skill worth saving.
+GOOD Before Midnight feels like the natural extension of the series, and will be everything fans of it could have hoped for.
+FAIR The trouble with those first two film was their souffle-light scenarios...Here, however, things are much juicier as infidelity, commitment, divorce, resentment and all the other soul-sapping things that clock in when you hit your 40s come into play.
+GOOD ...in the surprising third act, the film comes together as a plausible horror show of how good intentions and real affection can give way to vicious, realistic psychic combat. (
+FAIR ...Before Midnight bears too few similarities to its thoroughly superior predecessors.
+GOOD The release of each sequel is becoming an event, so it's particularly great to see Before Midnight not only meeting expectations but raising the bar.
+FAIR Before Midnight is no romance. It's a horror movie.
+GOOD Takes its traditional romantic tale into more insightful territories.
+GOOD Hawk and Delpy know just how to get under your skin. Their onscreen alter egos fit like a glove, and witnessing their ageing, nagging, toying love is a true privilege.
+GOOD What lifts Linklater's trilogy above your average dialogue-heavy indie is not just the intelligence of the conversation but its frankness and humor.
+GOOD The 'Before' trilogy is a vacation for me. I am taken away, and it is never for long enough. I genuinely feel lucky to have these movies.
+GOOD I'm not sure this is the end of Richard Linklater's 'Before' trilogy. It's perfection just as it is, but then again, Linklater has nine more years to work on the sequel.
+GOOD Loving words mix with personal attacks, the magic moments with the unintended slights, as we witness the occasional desperation of imperfect people doing the best they can when life moves beyond meet-cute and courtship. That's authentic.
+GOOD Linklater and his players bring an end to the fantasy and welcome the thrilling ups and bitter downs of reality to this love story.
+GOOD The duo, clearly so comfortable in their characters' skin, indulge in intelligent banter, sharp humour and emotional truths.
+GOOD So much better written than contemporary novels, this film is a literary as well as cinematic achievement to cherish. For grown-ups.
+GOOD None of the films is faultless in itself, but, tinted with complementary tones, the complete cycle comes as close to perfection as any trilogy in cinema history.
+GOOD It's been 18 years since Hawke, Delpy and Linklater introduced us to Jesse and Celine, and their story just gets richer, funnier and more punchy each time we see them. In 1995's Before Sunrise, they were idealistic 23-year-olds.
+FAIR Hawke and Delpy are as believably real as any screen couple can ever be.
+GOOD This is one of the few sequels for which the cliche 'eagerly awaited' is truly applicable.
+GOOD Predictably, it's just as great as the first two.
+FAIR By the end, Before Midnight inches towards a dawn of charm. But it's a troubled trip.
+GOOD As an organic experiment in collaboration between actors and director, it is a triumph, co-created and co-owned by Delpy, Linklater and Hawke.
+GOOD Hawke and Delpy, who are both credited on the script too, have never found co-stars to bounce off more nimbly or bring out richer nuances in their acting.
+GOOD The performances and dialogue are wonderfully naturalistic; a reminder that the best special effects are often the cheapest.
+GOOD Before Midnight is about the nature of long-term relationships, and the way love deepens and grows but also finds itself subject to the complications of maturity. Smart, insightful, and poignant.
+GOOD For those who witnessed Jesse and Celine's tentative getting together as inter railing students almost twenty years ago, it's reassuring to see them still in love.
+GOOD Brilliantly directed, superbly written and impeccably acted, this is a thoroughly enjoyable, thought-provoking and emotionally engaging drama that perfectly complements the previous two films.
+GOOD It remains as engaging, illuminating, honest and funny as its predecessor; here's hoping we revisit Jesse and Celine in another decade or so.
+GOOD There has never been a picture like David O. Selznick's production of Gone With the Wind.
+GOOD Clark Gable and Vivien Leigh create their own sizzle as Rhett Butler and Scarlett O'Hara in a lavish four-hour epic that juxtaposes scenes of jaw-dropping majesty with moments of elegant intimacy and playful verbal jousting.
+GOOD No one watches Gone with the Wind for historical accuracy. What keeps us coming back is four-hours of epic romance in gorgeous Technicolor.
+FAIR Too clumsy a thing to be taken seriously, with its romanticisation of slavery and its problematic approach to rape, Gone With The Wind is nevertheless a work of considerable power.
+GOOD Running to nearly four hours and boasting at least three directors, this epic American Civil War romantic drama is more of a symbol of the Hollywood studio system than a mere movie.
+FAIR The performances of eternally glittering movie stars Vivien Leigh and Clark Gable ... exist in a league of their own, demanding rapt attention in scene after scene.
+GOOD Ginormous in both scale and emotional wallop, MGM's epic is still a cinematic event to be savoured.
+GOOD Brimming with colour and passion, it pulls its emotional kick from tremendous performances, not least from Vivien Leigh and Clark Gable as the love-hate lovers.
+FAIR The golden standard for classic Hollywood bombast, this one.
+FAIR If ever the phrase, "They don't make 'em like they used to" could fit a film, this is it.
+GOOD The epic film that to this day stands as the benchmark against which all other epics are judged.
+GOOD Gone with the Wind is still dated, but it's a dynamite kind of antiquity.
+GOOD It's impossible not to be carried away by the rich arterial force of this storytelling.
+GOOD Grand old Hollywood at its most magnificent and melodramatic. Say what you like about the soapy characterisation and plotting, the spectacle flattens all in its wake.
+GOOD A lost Hollywood art: the epic melodrama.
+GOOD Terrificly acted, staged and designed, Gone WIth the Wind remains one of the greatest period epics ever filmed.
+GOOD Despite the star power of Vivien Leigh and Clark Gable, Wind has lost some of its bluster, yet it survives as a glorious Technicolored window into America's dusty, bygone past.
+GOOD It's so full of iconic moments of plotting and dialog that a feature film could be edited just out of the most quotable moments.
+GOOD ...producer David O. Selznick's crowning achievement and a film that stands up as one of the screen's finest classics.
+GOOD One of the classic films that defined American cinema, Gone With the Wind is a rare example of a collaboration involving hundreds of talents and egos that turned out great.
+GOOD Never, never bores me. Glabe is fabulous!
+FAIR Rhett Butler and Scarlett O'Hara remain the greatest pairing of irresistible force and immovable object in Hollywood romance.
+GOOD Treat yourself to one of the greatest cinematic experiences ever created.
+GOOD The brilliant epitome of corporate filmmaking.
+GOOD Often, older movies are a bit naive and unthreatening, but this movie is surprisingly fierce and somber.
+GOOD Mind-boggling for the first time in a theater. Too bad that many, like me, see it first on TV.
+GOOD It could be -- and should be -- viewed from a dozen different perspectives, but it is, above all, a story about adapting to the most challenging circumstances possible.
+GOOD Clear an evening and indulge yourself in one of the few films that can justifiably be called an epic.
+GOOD The best remembered and most publicized film in Hollywood's flamboyant history, the biggest of David O. Selznick's grand obsessions, and quite probably the most beloved movie of all time.
+GOOD The passionate saga of Scarlett O'Hara and Rhett Butler, played out against the flaming red backdrop of the Civil War, generates enough romance, historic drama and deep emotion to fuel a dozen great films.
+GOOD Everything about it is big.
+GOOD Victor Fleming's 60-year-old movie looks like it was shot this year.
+BAD I would be amazed to hear even the most ardent Sparks fan defend it as anything more than rubbish.
+BAD The Best of Me turns into a half-baked dramatic thriller, with violent confrontations, gunfights, plenty of nasty characters and one big scary action scene.
+BAD There's something heavy-handed, even for Sparks, in the telling of the couple's story, particularly when it comes to Dawson's family: they are leering, brutal embodiments of evil who function as handy plot devices.
+FAIR A rather typical Nicholas Sparks adaptation...
+BAD The Best Of Me, like all Sparks' work, would rather kill his characters and leave a beautiful corpse than have them continue a real, scarred relationship.
+BAD Dawson is called a "white trash piece of (poo)" by his own daddy, which is rich, because daddy -- a low-rent bayou criminal with a mean dog on a chain, a shanty tramp on his lap and jet-black dye on his hair -- actually is a white trash piece of (poo).
+BAD Welcome the latest Nicholas Sparks adaptation: always the same, always a bit different (but mostly the same).
+FAIR You can sneer, but I don't care - the heart wants what it will, and my heart wants Sparks. So there.
+BAD Like a hack tunesmith that keeps rewriting the same melodies over and over again, hoping his legion of fans don't notice the ruse, we've heard this Sparks song before.
+BAD The film is a huge letdown due to the script. The third act is so much a nonsensical head scratcher that it takes away the alluring romance fans wanted to walk away with.
+BAD The Best of Me is quite possibly the worst Nicholas Sparks adaptation ever committed to film.
+BAD The worst Nicholas Sparks film of the nine based on his novels, this is the epitome of disingenuous, manufactured and manipulative. The salt on the wound of an already bleeding heart is that the young adults outshine our artificial "A"-list lovebirds.
+BAD "I never thought a movie would make me long for the gritty realism of 'The Notebook.'"
+BAD Weepy Nicholas Sparks melodrama is cliche-ridden, violent.
+FAIR A syrupy, sentimental soap opera tailor-made for fans of the Nicholas Sparks franchise.
+BAD It's a very silly film.
+BAD Bad boy meets good girl, families get in the way and tragedy follows before the emotionally-contrived ending.
+BAD The sunlight is golden, the accent's rural (this one's set in Louisiana), people die, sagacious letters are read aloud.
+BAD By the standards of other Sparks productions, this is buoyed up well enough by the cast to float along, and everyone's making the best of a fairly blah job.
+BAD At a certain point ... the coincidences and tragic incidents start to pile up at a startling rate and nothing can be taken seriously.
+BAD I don't know much about Nicholas Sparks novels but do know movies based on them. They pretty much suck. What makes this one different is sucking at a higher level.
+BAD There's a fine line separating a film that puts its own spin on a proven formula and one that becomes a caricature of itself. The Best of Me treads all over that line.
+BAD Predictability is The Best of Me's greatest sin. The screenplay might has well have been a game of Mad Libs, where plot devices are lifted straight out of previous Sparks books and shoehorned into this bland narrative.
+BAD Cynical and lazy, The Best of Me feels as if it's assembled from parts of other, better weepies.
+BAD Interminably long, dragging out its molasses heart through what seem like three different endings.
+FAIR The Best of Me isn't too bad for the majority of its time-crossing story, which means the movie is better than the majority of movies based upon Sparks' work.
+BAD As the drama unfolds the ludicrousness of J Mills Goodloe and Will Fetters's script intensifies and the dramatic punches are more liable to provoke howls of laughter than tears of sadness.
+BAD "The Best of Me" is content to remain a by-the-numbers excursion into tough-to-swallow soap opera theatrics. At this point, even Nicholas Sparks himself should know better.
+BAD Like traditional pornography, The Best of Me has no purpose other than to get a specific reaction...
+FAIR We've seen this story told in similar fashion so many times in the past. I only wish we could have had it delivered in a fresher, less cliche-filled package.
+BAD Much of the dialogue for this terminally mawkish tearjerker sounds as if it has been taken directly from a Dolly Parton or Whitney Houston song.
+BAD The latest gaseous emission from the Sparks melodrama machine.
+BAD Even permitting that the movie's setup counts almost by default as one of Nicholas Sparks's more complicated scenarios, that makes his failure to draw up compelling, flawed, human characters all the more conspicuous.
+BAD Isn't fate a funny thing? Especially when Nicholas Sparks makes it up.
+BAD The Best of Me is not the worst adaptation of Nicholas Sparks, but audiences can certainly choose better.
+BAD It has a perverse integrity, playing every winsome stare and I'm-gonna-take-my-shirt-off moment with total sincerity.
+FAIR People who actually recall 1942 will more greatly appreciate the waves of nostalgia that bathe this affectionate coming-of-age drama, set on a tiny island off New England.
+FAIR In the early hijinks phase, the film seems like a dry run for Porky's, but it later gets into the business of fluttering curtains, walks on sandy beaches and longing glances.
+GOOD "Summer Of '42" is an unforgettable meditation on sexual awakening and loss during WWII.
+FAIR "Summer of '42" is a memory movie, written, directed and acted with such uncommon good humor that I don't think you'll be put off by its sweet soft-focus, at least until you start analyzing it afterwards.
+GOOD One of the cinematic coming-of-age stories that started a trend.
+FAIR Nostalgic coming-into-manhood fantasy.
+FAIR Nostalgia is used as a distancing device -- to keep us safely insulated from the boy's immediate grief, love, and passion.
+BAD Dates very badly indeed
+FAIR It's apparent in every scene that this is a highly personal film for screenwriter Raucher, and the nostalgia is so palpable that it nearly slides off the screen.
+FAIR Funny and intelligent, despite some flaws.
+GOOD Garofalo is accessible to anyone in the audience (except maybe herself).
+GOOD Rom-com charmer with a smart script and Garofalo in top form.
+GOOD Janeane Garofalo's magnetic yet unconventional presence instantly pulls the audience into the story.
+FAIR Better than it looks ... but not by much.
+GOOD Since when is Garofalo less appealing than Thurman?
+GOOD A spry and perceptive romantic comedy highlighted by the spirited performance of Garofalo's self-deprecating guise
+FAIR This sly update on Cyrano de Bergerac owes a lot to Janeane Garofalo, who inexplicably disowned it.
+FAIR Sometimes sad, sometimes uplifting. This is a heady meditation on the trials of modern romance.
+FAIR Though its romantic-comedy triangle borrows heavily from Cyrano de Bergerac, the film has more in common with Three's Company.
+FAIR ...unabashed fantasy...
+BAD It was either this or watch paint dry
+GOOD Screwball comedy for older teens and adults.
+GOOD This is the Coens dabbling in the mainstream, and bending it to their will.
+GOOD The Coensa(TM) first mainstream romantic comedy is a superb hijacking of an ailing art form -- short, sharp and frequently laugh-out-loud hilarious.
+BAD Destined to rank among the Coens' least memorable achievements.
+GOOD A great movie.
+FAIR A fun romp, thanks largely to the deft work of its two leads.
+FAIR Despite the inconsistent script and low tone, this has many funny moments. If you can forget the negative view it takes of mankind, ita(TM)s entertaining because of the performances of Clooney, Zeta Jones, and the rest of the cast.
+GOOD The Coens ... have taken a typically trite target for ridicule and splayed it out for an attack from outer space, where Coen brothers scripts tend to originate.
+FAIR Half the pleasure of Intolerable Cruelty is watching the Coens play it safe
+GOOD A date-movie with brain cells.
+FAIR Viewers won't feel like they've been dealt with too cruelly.
+BAD The operative word in this film is 'restrained.'
+BAD It has some good gags, but then so did The Wedding Singer.
+BAD ...it does live up to its title by being both cruel and intolerable, although not necessarily in the redeeming ways one might hope for.
+FAIR Clooney, in one of his best screen turns to date, exhibits the right degree of screwball aptitude.
+BAD Unlike Steve Martin's portraits of LA, "Intolerable Cruelty" doesn't find the loneliness beneath the sheen.
+GOOD Darkly funny and oh-so-wicked, "Intolerable Cruelty" is quirky diversion that will appeal to fans of other Coen brothers films.
+GOOD Watching Clooney and Zeta-Jones interact is suitably fun, and neither of them is exactly hard on the eyes.
+BAD A pretty much paint by numbers job, but Clooney and the divine Ms. Jones have great chemistry and timing and successfully manage to wrestle the script to the ground.
+FAIR A frequently hilarious screwball comedy about the battle between the sexes, which here all boils down to one thing: money.
+FAIR While it's not nearly as beguiling as the Coen's last pic, the uncanny The Man Who Wasn't There, Cruelty is still a brisk hoot.
+FAIR It will delight their fans with its random humor and its palate of bizarre characters.
+BAD ...the movie eventually takes a dark turn that it's never quite able to recover from.
+FAIR Both Clooney and Zeta-Jones are given simple lines that they deliver so deliciously that they set some sort of gold standard.
+GOOD The joy of Intolerable Cruelty is in watching Clooney deconstruct his suave screen persona, that mix of Cary Grant cool and Dean Martin hip, in front of your very eyes.
+FAIR Worth seeing, and more fun than the average Hollywood rom-com.
+FAIR Clooney and Zeta-Jones have a level of antagonistic banter recalling the best of the Hepburn-Tracy chemistry. Now, this is what is meant by the term movie star.
+BAD A competent but self-righteous film that offers little insight into love or faith.
+BAD If religious films aren't your bailiwick, stay away. Otherwise, this could be a passable date film.
+BAD The film is old-fashioned, occasionally charming and as subtle as boldface.
+FAIR Beers, who, when she's given the right lines, can charm the paint off the wall ... [but] the script goes wrong at several key junctures.
+BAD Imagine the CleanFlicks version of 'Love Story,' with Ali MacGraw's profanities replaced by romance-novel platitudes.
+BAD The romance between the leads isn't as compelling or as believable as it should be.
+BAD ...a pretentious mess...
+GOOD With its self-conscious references to the artistic process and to art itself (in a scene that wouldn't be out of place in a Godard project, a character reads Poe's 'The Bells,' almost in its entirety), this is Swanberg's most moving and impressive film...
+FAIR Alexander the Last, a 72-minute series of loosely connected scenes, follows an actress's lurching conversations and tentative gestures in life and the theater.
+FAIR Mumblecore has always lived in small moments, sometimes excruciatingly small, but rarely have these moments added up to a memorable takeaway message. Here, they do.
+FAIR Swanberg aspires to the next level -- in story scope, character development, and artistic commentary -- and just misses the mark.
+FAIR Part of that restless, productive team of mumblecore savants, Swanberg allows his actors to do what they do best: act.

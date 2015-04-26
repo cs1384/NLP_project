@@ -1,222 +1,929 @@
-0.75 <|###|> A throwback action movie that invokes 1980s nostalgia in all the right ways.
-0.8 <|###|> The Last Stand is a fast-paced, action-heavy throwback, shot with a fluid visual eye by Kim Jee-Woon. Arnold Schwarzenegger is back and better than ever.
-0.5 <|###|> As action movies go, it's okay. There are some good ideas underneath and an attempt develop them, but only an attempt. And though time has moved on, Schwarzenegger himself hasn't. As a hero's triumphal return goes, it's more of a whimper.
-0.6 <|###|> Arnie lurches through the film with a kind of defiant dignity, his signature mixture of self-effacing humour and good ol' tough talk allowing us to buy into the kind of big-screen hero he made us fall in love with all those decades ago.
-0.6 <|###|> Director Jee-woon Kim (I Saw the Devil) knows how to fill up the screen, surround his megastar with economy-sized murders, car chases, billowing blood-clouds and goofiness.
-0.6 <|###|> The film, though underdeveloped, is rife with big guns, flippant one-liners, improbable battles, high-octane car chases and way too much testosterone - all the hallmarks of a classic Schwarzenegger film.
-0.6 <|###|> ...it's refreshing to watch a film that wants to be nothing more than a blood-soaked accompaniment to beer and pizza.
-0.2 <|###|> The gimmick of Schwarzenegger's return to cinema wears off quickly. A bland bullet riddled excuse for an action flick.
-0.6 <|###|> The Last Stand sees bodybuilder Arnold Schwarzenegger return to the big screen following an eight-year term as Governor of California, because that is the reality we now occupy... A fun, dumb, enjoyable, dumb, mostly well performed, super dumb film.
-0.5 <|###|> Mindless, dumb fun as Arnie grunts a few one liners and tries to terminate an escaped drug lord who's in a fast car and heading for freedom.
-0.7 <|###|> Despite some graphic violence and even though it is really silly, this is an entertaining action film showing that Arnold Schwartzenegger has not lost any of his charm.
-0.5 <|###|> Surely the former governor of the state could have come across a better script for his return to the big screen in a starring role.
-0.75 <|###|> No, he doesn't demonstrate a lot of 'Terminator'-style moves.But, hey, he doesn't have to. Schwarzenegger, now in his mid-60s, just needs to tote some weapons, seek revenge and utter a few one-liners, which is exactly what he does in 'The Last Stand.'
-0.4 <|###|> Arnie stomps his way through a role in which every punch looks clumsy and every line of dialogue sounds like it has been learnt phonetically.
-0.8 <|###|> "The Last Stand" could be an old episode of "Gunsmoke," with its theme of the law versus the bad guys.
-0.625 <|###|> An entertaining, if not particularly longed for, return for the 65-year-old action icon.
-0.6 <|###|> The results are surprisingly good fun, popcorn-friendly, and awfully redolent of Rio Bravo. Fine by us. He's back, alright.
-0.5 <|###|> Korean filmmaker Kim played with the Western genre before in his wacky 2008 pastiche The Good the Bad the Weird, and this film is just as chaotically uneven, mixing cartoon-style silliness with grisly violence.
-0.625 <|###|> There isn't much of a story here, though it's great to see Arnold back where he belongs.
-0.625 <|###|> Satisfied customers may include undiscriminating action fans, Luis Guzman completists and Wayne LaPierre (one bad guy meets his reward when he trespasses on the property of a shotgun-toting granny).
-0.6 <|###|> As comebacks go, Schwarzenegger has chosen a really good vehicle with which to remind people of how he became so popular in the first place.
-0.6 <|###|> If slick nostalgia is what you're after, The Last Stand is for you.
-0.6 <|###|> It's entertaining, if a little (a lot) silly.
-0.6 <|###|> It's good to see Arnie moving back to the kind of public service he does best.
-0.6 <|###|> An action star is (re)born.
-0.6 <|###|> A suitably lightweight comeback for Arnie, The Last Stand does just enough to please his legion of fans, and proves the action icon still has charisma to spare.
-0.6 <|###|> Korean film-maker Kim Jee-woon gives it plenty of directorial welly, and it's good to see a film with cop cars flying through the air.
-0.6 <|###|> Arnold is back as an action hero, and playing someone near his own age. Therefore the movie is more believable and thus more entertaining.
-0.6 <|###|> A zippier, zestier film than ... its own hackneyed premise suggests.
-0.4 <|###|> A creaky, lethargic and daft action thriller ...
-0.6 <|###|> Many things are blown up, in some style.
-0.8 <|###|> Entertaining, pleasingly old-school Arnie action thriller, enlivened by stylish direction, strong performances and some nice ideas.
-0.45 <|###|> Cool to see Arnold back. I just wish the movie was a little better.
-0.4 <|###|> Where the film could have been self-aware and a little cleverer for it, director Jee-woon Kim misses a trick by sticking to the action formula.
-0.625 <|###|> That Second Amendment sure kicks ass.
-0.6 <|###|> This has its moments - what Scorsese film does not? -- but over a two-and-a-half-hour stretch it huffs and puffs and still doesn't blow the house down.
-0.875 <|###|> There's a lot of tough talk from tough men in this testosterone-fueled thriller, as the thin blue line disintegrates amid gritty give-and-take in William Monahan's excellent script.
-0.9 <|###|> The Departed is a near-perfect synthesis of cinematic genius and commercial appeal, quite possibly the most accomplished and accessible film from one of the greatest living directors.
-0.8 <|###|> Bloody, brutal and brilliant -- DiCaprio and Nicholson shine in the crime movie of 2006.
-0.9 <|###|> The shocking violence is well-placed. The action scenes are always comprehensible -- no jump cut cheats here -- and the suspense will make you fidget in your seat. What a corker.
-1.0 <|###|> The best of its kind since Michael Mann's Heat.
-0.8 <|###|> This is rich and satisfying stuff with Scorsese rediscovering his masterful skill at delivering a narrative which crackles with acid dialogue delivered by a gifted cast.
-0.6 <|###|> As ingenious as it is artificial.
-0.8 <|###|> Nicholson's unsavoury grin and seedy menace are a joy to behold.
-1.0 <|###|> Rude, profane, clever, hilarious, engrossing, crowd-pleasing, ridiculously entertaining.
-0.8 <|###|> As cop thrillers go, this is the best in quite a while.
-0.5 <|###|> I think GoodFellas leaves this for dead, absolutely for dead.
-1.0 <|###|> The Departed is not for the faint of heart. But scaredy-cats are going to miss a tremendously satisfying film, one that will have you leaving the theater saying, "Now, that was a movie."
-0.8 <|###|> It all makes for extremely watchable entertainment.
-0.8 <|###|> This is Scorsese's Serpico, his French Connection, his Heat, and he brings the same eye for anthropological detail to the boys in blue as he does to his beloved wiseguys.
-0.8 <|###|> Scorsese finds himself back in his comfort zone with a crime epic about loyalty and deception that's deeply engaging and viciously entertaining from start to bloody finish.
-0.9 <|###|> Urban film making at its best, The Departed is a brutally violent, beautifully crafted, and incredibly well acted piece of film making that will leave you reeling.
-0.59 <|###|> The film is superbly shot, and the rapid-fire editing and shaky camera fit the constant flux that the main characters find themselves in time and again.
-0.6 <|###|> Much splat, little art
-0.75 <|###|> Scorsese isn't about plots; he's about people, places, and times, and until he departs from that, this film is a return to genius.
-0.8 <|###|> One of the year's very best and most exciting films.
-0.9 <|###|> The Departed heralds Martin Scorsese's return to the top of his game and simultaneously secures for the film a place in the pantheon of the very best of American crime cinema. Welcome back to Scorsese's mean streets.
-0.4 <|###|> Scorsese revisits old territory in The Departed, and he doesn't do anything he hasn't done brilliantly several times before.
-0.875 <|###|> Probably the director's most taut piece of storytelling since Goodfellas.
-1.0 <|###|> What makes this a Scorsese film, and not merely a retread, is the director's use of actors, locations and energy, and its buried theme. I am fond of saying that a movie is not about what it's about; it's about how it's about it.
-0.75 <|###|> Director To doesn't sacrifice substance to style. The over-the-top violent flourishes, more psychological than paint-the-screen-red literal, will burrow under your skin.
-0.6 <|###|> Whatever he lacks in narrative drive, To is still the master of style.
-0.8 <|###|> The exposition is perfectly balanced with bloody action and muscular set-pieces.
-0.875 <|###|> The film's violence erupts in rare, staccato bursts, all the more horrifying for coming out of nowhere.
-0.6 <|###|> If it is too stylistically modest to win converts among the multiplex crowd, the film surely rewards followers of the genre.
-0.875 <|###|> If Machiavelli's The Prince and Sun Tzu's The Art of War translate to other centuries and cultures, so might Election and Triad Election.
-0.75 <|###|> [Director To's] talent for documentary-style realism and navigating complex political systems sets him apart, though his nationalism puts him squarely in the mainstream.
-0.5 <|###|> The moviea(TM)s most powerful component is political.
-0.75 <|###|> This remains a well-crafted genre movie, and one that promises further developments in its final scene.
-0.625 <|###|> Like the late John Frankenheimer, director To marries his drama with action and superb composition to achieve compelling results at times.
-0.875 <|###|> Into a season of Hollywood blockbusters, this import arrives with the impact of a high-velocity bullet.
-0.8 <|###|> Like any good sequel, this film takes what is familiar with the original's concept -- in this case, an internecine struggle for supremacy -- and deepens it.
-0.625 <|###|> Triad Election is slow-burning and sedate, even dull in stretches. But it deserves credit for presenting such a courageous critique of the Chinese system, which combines the worst aspects of official corruption and mob lawlessness.
-0.625 <|###|> Like many Hong Kong mob movies, Triad Election</i is not about fleshed-out characters or intricate stories. It's a blunt, grimly efficient action movie that underlines the lies gangsters tell themselves so they, at least, can believe they're good guys.
-0.875 <|###|> Johnny To's superb, graceful new Triad Election actually has quite a bit in common with Francis Coppola's Godfather trilogy.
-0.8333333333333334 <|###|> The director rejuvenates the genre by connecting the dots between a criminal subculture and a much bigger sociological picture. He's finally given HK cinema its very own Godfather.
-0.75 <|###|> Two screenwriters were responsible for this fascinating look at organized crime in China, as well as the continuing governmental policies that make the triads thrive.
-0.875 <|###|> Comparisons to The Godfather Part II are inevitable. For a change, such comparisons are also favorable.
-0.8 <|###|> Guided by To's elegant camera moves, less visceral than most Hong Kong filmmakers, the Election movies put a fresh, intriguing spin on the usual cinematic gangster motifs.
-0.75 <|###|> Ready for The Godfather with a distinctly Hong Kong flavor?
-0.75 <|###|> Plenty of films owe a debt to The Godfather, but it's rare to see inspiration used as successfully as it is here.
-0.8 <|###|> expertly captures the battle between old-school gangster pathology and the new cutthroat tactics of the corporate criminal
-0.75 <|###|> The parallels to all three Godfather films are there, if you care to look, but the Election films have other pleasures.
-0.9 <|###|> The surfaces gleam as luxuriously in Johnnie To's exemplary gangster thriller Triad Election as those in a similarly slicked-up Hollywood film, but the blood on the floor here seems stickier.
-1.0 <|###|> Maybe you don't know much about this director. But if you like Hong Kong action movies where everyone's constantly killing each other in a ballet of bullets (and other weapons), then [Johnny To] is your new Francis Ford Coppola.
-0.875 <|###|> This disturbing social order, both inside and outside the Triad, is the series' defining characteristic. Because of its emphasis, this installment satisfies, even if another sequel feels inevitable.
-0.625 <|###|> Election 2 is equal in precision to its predecessor, exuding a perpetual sense of danger.
-0.625 <|###|> The bar has been set so low in mainstream Hollywood movies that it's not even worth seriously analyzing this stuff
-0.625 <|###|> This one had the most potential, and in that way it is the most disappointing.
-0.75 <|###|> A fitting capstone on a collection of screen classics for the ages!
-0.625 <|###|> The only one of the trilogy that actually works as both a good Summer movie and a solid sci-fi movie in its own right.
-0.7 <|###|> full review in Greek
-0.8 <|###|> For me, Sith succeeds in providing a satisfying ending to the films while also closing a chapter of my own life.
-0.8 <|###|> It did what I thought was impossible after the previous two films: it made me a Star Wars fan again.
-1.0 <|###|> A great Star Wars film and, dare I say, a great film onto itself.
-0.4 <|###|> As blockbusters go, Revenge of the Sith has some good throwaway entertainment, but there have been better blockbusters with better throwaway entertainment.
-0.625 <|###|> The best thing about Episode III? Jar Jar Binks is barely in it.
-0.5 <|###|> Although the stiff theatrics are part of the design, they're no longer excusable.
-0.8 <|###|> What makes this movie work is watching Anakin Skywalker break our hearts, and ultimately serve as a textbook example of how the road to hell is paved with good intentions.
-0.9 <|###|> In years to come George Lucas's farewell to his STAR WARS series may be considered his finest entry.
-0.75 <|###|> Against all odds, the movie becomes more than the sum of its creaky parts, building enough emotional firepower to destroy an entire hard-bitten cynic such as myself.
-0.8 <|###|> This is the film we yearned for as we sat passively through the shoddy merchandise-oriented Phantom Menace and the dull romantic scenes of Attack of the Clones.
-0.9 <|###|> For the 6th time in a row, George Lucas has done it again.
-0.6 <|###|> Why are blinds wipes and Fisher-Price spaceship interiors employed in a 2005 film?
-0.6 <|###|> Star Wars was a gamble in 1977. In 2005 Revenge of the Sith is the Empire.
-0.8 <|###|> Prepare to be blown away because George Lucas&#146;'s latest space opera is an absolute belter, recalling the old magic of The Empire Strikes Back and banishing forever painful memories of the last two Star Wars prequels.
-0.8 <|###|> Episode III hooks up to its sequel of 1977 as neatly as a space station landing dock.
-0.6 <|###|> Veering from moments of breathtakingly visualized valor to outright stupidity, Sith is a vast improvement over the previous two outings, but still and all, it's no Star Wars.
-0.8 <|###|> I am pleased to report that George Lucas has found his way back from the Dark Side.
-0.75 <|###|> As popcorn entertainment, strapping in for Star Wars: Episode III is like hooking up with an old friend. Half the enjoyment is simply the idea of the reunion itself.
-0.75 <|###|> As with the last two Star Wars movies, Revenge of the Sith is a visual spectacle, trotting out the best special effects Industrial Light and Magic has to offer.
-0.875 <|###|> ...at once a work of closure and of sustenance.
-0.8 <|###|> To Star Wars fans everywhere, a celebration of galactic proportions.
-0.75 <|###|> ...the brilliant final showdown between Obi-Wan and Anakin for his soul is the moment that takes the Star Wars saga where it needs to go ...
-0.7 <|###|> So boxed in by having to tie everything into a neat parcel that it feels constrained and is woefully lacking in surprises and dramatic tension.
-0.6 <|###|> Spectacular ... but it never really lifts you up into a new imaginative realm -- it never takes you away. It just keeps blazing at you.
-0.7 <|###|> Funny for families of all ages, this animated comedy is a rare and delightful treat.
-0.75 <|###|> The Pirates! Band of Misfits is cinematic booty that shines like gold.
-0.8 <|###|> The Pirates! is the first truly great animated film of the year: a painstakingly-modelled laugh riot that boggles the mind while tickling the funnybone.
-0.625 <|###|> It's got great vocal talent and well-done animation, but it proves once again that the story is the key ingredient.
-0.9 <|###|> A rollicking good time that offers enough broad comedy mixed with more cerebral sight gags to ensure this will be a family favourite for years to come.
-0.625 <|###|> It's full of jokes for adults that will fly right over kids' heads, but retains just enough plot conflict and slapstick to keep younger audiences involved as well.
-0.7 <|###|> The Aardman folks might not have created a pirate film to rival the big screen's best, but they've created a subtle parody of pirate movies that's well worth watching.
-0.85 <|###|> Yes, the film feels childish, but in the best possible way.
-0.6 <|###|> ... enough amusing throwaway gags to keep us entertained.
-0.6 <|###|> The Pirates! Band of Misfits deserves two doubloons up. It shivered me funny bone.
-0.875 <|###|> The fun, infectious tone is set early on and never peters out. The humor is kind of like Monty Python for kids.
-0.75 <|###|> Droll and charming, and will probably appeal more to fans of Monty Python and 'The Hitchhiker's Guide to the Galaxy' than to young kids...
-0.8 <|###|> This is a very funny, very good looking movie getting lost in the fray.
-0.75 <|###|> The best laughs come around the fringes, with great throwaway gags and Grant's usual self-deprecating way with dialogue.
-0.5 <|###|> A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one.
-0.7 <|###|> Deserves no small amount of credit for being an absolute delight... and for never acting like the viewer is an idiot even as it never requires that the viewer be a genius.
-0.8 <|###|> As a running gag, the man-panzee is pretty predictable, but as an observation of how cute creatures are perpetually manipulated and abused in family entertainments, it is rather rich.
-0.875 <|###|> It's hard to emphasize enough just how intricate it is, abundant with rich details... At the same time, it's also warmly human, with characters so expressive you'll want to join the crew.
-0.8 <|###|> The majority of the film can't quite live up to this barnstorming first half hour, but it remains a delight throughout, even when the gags become a little more hit and miss.
-0.75 <|###|> Another winner from Aardman
-0.5 <|###|> I wish I could call the plot about a dodo bird 'whimsical,' but there just wasn't enough laughs from these 'Pirates.'
-0.5 <|###|> The filmmakers have said they are already dreaming up a sequel. They needn't hurry. Whatever treasures these pirates have are well buried.
-0.7 <|###|> The Pirates! Band of Misfits, succeeds in spite of a faint but persistent sense of factory settings and finishes.
-0.625 <|###|> The Pirates! Band of Misfits fares OK against most modern toon flicks but pales next to other Aardman releases. How a person chooses to rate its success depends on whether one looks at a glass of water and views it as half-full or half-empty.
-0.8 <|###|> a gem of a movie that deserves more praise and audience than it'll probably get
-0.875 <|###|> Delivers all of the laughs, giggles and guffaws land lubbers like us want in a silly film like this.
-0.6 <|###|> There is a lot to like about The Pirates!, especially for those of us who watch a lot of BBC America.
-0.6 <|###|> Young and old alike love a good pirate yarn and the stop-motion specialists at Aardman Animations deliver the goods.
-0.8 <|###|> Pirate adventure blends Victorian history, high-seas fun.
-0.8 <|###|> Pirates haven't generated this many laughs since Johnny Depp's first dip into the Caribbean.
-0.8 <|###|> Even with all the enormous pirate ships, detailed cityscapes and dazzling action, Pirates! is at its best when it focuses on the sillier, calmer moments.
-0.6 <|###|> Chaotic and far-fetched yet funny enough to have audiences rolling in the aisles.
-0.4 <|###|> Given the broad drama of the series, their movie should be full of big ideas, and instead settles for redundant gags involving drugs, guns, and high school cliques.
-0.875 <|###|> Remake or no, this movie is hysterical.
-0.8 <|###|> 21 Jump Street gets the remake job done with tongue-in-cheek style & plenty of outrageous moments.
-0.75 <|###|> Because of Bacall's skill at writing great comedic material and Lord's and Miller's talent behind the camera, "21 Jump Street" became more than what it originally appeared to be, which is a surprise I'm always grateful for.
-0.85 <|###|> 21 Jump Street takes the basic concept of the original series, and uses it to create an action/comedy that is not only palatable to modern audiences, but appealing as well.
-0.625 <|###|> Co-written, produced by, and stars Jonah Hill, who took exactly the right attitude towards the movie: He and his costar Channing Tatum embraced the stereotypes, laughed at themselves, and came up with a surprisingly funny film.
-0.75 <|###|> ...feels more like a guerrilla stunt than a soulless and cynical cash grab. Hooray for Hollywood, I guess.
-0.8 <|###|> Slick and funny as hell, 21 Jump Street is one of the best comedies of the year.
-0.875 <|###|> A raucous, entertaining, and incredibly funny film that respects the premise of the original series...
-0.6 <|###|> For an action comedy, "21 Jump Street" had less action or comedy than I expected. It felt as if I spent too much time waiting for something to happen-either for a joke to fire, or a pistol.
-0.8 <|###|> The movie is perfectly pleasant, a smidgen too aware of itself but consistently sharp.
-0.6 <|###|> While the film struggles at the start as Tatum and Hill share little chemistry, they improve minute by minute and are one of the shining lights by the end, their journey boasting a surprising emotional pull.
-0.86 <|###|> t's less fun when the guns come out in the final act, but there's a moment late in the game that redeems the movie's predictable beats, before the whole thing dissolves into entropy and disorder.
-0.7 <|###|> 21 Jump Street is nothing like the original series. Jonah Hill and Channing Tatum have a great chemistry and the strong beginning and ending do a pretty good job disguising the flabby middle. It's crass, self effacing, 'meta', stupidity and it works.
-0.875 <|###|> Clever, profane and action-packed, '21 Jump Street' fairly leaps onto the big screen as one of the most enjoyable movies of the (still-admittedly young) year.
-0.8 <|###|> The best comedy to be released so far this year.
-0.8 <|###|> I'm as surprised as you that this film could end up being the funniest of 2012.
-0.75 <|###|> Lord and Miller mine the script... for plenty of profane laughs as they set up Hill and Tatum as a hilariously off-kilter comedy duo.
-0.5 <|###|> ...it doesn't help, either, that large chunks of the film have been improvised wholesale by the various actors, which only exacerbates the film's excessively slapdash feel.
-0.375 <|###|> ... latest in endless slew of painful spoofs based on TV shows takes an OK premise and milks it for an occasional chuckle before devolving into a succession of increasingly lame sketches.
-0.5 <|###|> They know it's a joke. But like high school itself, 21 Jump Street hits the wall about halfway in and even prom night can't save it.
-0.8 <|###|> The humor squeezes just about all the giggle juice it can get out of the R rating. If you need a movie map, this 21 Jump Street is on the FAR side of town from Sesame Street.
-0.625 <|###|> by no means a great comedy, but it does demonstrate that playing against the grain can be a good move, especially when the people in charge have run out of ideas
-0.8 <|###|> It doesn't matter if you never saw the original, because this movie is a clever, fast-paced, action comedy...
-0.9 <|###|> A good-natured must-see for fans of broad, silly comedies with a little something under the surface too. Bright, breezy and brilliant.
-0.8 <|###|> It is funny because it is pointed and smart, and it is also funny because it is unusually crass, but the chief takeaway here should be that it is funny.
-0.75 <|###|> Rigorous planning likely was involved in taking the dumb concept of "21 Jump Street" and turning it into something that seems so effortlessly brilliant.
-0.7 <|###|> While hardly raising the bar in action-comedy, it's still a fun, irreverent, laugh-out-loud take on the beloved, small-screen original.
-0.7 <|###|> I won't go so far as to say it's good, but 21 Jump Street is certainly better than it has any right to be.
-0.7 <|###|> The humor may be coarse and crude but it is funny, and with these movies that is what counts.
-0.4 <|###|> 21 Jump Street is a cockamamie movie. It's as rowdy as a dick joke. After the 21st dick joke, I wanted to jump off. And after the dick jokes there's a load of excrement jokes.
-0.6 <|###|> It has a tone all its own: drunk enough to lower the inhibitions; not so drunk that it becomes unintelligible.
-0.625 <|###|> Funny and clever but ultimately dispiriting, with a finale that affirms the queasy wink-wink legalized bullying of its early police-vs.-citizens scenes, and that associates manhood with a willingness to kill with a gun -- all for a cheap laugh.
-0.8 <|###|> 21 Jump Street is as fresh and original a comedy you'll ever find that is based on a totally stolen concept. If only all Hollywood rip-offs could be this good.
-0.7 <|###|> The film is driven more by its concept than by its plot but it's still a fun summer film.
-0.625 <|###|> Expensive, a misfire, but perfectly servicable for what it is
-0.6 <|###|> Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
-0.6 <|###|> Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
-0.5 <|###|> Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
-0.75 <|###|> Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
-0.4 <|###|> A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
-0.25 <|###|> While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
-0.75 <|###|> 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
-0.6 <|###|> Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
-0.4 <|###|> No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
-0.5 <|###|> full review at Movies for the Masses
-0.7 <|###|> we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
-0.6 <|###|> Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
-0.4 <|###|> The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
-0.875 <|###|> I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
-0.4 <|###|> So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
-0.5 <|###|> The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
-0.4 <|###|> A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
-0.3 <|###|> Overall, a dull, overblown and forgettable farrago.
-0.7 <|###|> There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
-0.6 <|###|> There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
-0.6 <|###|> I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
-0.4 <|###|> The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
-0.6 <|###|> If you can swallow the shameless set-up, it's all highly entertaining.
-0.6 <|###|> Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
-0.8 <|###|> A wild and spaced-out horse opera.
-0.4 <|###|> This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
-0.4 <|###|> Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
-0.4 <|###|> Favreau ... allows the material's imaginative possibilities to flare up and fade away.
-0.0 <|###|> The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
-0.6 <|###|> The premise does pretty much what it says on the tin.
-0.6 <|###|> For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
-0.4 <|###|> Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
-0.4 <|###|> The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
-0.4 <|###|> Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
-0.6 <|###|> Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
-0.5 <|###|> Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
-0.4 <|###|> What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
-0.6 <|###|> Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+FAIR A throwback action movie that invokes 1980s nostalgia in all the right ways.
+GOOD The Last Stand is a fast-paced, action-heavy throwback, shot with a fluid visual eye by Kim Jee-Woon. Arnold Schwarzenegger is back and better than ever.
+BAD As action movies go, it's okay. There are some good ideas underneath and an attempt develop them, but only an attempt. And though time has moved on, Schwarzenegger himself hasn't. As a hero's triumphal return goes, it's more of a whimper.
+FAIR Arnie lurches through the film with a kind of defiant dignity, his signature mixture of self-effacing humour and good ol' tough talk allowing us to buy into the kind of big-screen hero he made us fall in love with all those decades ago.
+FAIR Director Jee-woon Kim (I Saw the Devil) knows how to fill up the screen, surround his megastar with economy-sized murders, car chases, billowing blood-clouds and goofiness.
+FAIR The film, though underdeveloped, is rife with big guns, flippant one-liners, improbable battles, high-octane car chases and way too much testosterone - all the hallmarks of a classic Schwarzenegger film.
+FAIR ...it's refreshing to watch a film that wants to be nothing more than a blood-soaked accompaniment to beer and pizza.
+BAD The gimmick of Schwarzenegger's return to cinema wears off quickly. A bland bullet riddled excuse for an action flick.
+FAIR The Last Stand sees bodybuilder Arnold Schwarzenegger return to the big screen following an eight-year term as Governor of California, because that is the reality we now occupy... A fun, dumb, enjoyable, dumb, mostly well performed, super dumb film.
+BAD Mindless, dumb fun as Arnie grunts a few one liners and tries to terminate an escaped drug lord who's in a fast car and heading for freedom.
+FAIR Despite some graphic violence and even though it is really silly, this is an entertaining action film showing that Arnold Schwartzenegger has not lost any of his charm.
+BAD Surely the former governor of the state could have come across a better script for his return to the big screen in a starring role.
+FAIR No, he doesn't demonstrate a lot of 'Terminator'-style moves.But, hey, he doesn't have to. Schwarzenegger, now in his mid-60s, just needs to tote some weapons, seek revenge and utter a few one-liners, which is exactly what he does in 'The Last Stand.'
+BAD Arnie stomps his way through a role in which every punch looks clumsy and every line of dialogue sounds like it has been learnt phonetically.
+GOOD "The Last Stand" could be an old episode of "Gunsmoke," with its theme of the law versus the bad guys.
+FAIR An entertaining, if not particularly longed for, return for the 65-year-old action icon.
+FAIR The results are surprisingly good fun, popcorn-friendly, and awfully redolent of Rio Bravo. Fine by us. He's back, alright.
+BAD Korean filmmaker Kim played with the Western genre before in his wacky 2008 pastiche The Good the Bad the Weird, and this film is just as chaotically uneven, mixing cartoon-style silliness with grisly violence.
+FAIR There isn't much of a story here, though it's great to see Arnold back where he belongs.
+FAIR Satisfied customers may include undiscriminating action fans, Luis Guzman completists and Wayne LaPierre (one bad guy meets his reward when he trespasses on the property of a shotgun-toting granny).
+FAIR As comebacks go, Schwarzenegger has chosen a really good vehicle with which to remind people of how he became so popular in the first place.
+FAIR If slick nostalgia is what you're after, The Last Stand is for you.
+FAIR It's entertaining, if a little (a lot) silly.
+FAIR It's good to see Arnie moving back to the kind of public service he does best.
+FAIR An action star is (re)born.
+FAIR A suitably lightweight comeback for Arnie, The Last Stand does just enough to please his legion of fans, and proves the action icon still has charisma to spare.
+FAIR Korean film-maker Kim Jee-woon gives it plenty of directorial welly, and it's good to see a film with cop cars flying through the air.
+FAIR Arnold is back as an action hero, and playing someone near his own age. Therefore the movie is more believable and thus more entertaining.
+FAIR A zippier, zestier film than ... its own hackneyed premise suggests.
+BAD A creaky, lethargic and daft action thriller ...
+FAIR Many things are blown up, in some style.
+GOOD Entertaining, pleasingly old-school Arnie action thriller, enlivened by stylish direction, strong performances and some nice ideas.
+BAD Cool to see Arnold back. I just wish the movie was a little better.
+BAD Where the film could have been self-aware and a little cleverer for it, director Jee-woon Kim misses a trick by sticking to the action formula.
+FAIR That Second Amendment sure kicks ass.
+FAIR This has its moments - what Scorsese film does not? -- but over a two-and-a-half-hour stretch it huffs and puffs and still doesn't blow the house down.
+GOOD There's a lot of tough talk from tough men in this testosterone-fueled thriller, as the thin blue line disintegrates amid gritty give-and-take in William Monahan's excellent script.
+GOOD The Departed is a near-perfect synthesis of cinematic genius and commercial appeal, quite possibly the most accomplished and accessible film from one of the greatest living directors.
+GOOD Bloody, brutal and brilliant -- DiCaprio and Nicholson shine in the crime movie of 2006.
+GOOD The shocking violence is well-placed. The action scenes are always comprehensible -- no jump cut cheats here -- and the suspense will make you fidget in your seat. What a corker.
+GOOD The best of its kind since Michael Mann's Heat.
+GOOD This is rich and satisfying stuff with Scorsese rediscovering his masterful skill at delivering a narrative which crackles with acid dialogue delivered by a gifted cast.
+FAIR As ingenious as it is artificial.
+GOOD Nicholson's unsavoury grin and seedy menace are a joy to behold.
+GOOD Rude, profane, clever, hilarious, engrossing, crowd-pleasing, ridiculously entertaining.
+GOOD As cop thrillers go, this is the best in quite a while.
+BAD I think GoodFellas leaves this for dead, absolutely for dead.
+GOOD The Departed is not for the faint of heart. But scaredy-cats are going to miss a tremendously satisfying film, one that will have you leaving the theater saying, "Now, that was a movie."
+GOOD It all makes for extremely watchable entertainment.
+GOOD This is Scorsese's Serpico, his French Connection, his Heat, and he brings the same eye for anthropological detail to the boys in blue as he does to his beloved wiseguys.
+GOOD Scorsese finds himself back in his comfort zone with a crime epic about loyalty and deception that's deeply engaging and viciously entertaining from start to bloody finish.
+GOOD Urban film making at its best, The Departed is a brutally violent, beautifully crafted, and incredibly well acted piece of film making that will leave you reeling.
+BAD The film is superbly shot, and the rapid-fire editing and shaky camera fit the constant flux that the main characters find themselves in time and again.
+FAIR Much splat, little art
+FAIR Scorsese isn't about plots; he's about people, places, and times, and until he departs from that, this film is a return to genius.
+GOOD One of the year's very best and most exciting films.
+GOOD The Departed heralds Martin Scorsese's return to the top of his game and simultaneously secures for the film a place in the pantheon of the very best of American crime cinema. Welcome back to Scorsese's mean streets.
+BAD Scorsese revisits old territory in The Departed, and he doesn't do anything he hasn't done brilliantly several times before.
+GOOD Probably the director's most taut piece of storytelling since Goodfellas.
+GOOD What makes this a Scorsese film, and not merely a retread, is the director's use of actors, locations and energy, and its buried theme. I am fond of saying that a movie is not about what it's about; it's about how it's about it.
+FAIR Director To doesn't sacrifice substance to style. The over-the-top violent flourishes, more psychological than paint-the-screen-red literal, will burrow under your skin.
+FAIR Whatever he lacks in narrative drive, To is still the master of style.
+GOOD The exposition is perfectly balanced with bloody action and muscular set-pieces.
+GOOD The film's violence erupts in rare, staccato bursts, all the more horrifying for coming out of nowhere.
+FAIR If it is too stylistically modest to win converts among the multiplex crowd, the film surely rewards followers of the genre.
+GOOD If Machiavelli's The Prince and Sun Tzu's The Art of War translate to other centuries and cultures, so might Election and Triad Election.
+FAIR [Director To's] talent for documentary-style realism and navigating complex political systems sets him apart, though his nationalism puts him squarely in the mainstream.
+BAD The moviea(TM)s most powerful component is political.
+FAIR This remains a well-crafted genre movie, and one that promises further developments in its final scene.
+FAIR Like the late John Frankenheimer, director To marries his drama with action and superb composition to achieve compelling results at times.
+GOOD Into a season of Hollywood blockbusters, this import arrives with the impact of a high-velocity bullet.
+GOOD Like any good sequel, this film takes what is familiar with the original's concept -- in this case, an internecine struggle for supremacy -- and deepens it.
+FAIR Triad Election is slow-burning and sedate, even dull in stretches. But it deserves credit for presenting such a courageous critique of the Chinese system, which combines the worst aspects of official corruption and mob lawlessness.
+FAIR Like many Hong Kong mob movies, Triad Election</i is not about fleshed-out characters or intricate stories. It's a blunt, grimly efficient action movie that underlines the lies gangsters tell themselves so they, at least, can believe they're good guys.
+GOOD Johnny To's superb, graceful new Triad Election actually has quite a bit in common with Francis Coppola's Godfather trilogy.
+GOOD The director rejuvenates the genre by connecting the dots between a criminal subculture and a much bigger sociological picture. He's finally given HK cinema its very own Godfather.
+FAIR Two screenwriters were responsible for this fascinating look at organized crime in China, as well as the continuing governmental policies that make the triads thrive.
+GOOD Comparisons to The Godfather Part II are inevitable. For a change, such comparisons are also favorable.
+GOOD Guided by To's elegant camera moves, less visceral than most Hong Kong filmmakers, the Election movies put a fresh, intriguing spin on the usual cinematic gangster motifs.
+FAIR Ready for The Godfather with a distinctly Hong Kong flavor?
+FAIR Plenty of films owe a debt to The Godfather, but it's rare to see inspiration used as successfully as it is here.
+GOOD expertly captures the battle between old-school gangster pathology and the new cutthroat tactics of the corporate criminal
+FAIR The parallels to all three Godfather films are there, if you care to look, but the Election films have other pleasures.
+GOOD The surfaces gleam as luxuriously in Johnnie To's exemplary gangster thriller Triad Election as those in a similarly slicked-up Hollywood film, but the blood on the floor here seems stickier.
+GOOD Maybe you don't know much about this director. But if you like Hong Kong action movies where everyone's constantly killing each other in a ballet of bullets (and other weapons), then [Johnny To] is your new Francis Ford Coppola.
+GOOD This disturbing social order, both inside and outside the Triad, is the series' defining characteristic. Because of its emphasis, this installment satisfies, even if another sequel feels inevitable.
+FAIR Election 2 is equal in precision to its predecessor, exuding a perpetual sense of danger.
+FAIR The bar has been set so low in mainstream Hollywood movies that it's not even worth seriously analyzing this stuff
+FAIR This one had the most potential, and in that way it is the most disappointing.
+FAIR A fitting capstone on a collection of screen classics for the ages!
+FAIR The only one of the trilogy that actually works as both a good Summer movie and a solid sci-fi movie in its own right.
+FAIR full review in Greek
+GOOD For me, Sith succeeds in providing a satisfying ending to the films while also closing a chapter of my own life.
+GOOD It did what I thought was impossible after the previous two films: it made me a Star Wars fan again.
+GOOD A great Star Wars film and, dare I say, a great film onto itself.
+BAD As blockbusters go, Revenge of the Sith has some good throwaway entertainment, but there have been better blockbusters with better throwaway entertainment.
+FAIR The best thing about Episode III? Jar Jar Binks is barely in it.
+BAD Although the stiff theatrics are part of the design, they're no longer excusable.
+GOOD What makes this movie work is watching Anakin Skywalker break our hearts, and ultimately serve as a textbook example of how the road to hell is paved with good intentions.
+GOOD In years to come George Lucas's farewell to his STAR WARS series may be considered his finest entry.
+FAIR Against all odds, the movie becomes more than the sum of its creaky parts, building enough emotional firepower to destroy an entire hard-bitten cynic such as myself.
+GOOD This is the film we yearned for as we sat passively through the shoddy merchandise-oriented Phantom Menace and the dull romantic scenes of Attack of the Clones.
+GOOD For the 6th time in a row, George Lucas has done it again.
+FAIR Why are blinds wipes and Fisher-Price spaceship interiors employed in a 2005 film?
+FAIR Star Wars was a gamble in 1977. In 2005 Revenge of the Sith is the Empire.
+GOOD Prepare to be blown away because George Lucas&#146;'s latest space opera is an absolute belter, recalling the old magic of The Empire Strikes Back and banishing forever painful memories of the last two Star Wars prequels.
+GOOD Episode III hooks up to its sequel of 1977 as neatly as a space station landing dock.
+FAIR Veering from moments of breathtakingly visualized valor to outright stupidity, Sith is a vast improvement over the previous two outings, but still and all, it's no Star Wars.
+GOOD I am pleased to report that George Lucas has found his way back from the Dark Side.
+FAIR As popcorn entertainment, strapping in for Star Wars: Episode III is like hooking up with an old friend. Half the enjoyment is simply the idea of the reunion itself.
+FAIR As with the last two Star Wars movies, Revenge of the Sith is a visual spectacle, trotting out the best special effects Industrial Light and Magic has to offer.
+GOOD ...at once a work of closure and of sustenance.
+GOOD To Star Wars fans everywhere, a celebration of galactic proportions.
+FAIR ...the brilliant final showdown between Obi-Wan and Anakin for his soul is the moment that takes the Star Wars saga where it needs to go ...
+FAIR So boxed in by having to tie everything into a neat parcel that it feels constrained and is woefully lacking in surprises and dramatic tension.
+FAIR Spectacular ... but it never really lifts you up into a new imaginative realm -- it never takes you away. It just keeps blazing at you.
+FAIR Funny for families of all ages, this animated comedy is a rare and delightful treat.
+FAIR The Pirates! Band of Misfits is cinematic booty that shines like gold.
+GOOD The Pirates! is the first truly great animated film of the year: a painstakingly-modelled laugh riot that boggles the mind while tickling the funnybone.
+FAIR It's got great vocal talent and well-done animation, but it proves once again that the story is the key ingredient.
+GOOD A rollicking good time that offers enough broad comedy mixed with more cerebral sight gags to ensure this will be a family favourite for years to come.
+FAIR It's full of jokes for adults that will fly right over kids' heads, but retains just enough plot conflict and slapstick to keep younger audiences involved as well.
+FAIR The Aardman folks might not have created a pirate film to rival the big screen's best, but they've created a subtle parody of pirate movies that's well worth watching.
+GOOD Yes, the film feels childish, but in the best possible way.
+FAIR ... enough amusing throwaway gags to keep us entertained.
+FAIR The Pirates! Band of Misfits deserves two doubloons up. It shivered me funny bone.
+GOOD The fun, infectious tone is set early on and never peters out. The humor is kind of like Monty Python for kids.
+FAIR Droll and charming, and will probably appeal more to fans of Monty Python and 'The Hitchhiker's Guide to the Galaxy' than to young kids...
+GOOD This is a very funny, very good looking movie getting lost in the fray.
+FAIR The best laughs come around the fringes, with great throwaway gags and Grant's usual self-deprecating way with dialogue.
+BAD A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one.
+FAIR Deserves no small amount of credit for being an absolute delight... and for never acting like the viewer is an idiot even as it never requires that the viewer be a genius.
+GOOD As a running gag, the man-panzee is pretty predictable, but as an observation of how cute creatures are perpetually manipulated and abused in family entertainments, it is rather rich.
+GOOD It's hard to emphasize enough just how intricate it is, abundant with rich details... At the same time, it's also warmly human, with characters so expressive you'll want to join the crew.
+GOOD The majority of the film can't quite live up to this barnstorming first half hour, but it remains a delight throughout, even when the gags become a little more hit and miss.
+FAIR Another winner from Aardman
+BAD I wish I could call the plot about a dodo bird 'whimsical,' but there just wasn't enough laughs from these 'Pirates.'
+BAD The filmmakers have said they are already dreaming up a sequel. They needn't hurry. Whatever treasures these pirates have are well buried.
+FAIR The Pirates! Band of Misfits, succeeds in spite of a faint but persistent sense of factory settings and finishes.
+FAIR The Pirates! Band of Misfits fares OK against most modern toon flicks but pales next to other Aardman releases. How a person chooses to rate its success depends on whether one looks at a glass of water and views it as half-full or half-empty.
+GOOD a gem of a movie that deserves more praise and audience than it'll probably get
+GOOD Delivers all of the laughs, giggles and guffaws land lubbers like us want in a silly film like this.
+FAIR There is a lot to like about The Pirates!, especially for those of us who watch a lot of BBC America.
+FAIR Young and old alike love a good pirate yarn and the stop-motion specialists at Aardman Animations deliver the goods.
+GOOD Pirate adventure blends Victorian history, high-seas fun.
+GOOD Pirates haven't generated this many laughs since Johnny Depp's first dip into the Caribbean.
+GOOD Even with all the enormous pirate ships, detailed cityscapes and dazzling action, Pirates! is at its best when it focuses on the sillier, calmer moments.
+FAIR Chaotic and far-fetched yet funny enough to have audiences rolling in the aisles.
+BAD Given the broad drama of the series, their movie should be full of big ideas, and instead settles for redundant gags involving drugs, guns, and high school cliques.
+GOOD Remake or no, this movie is hysterical.
+GOOD 21 Jump Street gets the remake job done with tongue-in-cheek style & plenty of outrageous moments.
+FAIR Because of Bacall's skill at writing great comedic material and Lord's and Miller's talent behind the camera, "21 Jump Street" became more than what it originally appeared to be, which is a surprise I'm always grateful for.
+GOOD 21 Jump Street takes the basic concept of the original series, and uses it to create an action/comedy that is not only palatable to modern audiences, but appealing as well.
+FAIR Co-written, produced by, and stars Jonah Hill, who took exactly the right attitude towards the movie: He and his costar Channing Tatum embraced the stereotypes, laughed at themselves, and came up with a surprisingly funny film.
+FAIR ...feels more like a guerrilla stunt than a soulless and cynical cash grab. Hooray for Hollywood, I guess.
+GOOD Slick and funny as hell, 21 Jump Street is one of the best comedies of the year.
+GOOD A raucous, entertaining, and incredibly funny film that respects the premise of the original series...
+FAIR For an action comedy, "21 Jump Street" had less action or comedy than I expected. It felt as if I spent too much time waiting for something to happen-either for a joke to fire, or a pistol.
+GOOD The movie is perfectly pleasant, a smidgen too aware of itself but consistently sharp.
+FAIR While the film struggles at the start as Tatum and Hill share little chemistry, they improve minute by minute and are one of the shining lights by the end, their journey boasting a surprising emotional pull.
+GOOD t's less fun when the guns come out in the final act, but there's a moment late in the game that redeems the movie's predictable beats, before the whole thing dissolves into entropy and disorder.
+FAIR 21 Jump Street is nothing like the original series. Jonah Hill and Channing Tatum have a great chemistry and the strong beginning and ending do a pretty good job disguising the flabby middle. It's crass, self effacing, 'meta', stupidity and it works.
+GOOD Clever, profane and action-packed, '21 Jump Street' fairly leaps onto the big screen as one of the most enjoyable movies of the (still-admittedly young) year.
+GOOD The best comedy to be released so far this year.
+GOOD I'm as surprised as you that this film could end up being the funniest of 2012.
+FAIR Lord and Miller mine the script... for plenty of profane laughs as they set up Hill and Tatum as a hilariously off-kilter comedy duo.
+BAD ...it doesn't help, either, that large chunks of the film have been improvised wholesale by the various actors, which only exacerbates the film's excessively slapdash feel.
+BAD ... latest in endless slew of painful spoofs based on TV shows takes an OK premise and milks it for an occasional chuckle before devolving into a succession of increasingly lame sketches.
+BAD They know it's a joke. But like high school itself, 21 Jump Street hits the wall about halfway in and even prom night can't save it.
+GOOD The humor squeezes just about all the giggle juice it can get out of the R rating. If you need a movie map, this 21 Jump Street is on the FAR side of town from Sesame Street.
+FAIR by no means a great comedy, but it does demonstrate that playing against the grain can be a good move, especially when the people in charge have run out of ideas
+GOOD It doesn't matter if you never saw the original, because this movie is a clever, fast-paced, action comedy...
+GOOD A good-natured must-see for fans of broad, silly comedies with a little something under the surface too. Bright, breezy and brilliant.
+GOOD It is funny because it is pointed and smart, and it is also funny because it is unusually crass, but the chief takeaway here should be that it is funny.
+FAIR Rigorous planning likely was involved in taking the dumb concept of "21 Jump Street" and turning it into something that seems so effortlessly brilliant.
+FAIR While hardly raising the bar in action-comedy, it's still a fun, irreverent, laugh-out-loud take on the beloved, small-screen original.
+FAIR I won't go so far as to say it's good, but 21 Jump Street is certainly better than it has any right to be.
+FAIR The humor may be coarse and crude but it is funny, and with these movies that is what counts.
+BAD 21 Jump Street is a cockamamie movie. It's as rowdy as a dick joke. After the 21st dick joke, I wanted to jump off. And after the dick jokes there's a load of excrement jokes.
+FAIR It has a tone all its own: drunk enough to lower the inhibitions; not so drunk that it becomes unintelligible.
+FAIR Funny and clever but ultimately dispiriting, with a finale that affirms the queasy wink-wink legalized bullying of its early police-vs.-citizens scenes, and that associates manhood with a willingness to kill with a gun -- all for a cheap laugh.
+GOOD 21 Jump Street is as fresh and original a comedy you'll ever find that is based on a totally stolen concept. If only all Hollywood rip-offs could be this good.
+FAIR The film is driven more by its concept than by its plot but it's still a fun summer film.
+FAIR Expensive, a misfire, but perfectly servicable for what it is
+FAIR Delivers on the promise of an exciting genre mash-up but, even with a talented cast and revered team of writers, fails to weave a fulfilling story.
+FAIR Patchy, if enjoyable in parts, but nowhere near as awesome as that title suggests it should be.
+BAD Jon Favreau's "Cowboys & Aliens" is a film that starts off with promise, but quickly loses its way as it tries to merge two different genres.
+FAIR Rather refreshingly what-you-see-is-exactly-what-you-get: a western with aliens grafted on, or a sci-fi invasion film with cowboys grafted on--nothing more, nothing less.
+BAD A mercilessly boring, wasted opportunity that forgets to have a sense of humor, charisma, or aliens.
+BAD While we were hoping and rightly expecting some old school magic from the director of Iron Man, the director of Iron Man 2 showed up.
+FAIR 'Reach for the skies' has a whole new meaning now. The science-fiction Western 'Cowboys & Aliens' is an entertaining, genre-blending romp. It's a serious movie, too - a drama with comedic moments - and that makes it all the more exciting.
+FAIR Not the Boys Own Adventure it could have been, but a fun - if often flawed - romp.
+BAD No amount of gee-whiz techno-wizardry or nifty pop-cultural juxtapositions can save Cowboys & Aliens from two terrible truths: it has a dud script, and a dud director.
+BAD full review at Movies for the Masses
+FAIR we get a standard story, some decent setpieces and only a few funny lines...Take the ride, but don't blame us if you end up saddle sore.
+FAIR Uma diversao eficiente que, sim, poderia ter explorado sua otima premissa com mais cuidado, mas que ao menos nao a desperdicou com "homenagens" tolas e auto referenciais.
+BAD The two marquee stars don't interact much, the "big" action pieces are fairly ho-hum, and the movie just cowpokes along when it seems like it should be having a lot more galloping fun.
+GOOD I don't think too many people are going to wander into the theater expecting The Tree of Life. The film delivers exactly what it promises.
+BAD So in much the same way that 'Transformers' is essentially a robot war with a few humans stumbling around trying to get laid; this film should really have been called 'Alien Bracelet Vs. Aliens... With Some Cowboys Falling Off Their Horses'.
+BAD The cowboys: great. The aliens: not so much. There's fun to be had here, but it falls way short of the pulp classic it could have been.
+BAD A film where the occasional sense of fun is far outweighed by the omnipresent sense of stupid.
+BAD Overall, a dull, overblown and forgettable farrago.
+FAIR There is nothing that fascinating about Favreau's treatment, nor his source material, but compared with similar blockbuster fare of recent months, this curious exercise in genre bending is very watchable.
+FAIR There's no doubt seeing a cowboy leap from a horse on to a spaceship is all kinds of awesome.
+FAIR I wanted to more than love Cowboys & Aliens. For two hours I wanted to feel 17 again.
+BAD The men's relationship is dull and under-explored and the plot is slow, unexciting and silly. Craig is a lot more fun in a tuxedo than a stetson.
+FAIR If you can swallow the shameless set-up, it's all highly entertaining.
+FAIR Jon Favreau handles the big setpieces with competence if no great flair; whenever the plot backs itself into a corner something else will make a sudden, inexplicable interruption.
+GOOD A wild and spaced-out horse opera.
+BAD This is definitely a film of two halves - the first is a fantastic western-mystery, the second is a lazy and silly sci-fi.
+BAD Why has there never been a film about cowboys beating up extra-terrestrials? This movie will give you a pretty good idea.
+BAD Favreau ... allows the material's imaginative possibilities to flare up and fade away.
+BAD The density of inanity at the conceptual core of this crass sci-fi western starring Daniel Craig and Harrison Ford pushes outwards, inflating fatuous substance and propelling bric-a-brac in all directions.
+FAIR The premise does pretty much what it says on the tin.
+FAIR For all its A-list ingredients of concept, cast and director, the resulting mash-up is merely a superior B-movie, as uncertain a fusion as potato on a pizza.
+BAD Yes, yes, cowboys punching aliens in the face can be funny. But it doesn't make this silly endeavour worthwhile.
+BAD The plot has so many holes and unexplained phenomena that it's hard to know where to begin.
+BAD Craig is a bona fide action star who shouldn't be reduced to spitting out lines like "Demons took your gold" in a husky Southern drawl.
+FAIR Jon Favreau made a really good comic book adaptation out of the original Iron Man but like every director he's dependant on a good screenplay and this one relies on cliches and having taken on this mix of genres it actually isn't wild enough conceptually.
+BAD Unfortunately, Cowboys and Aliens takes itself way too seriously to really ignite.
+BAD What started as 'True Grit'-meets-'War of the Worlds' ends up closer to - whisper it - 'Wild Wild West'.
+FAIR Enjoyable, well made and superbly acted sci fi-slash-Western adventure that duly delivers both cowboys and aliens, though a little bit of humour wouldn't have gone amiss.
+GOOD Anderson is often mistakenly dismissed as a hack but the artist is actually working within the confines of Hollywood genre cinema, constantly transcending and elevating it through the triumph of his avant-garde visual sensibility.
+BAD Looks are absolutely everything in Retribution, which melds stunning 3-D computer-graphics and spectacular sets with a skimpy storyline and zero characterization.
+BAD More high-calorie, low-sense, audiovisual CGI stimulation arrives in the form of this fifth and most roundly unsatisfying entry in the previously lithe and fun videogame franchise.
+FAIR It's a funny thing about Jovovich as Alice: she gives the character just enough personality, but not enough to break the somber apocalyptic mood.
+FAIR The Resident Evil films are not everyone's bag, although they seem to be evolving into their own brand of hyper-stylized cheese, made more extreme with each outing.
+FAIR For those of us who know what we're in for with the series, the fifth installment is for better or worse, more of the same - albeit with the familiar levels of ridiculousness from its maddeningly inconsistent director/writer
+BAD You can put as much gloss on top of the shaky foundations and wooden acting as possible but as soon becomes apparent - you can't varnish a turd.
+FAIR If you liked the other Resident Evil films, you'll like this, and the end suggests there'll be plenty more.
+BAD More than ever, forgoes real attempts at character and story for lots of repetitive zombie skirmishes.
+BAD Resident Evil: Retribution is style-over-substance in every possible definition of the concept.
+BAD Even noisier, more incoherent, and more like watching someone play a shooter-style video game than its predecessors.
+BAD While the last movie felt clean and more character-focused, this one seems a good deal lazier, both in the writing and directing departments.
+BAD 'Regurgitation' might be a more appropriate subtitle for this redundant fifth go-round...
+BAD Containing almost no story, Resident Evil: Retribution shows the series' video-game origin more than ever.
+BAD Nobody goes to a Resident Evil movie expecting a classic but this fifth entry in the series is just plain cruddy.
+BAD Milla Jovovich is still a great action heroine, but the movie is just more of the same old stuff.
+BAD Uwe Boll gets most of the scorn, but has anyone done more to destroy hope of a decent movie being made from a video game than Paul W.S. Anderson?
+BAD It takes a while for the film to start being bad.
+FAIR A mildly entertaining piece of eye-candy.
+BAD Dreary,loud and uber-violent but, having grossed nearly $700 million worldwide, there's no stopping this franchise.
+BAD 'Resident Evil: Retribution' does feel like a miniscule improvement over 'Afterlife,' but should still be considered overkill for a franchise that has already run its course.
+BAD A visually-captivating fantasy for teenage males with raging hormones, the demographic most apt to enjoy watching an invincible vixen in spandex waste wave after wave of mindless mutants.
+BAD The script is incoherent and the acting is terrible -- avatars would have been an improvement.
+BAD Thuddingly awful.
+BAD "Resident Evil: Retribution" brings us to the fifth entry in a series that ran out of steam a long time ago.
+BAD A zombie plague may have laid waste the world, but apparently supplies of black leather unitards have yet to be exhausted.
+FAIR Giving their growing fanbase exactly what it expects, director W.S Anderson and Milla Jovovich deliver another thick slice of slick, glossy, futuristic action pulp.
+BAD Nao tem historia; tem fases.
+FAIR Paul W.S. Anderson's writing may not have blown minds and our characters may not be up for any awards, but Resident Evil: Retribution showcases tantalizing big budget action on a stylistically provocative level.
+BAD Anderson's action chops are undeniable - but Resident Evil: Retribution might be one of the dumbest things ever crafted by human hands.
+FAIR You either enjoy buff female and male characters in tight, form-fitting outfits shooting at zombies and each other, or you don't. It's really that simple.
+BAD I half-believed this movie was, indeed, a video game that Paul W.S. Anderson was playing in his underwear while smoking a bong.
+GOOD a work so completely removed from lucidity or linearity that if it bore the signature of Luis Bunuel or Seijun Sezuki instead of that of Paul W.S. "The Other Master" Anderson, it would be celebrated as a masterpiece of experimental cinema.
+GOOD At this point in the franchise, Anderson is content to alight the saga on a perpetual rewind loop, ever-ending, ever-rebooting, all subsidized by his nonpareil compositional sense.
+BAD Director Paul W.S. Anderson really nails the feeling of a character walking into a room and opening fire upon a horde of nondescript bad guys, then walking into another room and doing the exact same thing, ad nauseum.
+BAD Most franchises which make it to 5 movies start to run out of ideas by then, but if Retribution has one glaring problem it's that it has far too many of them.
+FAIR Resident Evil movies don't tell stories so much as they provide variations on a theme, and that theme is: a pubescent boy's wet dream recast as an antiseptic dub-step nightmare
+BAD "At last," Alice narrates, "we thought we had survived the horror." But no.
+FAIR Mini skirt girl power continues.
+BAD The special effects sequences, silly jokes, tantalizing outfits and overbearing soundtrack seem painfully forced and fake. Or maybe a better word is shallow. This film, for whatever it achieves, is painfully shallow.
+BAD Well, at least the title is apt -- this aggravatingly incoherent series of subpar music videos did make me want to see someone fully throttled.
+GOOD Once again, the tone is that of a giggly, sweetly knowing, megabucks slumber party.
+BAD To paraphrase Steven Soderberg, if having fun on a set was an indication of how good the movie will be then Cannonball Run would be the greatest movie ever made.
+BAD This thing is pure garbage.
+BAD Stupid stunts that defy rational belief, wasted casting that infuriates and annoys, and more skin than any woman with a brain, agent and reputation should display on screen.
+FAIR [A]s with the first film, it's a complete goof, meant to be enjoyed with a large popcorn and lots of air conditioning.
+GOOD Full Throtle is full of fun.
+BAD If you want to see what $125 million worth of nothing looks like, Charlie's Angels: Full Throttle is the picture for you.
+BAD A lot less fun than 2000's Charlie's Angels, this sequel made for the ADD generation jumps from one thing to the next like a mongoose on crack, and yet comes up with nothing.
+GOOD That Full Throttle is an exuberant, eye-catching and infectious film despite a script that probably only exists in theory proves that director McG is a damn McGenius.
+BAD Runs out of juice the faster it tries to reach a conclusion. Nice outfits, though.
+FAIR Taking hokey acrobatics to an over-the-top extreme, the Angels are as unbelievable as three Xenas on a caffeine high with some of the craziest action sequences ever conceived
+FAIR A high spirited ride that just goes on too long.
+FAIR A startling/shining example of Hollywood's ability to absorb everything, including anti-Hollywood sentiment, and regurgitate it as something sexier, flashier, more fun, and less filling.
+BAD E possivel que nao haja nada para ser compreendido em As Panteras 2 alem do fato de que garotas bonitas nao sao sujeitas a acao das leis da fisica.
+BAD Monte d'un cran ou deux les caracteristiques detestables du premier film.
+BAD By the time Demi Moore leapt from a building and flew through downtown Los Angeles like Neo, my brain gave up and wearily waved the white flag.
+FAIR Perfect brainless Friday night entertainment.
+FAIR 'Un delicioso placer culpable que puede ser disfrutado perfectamente por cualquiera que vaya a la sala de cine sin esperar una historia profunda o seria.'
+BAD Charlie's Angels was fun. For some reason, Charlie's Angels: Full Throttle chooses to be insanely incoherent instead.
+GOOD Do not go in here expecting "an action movie" or an "up with people especially girls" kind of flick. This is basically PG-13 porn. And it's a blast.
+GOOD Just as much fun as the first one.
+BAD The term eye candy has never felt more apropos.
+FAIR Director McG has a lot of get-up-and-go, but it's never quite clear where all his go is supposed to be going -- other than to the next set-piece.
+FAIR Stylish, lip-stick-slick, these flicks' opening schticks are like a short-wick cracker brick.
+FAIR Bigger, louder, and more gratuitous (because 'naked-er' isn't a word).
+BAD It's loud, energetic and popping with enough eye candy to induce pancreatic shock in a sperm whale - and the best part? It has absolutely no plot.
+BAD It amounts to cinema for goldfish, so empty that even the makers can't remember what happened five seconds ago.
+GOOD A textbook example of the perfect crowd-pleaser.
+GOOD The biggest impression left by Yojimbo is the characterization of Sanjuro, whose iconography of stoic cool (that inspired Clint Eastwood's antiheroic "Man with No Name") is consistently undercut with dashes of comical realism...[Blu-ray]
+GOOD This is one of those movies where it sounds like none of it should work and yet all of it somehow does.
+GOOD Even Eastwood's Man With No Name is inspired, perhaps, by the samurai in Yojimbo.
+GOOD The explosive outbursts of violence in Yojimbo are superbly choreographed, with Kurosawa's customary use of a telephoto lens creating a hallucinatory feeling.
+BAD Despite the sometime appearance of the whole thing as a forthright travesty, it does have stretches of excitement and cinematic power.
+GOOD Japan's definitive leading man, Toshiro Mifune, wields wits that are even deadlier than his Katana. Funny, clever, and never a dull moment.
+GOOD It is fair to say that, without Yojimbo, certain key aspects of Western cinema would not be the same today.
+GOOD Every shot in this film is a textbook study of camera movement and placement, composition in depth, and the use of deep-focus photography.
+GOOD There's no denying its snappiness. Whenever you shut your brain off, it hums amicably right along.
+GOOD Overall, 'twas a good movie, albeit kind of strange.
+GOOD One of Japan's great contributions to cinema, the inspiration for spaghetti Westerns and the introduction of a new kind of film hero.
+GOOD Great beginning and ending, but drags a bit in the middle.
+GOOD Massive amounts of swordplay and treachery turn it into one of the most entertaining and best Kurosawa films.
+FAIR "The Barefoot Bandit" never coalesces into a complete portrait of a fascinating figure, but it has its moments of difficult truth.
+FAIR ...a fascinating dossier, even if the protagonist remains somewhat an enigma. Or perhaps because of it, "The Barefoot Bandit" makes a case for a modern-day folk hero.
+FAIR [A] half-forgotten little curio for later generations to study with puzzled delight.
+FAIR Car stunts, romance, and salty language in 1970s comedy.
+FAIR The movie benefits from some excellent vehicular stuntwork, an apt role for Burt Reynolds, the introduction of Jerry Reed's "East Bound and Down," a bright turn by Reynolds' real-life girlfriend Sally Field, and Jackie Gleason at his hammiest.
+GOOD quintessentially 70s and still a ton of fun
+BAD The first in the series and the best of a lousy lot.
+GOOD A raucous blast with plenty of great lines. Gleason is an absolute riot.
+GOOD Gleason is the real show here, but it made Burt a huge star.
+FAIR Good, stupid fun, but a precursor to some awful copycats.
+GOOD The true mark of a good action flick is that it knows when to play dumb and when not to.
+BAD Boring fight movie. Wayne Newton is okay, but nothing exciting here.
+BAD A major studio actually backed this sequel?
+BAD Even as far as this style of junk goes ... "Best of the Best 2" is pretty darn bad.
+FAIR Lots of fun....sexy, slick and surprisingly novel
+GOOD It will offend those who are offended by the very title; it will probably thrill those who take one look at the title and immediately want to see the film.
+FAIR The results are uneven and occasionally mind-bogglingly bad (which is partly the point), but they're never what you'd call dull.
+FAIR And what, pray tell, is the Big JC doing wasting his time helping Canadians?
+GOOD The basic premise alone is worth the price of admission for this one.
+FAIR Harris and Phifer's chemistry lends the inevitable tragedies some genuine punch.
+GOOD "Paid In Full" is not the kind of movie that George W. Bush will ever see.
+FAIR Stone seems to have a knack for wrapping the theater in a cold blanket of urban desperation.
+FAIR For a rapsploitation film to target and frown upon the darker forces of its nature is certainly a good sign for the maturation of the genre.
+BAD The story is familiar from its many predecessors; like them, it eventually culminates in the not-exactly -stunning insight that crime doesn't pay.
+FAIR If you saw it on TV, you'd probably turn it off, convinced that you had already seen that movie.
+FAIR This familiar rise-and-fall tale is long on glamour and short on larger moralistic consequences, though it's told with sharp ears and eyes for the tenor of the times.
+BAD Harris is supposed to be the star of the story, but comes across as pretty dull and wooden.
+BAD A standard, run-of-the-mill drug drama.
+BAD Needed a little less bling-bling and a lot more romance.
+BAD Bottom-rung New Jack City wannabe.
+FAIR Rings true, from the smooth dialogue to the unaffected performances of the central actors.
+FAIR The movie is ambitious, has good energy and is well-acted, but tells a familiar story in a familiar way.
+BAD In this bird's-eye-view of the drug trade circa 1986, there's something missing: the buyers.
+BAD A cross between Blow and Boyz N The Hood, this movie strives to be more, but doesn't quite get there. Good performances keep it from being a total rehash.
+FAIR Bolstered by exceptional performances and a clear-eyed take on the economics of dealing and the pathology of ghetto fabulousness.
+FAIR Instead of a hyperbolic beat-charged urban western, it's an unpretentious, sociologically pointed slice of life.
+FAIR Suffers from a flat script and a low budget.
+BAD It's actually too sincere -- the crime movie equivalent of a chick flick.
+FAIR An intelligent crime drama, not because of the criminal activity it dramatizes but because of its powerful examination of the forces that drive criminals.
+FAIR Though filmed partly in Canada, Paid in Full has clever ways of capturing inner-city life during the Reagan years.
+FAIR It's good, hard-edged stuff, violent and a bit exploitative but also nicely done, morally alert and street-smart.
+FAIR ...does such a fine job of engulfing you in its world and allying you with its characters' choices, good and ill, that its shortcomings are remembered only as an afterthought.
+FAIR Paid in Full is remarkably engaging despite being noticeably derivative of Goodfellas and at least a half dozen other trouble-in-the-ghetto flicks.
+GOOD Epic, intimate and gripping.
+FAIR The mountaineers climb for reasons that have little to do with nationalism - reasons the film clumsily attempts to articulate in words. It's far more successful conveying those inspirations with stunning images of them scaling daunting heights.
+FAIR It's Kolja Brandt's gloriously edge-of-the-seat/seat-of-the-pants cinematography (much of the film was shot on location) that really packs a natural wallop.
+FAIR The images of the Eiger are both majestic and harrowing, and the action is as exciting as in any mountain-climbing movie to date.
+GOOD I have no idea if anything beyond the essentials is accurate. A good deal of it feels more like a 1930s movie than a 1930s event
+GOOD A straightforward, wickedly suspenseful Man vs. Nature saga of the type that rarely gets made any more.
+FAIR Philipp Stolzl worked in the same dangerous conditions as the original climbers, and we can feel the chill and peril in our bones. It's a shame, then, that the screenwriter, unlike the camera crew and the characters, was afflicted with such timidity.
+FAIR There's no subtext and not much character development, but those aren't really missed.
+FAIR The romantic subplot is underwritten and overwrought. More compelling is ... the impressively harrowing mountain footage.
+BAD Some of the plotting (credited to four screenwriters) is too conventional and convenient, and the clunky running time is a problem - two-plus hours of this material is too much.
+FAIR With knuckles alternately white from suspense and black from frostbite, the alpinists get progressively harder to tell apart. But the most compelling character, for all its brutal enormity, always was the mountain.
+FAIR The word "gripping" doesn't do it justice.
+GOOD This white-knuckle adventure is a literal and metaphoric cliff-hanger that gets a spectacular foothold on an unforgiving mountain.
+FAIR Some of the shots must have been made on sets. None of that matters. I was on the side of that mountain all the way.
+FAIR Most of the action is set on the Eiger's north face, and because this true story is not well known in this country, I was gripped by the very real surprises that occurred there.
+FAIR Although about 30 minutes too long, it is still interesting with phenomenal cinematography. It's an exhausting sit, but bring your parka.
+FAIR The film puts us on the cruelly beautiful mountain alongside the climbers as they inch up treacherous limestone crags and unstable ice fields. The fear of falling is palpable.
+FAIR Five writers were responsible for the script, and the characters consequently have one or two generic characteristics and no inner life of their own; they've been committeed to death.
+FAIR You don't have to be a Nazi to be totally mesmerized by the intense drama on the Eiger: the nimble ascent, the calamities that befall our noble climbers, and the pitiable disasters.
+FAIR Kolja Brandt's cinematography is stunning, but can't rescue the end from some wince-inducing "Ain't no mountain high enough" heroics.
+GOOD Stolzl makes the smallest details loom large.
+GOOD Ssuspenseful, meticulously crafted, harrowing and thrilling. It's an incredible true story about courage and the power of the human spirit.
+FAIR It is impossible not to put yourself in the boots of the mountaineers clinging to a sheer, icy rock face during a blizzard that threatens to send them into oblivion.
+BAD Kolja Brandt's hand-held cinematography and Philipp Stolzl's direction keep the suspense level high. Unfortunately, somebody decided to insert a superfluous love story involving a completely fabricated female photojournalist.
+BAD for all the tension-fraught, high-altitude rappelling and cliffhanging, the screenplay has little to counterweigh its commitment to historical truth
+FAIR Cleverly playing on the genre's propagandistic ties to the Third Reich, the film reflects the tragic arc of National Socialism in each ominous crevasse and in every grandiloquent gesture.
+FAIR Slogs through an hour of frequently rote exposition until it hits its riveting groove when the rappelling and piton-hammering take over.
+GOOD A well-crafted, visceral piece of historical filmmaking.
+BAD It's the snow-bound scenery that really steals the show.
+GOOD Brilliantly shot, utterly convincing footage of young men inching up a vertical rock face proves nerve-racking and a worthy tribute to the true-life bravery of 1930s climbers. It's gripping and fascinating in equal measure.
+FAIR Stolzl captures the period idealism and propaganda perfectly. The terrific footage of the climb is an almost unendurably tense watch.
+FAIR Stolzl films their harrowing ordeal out on the "Murderwall" with tremendous skill, but the rest of his movie is lumpen to say the least.
+FAIR Gory, scary, violent sci-fi is too intense for kids.
+FAIR ...boasts a tongue-in-cheek, downright campy sensibility that ultimately pervades every aspect of the proceedings.
+GOOD Insanely subversive...functions as a visually dazzling science-fiction action picture, a philosophical challenge, and a hilarious, incisive comedy. [Blu-Ray]
+GOOD Paul Verhoeven's satiric, 1997, sci-fi, war-movie romance is admittedly an acquired taste.
+FAIR Utter stupidities and other scientific impossibilities litter the script like trooper body parts . . . [yet] the film does something right
+BAD What galls me is the film's marketing, moral and ideological cynicism.
+FAIR Cut Paul Verhoeven some slack!
+BAD Lacking the sophistication of the average comic book, it compensates with panoramic attack sequences, reminiscent of the Japanese swarm attacks in American war movies.
+FAIR Repulsively thrilling and often downright hilarious.
+FAIR A jaw-dropping experience, so rigorously one-dimensional and free from even the pretense of intelligence it's hard not to be astonished and even mesmerized by what is on the screen.
+BAD It's a cynical wasteland from beginning to end.
+BAD A nonstop splatterfest so devoid of taste and logic that it makes even the most brainless summer blockbusters look intelligent.
+BAD The enjoyment you get from watching Starship Troopers is similar to the pleasure felt from a loud 'ZAP' from a bug zapper. And about as deep.
+BAD This flick wallows in just about every moth-ridden cliche known to the film industry and relies almost entirely on naked teenage girls and recycled special effects for what it deems excitement.
+FAIR Not the return to form for Verhoeven many have called it -- in the end, it is just a step in the right direction.
+BAD In the hands of Verhoeven, the mammoth sci-fi battle flick is one of the most astonishingly bad films ever made, a monument to inept filmmaking on a colossal scale.
+BAD Nobody objects to a simple gross-out proposition on the big screen. But here too, Starship Troopers doesn't quite make it.
+BAD The action sequences are heavily laden with special effects, but curiously joyless.
+FAIR It's a sci-fi gorefest, and a fun one at that.
+GOOD The battle scenes are phenomenal, both for the realistic and clever special effects and for the humor.
+GOOD Intellectually, I can't really condone that message, but I have to admit that this will be a guilty pleasure of mine for years to come.
+GOOD It is pure Verhoeven -- broad, brash and ultraviolent, and all up there on the screen.
+FAIR Enjoyable despite the little redemption it offers humankind, Troopers fits every Hollywood convention while simultaneously breaking each one.
+FAIR May just be the bug movie to end all bug movies.
+GOOD Terrific entertainment.
+BAD As written by Ed Neumeier, who also wrote Verhoeven's much tighter Robocop, Starship Troopers never gets over its 180-degree swivel from teen-age love story to murderous destruction.
+FAIR As a brainless bubblegum movie, it's an exhilarating adrenaline rush.
+FAIR Just enjoy the fun of watching Neil Patrick Harris in his audition for Apt Pupil and roll with it, baby.
+FAIR This is powerful entertainment that appeals to our most basic instincts.
+GOOD Manages to be both fun and shocking -- sometimes in the same shot.
+GOOD Director Paul Verhoeven is back in his subversively nimble RoboCop groove with the uproariously cheeky Starship Troopers.
+FAIR Flawed but fun.
+GOOD Shrug however you might at a story that has to pack so many characters and tangents into 140 minutes; it will still be difficult for me to see beyond the joyous awesomeness.
+GOOD It's little surprise this is largely a terrifically enjoyable experience -- one that'll please both fanboys and the public at large.
+FAIR Of course it's about one hundred times brighter than Transformers and Michael Bay's imbecilic spinoffs, and should keep multiplexes everywhere in its competent grip. But I didn't love it.
+GOOD Smart, witty, funny, action-packed and surprisingly cathartic.
+FAIR The bigger and goofier it gets, the more fun it becomes.
+FAIR A fun light-hearted summer blockbuster that is weighed down by a forgettable villain.
+FAIR Fast-paced superhero series sequel will be fun for fans.
+FAIR Whedon must balance the competing storylines and screen time of the actors. He does it nicely, injecting humour and a touch of drama into the action -- and all without so much as a Tesseract to his name. Some assembly required, and delivered.
+GOOD Whedon has delivered that rare action-packed, special-effects spectacle that is relentless in its eagerness to please and successful beyond its goal.
+GOOD It's Summer's Mightiest Movie. Nuff said.
+GOOD Was Marvel's ambitious dream for a shared cinematic universe truly worth it? In my opinion: Most definitely.
+GOOD The Avengers is one of the best superheroes movies in a long time and is likely to become a classic of the genre. You would need to really hate comic book movies not to get a kick out of this.
+GOOD The Star Wars of a new generation.
+GOOD "Marvel's The Avengers" is a visual comic book and it doesn't aspire to be anything more than that. As a film version it succeeds-one is tempted to say-MIGHTILY.
+FAIR It really is quite something that [Whedon] was able to take so many characters and put them into a movie where nobody gets left behind.
+GOOD It really is an astounding achievement - a film that juggles an unenviable number of elements; combining what we've seen before, slotting them together and then adding enough depth, action and humour to make this a remarkable standalone film.
+FAIR Marvel's "The Avengers" is the super-hero movie to end all super-hero movies. Why? Joss Whedon.
+FAIR After years of buildup and prequels, "The Avengers" is merely average.
+GOOD The first great superhero team movie, and a film that captures the essence of what makes the Marvel Universe great.
+FAIR While it reflects a movie culture that has traded originality for scale - one wonders if there's a shred of originality anywhere in the film - The Avengers is grand, throwaway fun.
+GOOD Yeah, it's all that. A tent-pole cash cow for the studio, a dream come true for fans, and treat for action aficionados, 'The Avengers' comes at you as the first true "summer movie spectacular" of the 2012 season.
+BAD The overlong, stale experience barely raises a fast pulse, as the movie quickly stumbles into a standard film structure and doesn't even try to break free.
+GOOD The culmination of four distinct franchises is an exciting and entertaining product.
+GOOD Whedon's clear fanboy glee is irresistibly contagious to the audience, whether the heroes and villains go at it with fisticuffs or sharp, witty dialogue.
+BAD By the time the utterly routine (and decidedly endless) finale rolls around, Marvel's The Avengers has unquestionably squandered the potential of its premise and its cast...
+GOOD Delivers big time with everything longtime fans and newcomers alike could possibly want in a summer blockbuster that definitely surpasses the hype.
+GOOD ... tremendous fun ...
+BAD The result is 80 brief minutes of movie skits assembled in an order that sort of resembles a plot.
+BAD The movie will be of interest only to Nielsen's most devoted fans and to those who wonder why Nicollette Sheridan never made more movies, or more swimsuit calendars.
+BAD The jokes come in sporadic volleys rather than the steady machine-gun pace of The Naked Gun and Airplane!, and, with a few exceptions, they are less truly aimed.
+BAD The blockbuster action thriller genre is ripe for sending up, but this lazy effort has to go down as a miss despite the presence of spoofmeister Leslie Nielsen.
+BAD Sporadically funny, but never more than a sting of crude gags.
+BAD Yet another Leslie Nielson movie parody, targeted this time at James Bond pictures and their many spinoffs.
+BAD As funny as Nielsen can be, like all comic actors he still needs the quick-thinking jokes and zingy one-liners to be genuinely funny.
+BAD Spy Hard just comes off as a long commercial. And yes, that means most of the best moments you've seen in the movie's trailer.
+BAD Nielsen's schtick is getting pretty threadbare by now -- his movies used to wring laughs from assaults on his silver-haired dignity, but after years of screen buffoonery, he has no dignity left to assault.
+BAD A classic example of why David Zucker/Jim Abrahams/Jerry Zucker-style comedies should be left to ZAZ themselves.
+BAD Stay for Weird Al Yankovic's brilliant opening credits, then flee!
+BAD Nielsen, with his expert deadpan and sense of comic timing, creates the illusion of humor -- for about 15 minutes.
+BAD [Scores] only a handful of genuine laughs during its scant 78 minutes.
+BAD Most of the humor falls flatter than Steve Forbes' flat tax pitch.
+BAD A dreadfully unfunny comedy that takes Naked Gun-like sketches and rehashes them without a whit of style or energy.
+BAD Never consistently humorous.
+BAD Filled to the bursting point with witless, sub-Mad magazine movie parodies, pointless cameos by a seemingly endless parade of has-beens, and once-hysterical, now stale jokes lifted straight from Airplane! and the original Naked Gun...
+BAD You know you're in trouble when the highlight of a movie comes during its opening credits.
+BAD You won't laugh hard at Spy Hard. And that's not because the jokes aren't funny. Most of them aren't even jokes.
+BAD Ugh.
+FAIR ...represents a significant improvement over its lackluster predecessor...
+BAD The character development is as thin as shed snakeskin.
+BAD This is a film that manages to take what should have been delirious camp fun and turn it into a struggle to keep any remote interest.
+BAD Provides some unintentional laughs and genuine bursts of adrenalin, however hokey it gets and however Harry Potterish the snakes.
+BAD It's fun to see the characters get eaten up. It's the people who remain alive and talking that may disturb the viewer.
+BAD Not especially tedious, the snakes were OK, and I understood most of the conclusion. The only surprise, though, was that I made it to the end.
+BAD Obviously the cast and crew don't care that this makes no sense--they got a great holiday in Fiji.
+GOOD Despite a script that borders on banality ... and Strickland's sometimes distracting emoting, director Little and director of photography Stephen F. Windon do an exceptional job of creating tension.
+BAD Se vou perder uma hora e meia de minha vida vendo uma cobra comer pessoas, quero, no minimo, que a refeicao seja composta por caras conhecidas.
+BAD Even if it isn't worth the price of admission, it is at least a pretension-free flick.
+FAIR ...a real popcorn film...
+FAIR Surprisingly, Anacondas turns out to be much more entertaining than it has any right to be.
+BAD It's predictable. It's clich&#233;. But it's fun to watch.
+FAIR It took four screenwriters to cobble this together. That's reasonable. With the death of Ed Wood, it's not possible for any one person to come up with anything this screwy.
+FAIR ...easily the best mainstream release of the summer... an example of first-rate B moviemaking.
+BAD I never thought a film about giant snakes that eat people could be this atrociously dull.
+BAD At best, it will come as a pleasant surprise to those going in with the lowest of preconceptions. At worst, it offers audiences a chance to get out of the August heat for 90 minutes.
+BAD When the snakes do attack, there's not much originality or surprise to their methods. No one gets spun up and down like a yo-yo, or puked back up.
+BAD More snakes does not a better movie make.
+FAIR If you just want to see giant snakes eating people who talk too much and need to die because of sheer stupidity, this movie is for you.
+FAIR The big snake is back and he's brought along some friends.
+FAIR Dwight Little directs this exciting film that will keep you on the edge of your seat.
+BAD As someone said, the only way you should see this is drunk.
+BAD Who knew the science field was so jam-packed with beautiful people?
+BAD I can appreciate a good B-movie as much as the next guy, but even by the very relaxed standards of B-moviedom, "Anacondas 2" is a rather sad affair.
+BAD The kind of sequel that should have gone directly to DVD shelves.
+BAD How ridiculous is this? They depend on cellphones that even work in the remote jungle.
+BAD The only surprise in this unintentionally funny scarefest is learning that the characters you hope get eaten first, darn the luck, make it to the finish.
+BAD Stinky cheese.
+BAD Supremely silly but undeniably fun.
+BAD 'There's a way in. There's a way out.' He's right. It's behind you, right below the sign that says Exit. Just follow the stampede.
+FAIR Wisely prods not only ordinary phobias about big, bad serpents but also universal terrors of the dark, of narrow spaces, of drowning, of falling, of spiders and much more.
+BAD The sequel might have the formula down, but it lacks everything that made Anaconda fun.
+FAIR A fascinatingly disjointed hybrid of Western and combat film.
+GOOD One of Leone's best movies -- and one of his looniest, which may be exactly why it's one of the best.
+GOOD Not exactly classic Leone, but enjoyable nonetheless as many of the great elements are in place: maverick heroes, action, and Ennio Morricone music.
+BAD The idiosyncrasies are there, all right, but they have never seemed less interesting.
+FAIR Well-plotted action, but as in most of Leone's films scenes seem to have been deleted from the American prints.
+GOOD Woefully overlooked... Top-tier widescreen action... Ennio Morricone's enchanting score and Leone's trademark flourishes handshake in wild agreement. Sucker punches its way to the top of the Italian-western mountains.
+GOOD Features one of the most glorious and unforgettable scores by Leone's composer, Ennio Morricone.
+FAIR not mean to be taken seriously
+BAD [The characters] aren't people; they're mere objects to stick in front of the flowing lava.
+BAD Movie bombs L.A. with lava, audience with stupidity
+BAD The special effects are impressive and the acting by Jones and Heche is good, although their roles didn't require much skill or inspiration.
+FAIR The film, about a volcano erupting in downtown Los Angeles, is helped immeasurably by veteran actor Tommy Lee Jones, who has enough charm and charisma to rescue just about any movie. He needs it all to save this one.
+FAIR On its own escapist terms, Volcano dishes up a textbook serving of low-I.Q., high-energy entertainment.
+FAIR The action, the effects and tough-as-nails Tommy Lee provide a worthwhile thrill ride -- even if the last drop wasn't as big as you thought it would be.
+FAIR gives us the bare minimums needed for a story and then lets the lava flow
+FAIR The coast may be toast, but it's the lava, covering everything like a malevolent tide of melted butter, that makes this a disaster picture that's tastier than usual.
+BAD There's no real suspense here 'cause you don't care about anyone.
+BAD I don't want to pay $7.50 to watch a movie imitate CNN.
+BAD Oh, there's nothing like a natural disaster to bring people together!
+BAD Hundreds of screen technicians obviously slaved on the effects -- and for what? A dopey subplot about a bogus arrest. Soap opera involving Jones' injured daughter.
+BAD Volcano is an embarrassment, albeit one of the so-bad-it's-kinda-good variety.
+GOOD These things can be done well or badly, and Volcano goes full steam ahead.
+FAIR More about spectacle than suspense, a very impressive production which is easier to enjoy from a detached distance than it is to get caught up in.
+BAD Like the substantially better Twister, this film insists on a thunderous, exhausting pace that inevitably becomes deflating.
+BAD Volcano is an absolutely standard, assembly-line undertaking; no wonder one of the extras is reading a paperback titled "Screenwriting Made Easy."
+BAD A ridiculous script and mediocre special effects mar this ludicrous disaster pic.
+FAIR Memorable? Hardly, but the main actors are worth seeing, and that first act has so much promise it almost makes you want to forgive them for blowing the second.
+FAIR This is one of the best pure disaster movies ever made (not that it has much competition). Congratulations to director Mick Jackson for a job well done.
+BAD A host of characters is introduced in the opening scenes, but Volcano doesn't know what to do with them. It can't make us care.
+FAIR On its own merits, has some very fine cinematic flourishes... if we can but manage the herculean feat of separating it from the older movie.
+BAD 1985 sequel to American classic is tin-eared and creepy.
+FAIR Best to see them as individual films with nothing in common apart from source material, one a classic, the other a strong enough picaresque amongst some decent fabulation.
+FAIR There are some fine, Oscar-nominated special effects, but the excitement just isn't there.
+GOOD A forgotten classic.
+FAIR I can see why the Judy Garland fans might not appreciate this weird little adaptation, but it's actually pretty good!
+BAD Director Walter Murch tries to infuse the story with the inventiveness and adventure of the Star Wars saga, but the results are disappointing.
+GOOD Faithfully brings the Oz books to life. A classic.
+BAD The work of ingenious technicians who seem either not to know what gave the original film its magic, or not to care.
+FAIR Return to Oz is hardly as kid-friendly as The Wizard of Oz, but older children with a taste for the fantastic will find it interesting. Adult Oz fans will find it entertaining as well.
+BAD Should've stuck to that yellow brick road
+FAIR An underrated little romp, surprisingly faithful to L. Frank Baum's atmosphere... though obviously it's all overshadowed by that other Oz flick.
+FAIR The further adventures of immigrant mice.
+FAIR What can you say about a sequel that comes five years later and yet feels rushed?
+BAD Our sweet little Fievel has been stricken with a case of sequelitis ... but it's not too bad.
+FAIR Unnecessary sequel is nonetheless entertaining; Roddy Mcdowall back in simian shape.
+BAD Aside from Severn Darden, who relishes his lip-smacking heavy character, the cast seems disinterested; even series stalwart Roddy McDowall looks bored.
+GOOD An okay finale.
+GOOD surprisingly entertaining
+BAD Battle looks like the last gap of a dying series, a movie made simply to wring the dollars out of any remaining ape fans.
+BAD The bluntest, cheapest and worst of the 'Apes' movies.
+GOOD Schmaltzy doesn't get much better...
+BAD The battle was lost several movies earlier.
+FAIR Fans will enjoy it, but the "Apes" gang could have done a little better. Not surprisingly, this was the fifth and last installment. (Unless you count the TV show...)
+BAD At least it is only 83 minutes long.
+BAD The Planet of the Apes series started well, and gradually decreased in budget and quality. By Battle the budget is all but gone, and all the believability and excitement has gone with it.
+FAIR The only film in the series to end on a positive note.
+BAD [For] completists only and definitely counts as the worst in the entire series.
+GOOD The Curse of the Were-Rabbit, featuring his heroic man-and-dog duo, Wallace and Gromit, is Park at his sublimely silly best.
+GOOD Park and co have shaped a wonderfully warm and fuzzy family adventure out of old horror clichA (C)s.
+GOOD Instead of vainly pursuing today's latest trends, only to see them turn into tomorrow's embarrassments, Park and co. fall back on the values of the past, preferring substance and craft to the fleetingly voguish.
+GOOD It's a one-joke premise, but part of Nick Park's madness/genius is the skill and detail with which he approaches it.
+FAIR With Were-Rabbit, Mr. Park establishes Gromit as the best animated canine character since Snoopy.
+GOOD Full of the British wit and kinetic action-movie thrills that have made Nick Park's cartoons so popular.
+FAIR ...cute and pleasant (yet essentially forgettable)...
+FAIR click to read review [Greek]
+BAD It's a surprising misstep from the people who gave us Chicken Run.
+GOOD The comedy is never indulged at the expense of the plot, which flies off in genuinely unexpected directions, culminating in a boundlessly inventive funfair chase sequence.
+GOOD I don't see how anyone who enjoys their animated movies won't enjoy all of this one.
+GOOD Gromit...could teach ninety percent of the actors working today something. He can say more in a glance than most actors can using their entire range of tools.
+GOOD Wallace & Gromit: The Curse of the Were-Rabbit is an inventive pseudo-thriller in the Claymation style.
+GOOD An unqualified success.
+GOOD This might be Plasticine's finest hour.
+GOOD Taken as a whole, this is a superb film and an astonishing technical achievement.
+FAIR The script this time is really better than the animation and the result is genuinely funny. This is an animated film, but it aims to please the whole family and its aim is good.
+GOOD [Not] merely one of the best animated films of the year; it's the best, and further, ranks among 2005's most satisfying cinematic experiences.
+GOOD A delight for the kids and well set to take classic status.
+GOOD Cheeky and inventive, it's the perfect Halloween movie for the kids! Or as they say, it's the world's first vegetarian horror movie.
+GOOD It doesn't feel produced; it feels made.
+GOOD It deserves to be the biggest thing in animated features since Shrek and quite possibly Toy Story.
+FAIR The first two acts of the movie are actually solid, filled with vintage W&G moments as well as some stunning animation.
+GOOD It's a ripping good yarn, to boot, breathlessly paced and seamlessly edited, but most important, resoundingly and surpassingly fun.
+GOOD Park and Box make this 85 minute film feel like a half hour with its quick moving plot line, making it perfect for children.
+GOOD It is suitable for any child who can follow a complicated story -- although there are some scary bits -- and it is equally appealing to the child hiding in any adult.
+GOOD There is something indescribably satisfying about the vaguely off-kilter world of Wallace and Gromit and its litany of details.
+FAIR There's none of the Hollywood cynicism or too-clever winks meant to instill a sense of exclusive superiority, just a sincere celebration of what makes good filmmaking and a desire to entertain.
+GOOD It is funny, exciting, and it's a fantastic piece of animation.
+FAIR Go for the beginning and the end and try to endure the middle.
+GOOD A fast paced, highly intelligent, endlessly enjoyable matinee joyride.
+GOOD I LOVE this movie. Bad sequels take away from the original.
+FAIR Surprisingly not-awful cable-flick action-fest!
+FAIR Whatever the political undercurrent at work, every so often you have to remind yourself that this happened to four young men, no doubt the brightest stars of loving families.
+GOOD Peter Berg is effectively offering four Rambos for the price of one - the Seals' bullet-whistling gunfight scenes are a combination of Saving Private Ryan on a ridge, Heat on a hill and Open Range out in the open. Bang, bang, bang! And bang again!
+BAD Lone Survivor comes off as a celebration of the martyred American soldier, that myth that makes it that much easier for old men to send young men to their deaths.
+FAIR Knowing the outcome tends to lessen the intensity of the well-shot action sequences.
+FAIR Encontra seus melhores momentos em suas sequencias de acao.
+FAIR Lone Survivor is a proficiently-made film with plenty to enjoy, but truly embracing it is difficult outside of an American context.
+FAIR Lone Survivor is a proficiently-made film with plenty to enjoy, but truly embracing it is difficult outside of an American context.
+FAIR The most harrowing combat film since Saving Private Ryan.
+FAIR Small in scale but just as intense, Lone Survivor's extended battle recalls the opening of Steven Spielberg's Saving Private Ryan. like its hardy protagonists, is determined to get the job done.
+GOOD If there's one major message at the core of Peter Berg's outstanding, realistic, fact-based war film it's that no amount of new-fangled military technology can take away from the brutality and human cost of frontline fighting.
+GOOD If Mark Wahlberg stars as an interesting character, the movie has a fighting chance at the box office - and this one became a hit.
+FAIR It will be remembered for its bone-breaking, blood-splattering, white-knuckle skirmish - not for its performances, characters, plot or dialogue. On this level, it works.
+FAIR For all its flaws it is both a gripping action thriller and an unforgettable depiction of the cold realities of war. My first reaction after seeing it was a simple one: this must be how it was. It may be the highest tribute I can pay.
+BAD ...a disappointing, underwhelming actioner from Peter Berg...
+FAIR A portrayal of strict military excellence and grueling physical performances, to which Mark Wahlberg brings his best game.
+GOOD Captures the raw intensity of combat and carnage on both sides of the battlefront, and the heroics that forge an indelible spirit in combat
+FAIR Lone Survivor sticks pretty closely to the facts, has real momentum and a series of impressive action sequences
+FAIR While the violence is horrifying, the encasing narrative is perversely "heroic", with corn-fed dialogue presented as solidly non-ironic, and images of the real-life combatants used to stirring, manipulative ends.
+FAIR An occasionally smart script - and four excellent actors - keep the project grounded.
+GOOD Lone Survivor does a magnificent job of making disorder intelligible. It's not a very nice film. But it is a splendidly effective one.
+GOOD Lone Survivor does a magnificent job of making disorder intelligible. It's not a very nice film. But it is a splendidly effective one.
+BAD The relentless intensity quickly grows numbing.
+BAD Replete with a certain kind of self-importance and self-forgiveness, this Afghan war movie starring Mark Wahlberg has a distinctively martyred America-at-bay feel.
+GOOD There are nuggets of honesty amid the gung-ho jingoism in Peter Berg's starry-eyed war story.
+GOOD The picture may not be in contention for Oscars but it's a first-class modern war film: visceral, exciting and thought-provoking.
+FAIR The film alternates between the pulverisingly immediate and dismayingly generic.
+FAIR [The second act] is the core of the film, and it works very well. What falls on either side has been designed to support it, but comes close to achieving the opposite.
+BAD Lone Survivor is well made and well acted but its refusal to pass comment on the central mission means that it ultimately feels like a gung ho fantasy that lacks emotional impact.
+GOOD Luttrell's remarkable story of survival is worth telling. Inevitably, the temptation to depict US military as consummate heroes creeps through. Yet it's a more balanced account than you might expect.
+FAIR nothing if not a deeply felt paean to the characters' toughness, bravery, and, most importantly, humanity
+GOOD Berg reconstructs the gunfight brilliantly. Superb stunts, a dizzying use of handheld cameras, great editing and brilliant acting combine to make this the most intense war movie since Black Hawk Down.
+FAIR Lone Survivor isn't always sophisticated ... But there's moral complexity and a climax in an Afghan village which is tense and surprisingly moving.
+FAIR A severe portrait of fortitude under extreme pressure, somewhat marred by blinkered politics.
+FAIR Mark Wahlberg stands firm as Luttrell and he also produced this version of events which, ultimately, celebrates the brotherhood of soldiers and hits hard, on a gut level.
+FAIR The direction pummels and the cast impress, yet Berg's war movie promises more than it delivers.
+FAIR A noble, moving tribute.
+FAIR Lone Survivor' hits home and hits hard.
+FAIR The film shows us the landscape of modern warfare, which when it is men with guns facing each other is pretty much the way war has been in the trenches since the Civil War.
+GOOD A fascinating exercise in cinematic restraint resulting in a captivating, not to be missed film.
+GOOD With A History Of Violence, Cronenberg uses the pulp gangster genre - as opposed to, say, sci-fi horror -- to draw us into a dialogue on our relationship as voyeurs to violence, both real and cinematic.
+GOOD While it weakens in its final stretch...A History of Violence succeeds enormously thanks to the strength of its direction and performances.
+GOOD The violence that enters the characters' perfect domestic existence is permanent, and each act reveals truths about the people who use it and the audience who enjoys it.
+FAIR The movie begins slowly, methodically, and builds increasingly toward a devastating climax.
+GOOD The tension builds in a slow boil, then ignites furiously when we're not quite ready for it.
+FAIR Mr. Mortensen and the sparse, intelligent script hold it together.
+FAIR full review in Greek
+FAIR A strange David Cronenberg movie, and not in the usual audaciously morbid way. A brooding, contemplative picture that's tough, tight and masterfully controlled.
+FAIR Lo mas reciente del canadiense David Cronenberg es un solido thriller, casi de factura clasica, sobre las ramificaciones de la violencia.
+GOOD There are elements in this film that are 100% Cronenberg (the beautiful violence we so rarely see these days, subtle weird humor), but this is not your typical Cronenberg
+GOOD What Mortensen does brilliantly is to keep us guessing.
+GOOD Tematicamente ambicioso, demonstra ter seguranca suficiente da forca de sua narrativa ao permitir que o espectador saia do cinema sem estar completamente certo de como tudo terminou. E esta talvez seja uma de suas maiores virtudes.
+FAIR Never does it deviate from Cronenberg's primal instincts.
+BAD ... like biting into a sour pickle hidden in the bottom of your ice cream cone... simply fails to deliver what it promises to fulfill another agenda.
+FAIR Three-fourths of this movie is great, but don't get me started on that ending.
+BAD I have mixed feelings. Cool, engaging, well acted (William Hurt is brilliant). But could have used a bit more shaving in the editing room and a bit messy on point.
+GOOD On the surface, this may seem just a violent gangster yarn, but Cronenberg has opened the door to a train of thought that becomes more disturbing the longer you consider it.
+FAIR a pretty good little thriller, but clocking in at only 95 minutes, it doesn't have enough meat to be a truly satisfying drama.
+BAD [David Cronenberg] no doubt wanted to say something profound about the nature of violence, but his approach betrays his intentions.
+GOOD Some movies are to be consumed and discarded. History of Violence, a drama of disarming power, is not one of those. This is one of the most stirring films of the year.
+BAD Olson should have studied a history of screenwriting before attempting to adapt A History of Violence. One of the most aimless, derivative films to ever be overrated.
+GOOD A tense, tight and pithy thriller with such superb restraint that almost every detail matters -- and therefore shouldn't be spoiled.
+GOOD A History of Violence is a fine movie that simply is too intense for many viewers.
+GOOD This is Sin City with a functioning brain
+GOOD Cronenberg knows this territory well, drawing parallels between sex, violence, and companionship...in this mature, compelling movie.
+GOOD Violence is a turn-on, Cronenberg seems to be saying, but a turn-on that comes with a destructively high price.
+BAD Tired dud of an over-the top violent action movie.
+BAD The plot is such hooey...and the plot holes so gaping that End of Days proves more exasperating than enjoyable. [Blu-Ray]
+FAIR Never rises to the realm of exciting.
+GOOD Part of the degraded charm of End of Days is its buffet-table derivative approach.
+BAD End of Days isn't complete waste of time but all those who watch it would probably agree that this film's days were numbered long time ago.
+BAD A lot of fun, but not a great movie.
+FAIR Loud, lurid, bloody and ridiculously entertaining.
+FAIR Um filme de acao incessante que traz Arnold Schwarzenegger em uma das piores atuacoes de sua carreira.
+BAD Displaying precisely the imagination that gave the world such epic achievements as The Star Chamber and The Relic, Hyams dusts off America's designated import and goes with Arnie Schwarzenegger his own self.
+BAD An effort which will join True Lies and Raw Deal in the dustbin of Schwarzenegger history.
+GOOD If you liked The Exorcist, The Omen, and Rosemary's Baby , don't miss this one.
+BAD Arnold, Arnold, Arnold, what were you thinking when you signed on to do this?
+FAIR The biggest problem here was the script.
+BAD Isn't a bad movie by any means; it's just a reasonably silly one that, in one form or the other, has been overdone to death.
+BAD ...a run-of-the-mill supernatural thriller.
+BAD Arnie's batteries seem to be losing their juice.
+BAD The movie is as bloodless as a cyborg, and it feels as if it has been assembled according to diagrams supplied by someone who studied every successful sci-fi action thriller and then multiplied the findings by 10.
+FAIR This could be devilish fun, but director / cinematographer Peter Hyams slows the action to a ponderous crawl.
+BAD Nothing but groans and yawns.
+GOOD There is much that is fiercely modest about its ambitions. And, for a war film, it is often disconcertingly quiet.
+GOOD This is a harrowing picture, made all the more disturbing because it's based in a war that is being waged right now.
+GOOD An important, intense, nail-biting experience -- really quite unforgettable.
+GOOD The idea of watching people risking being blown to smithereens might not create a box office blockbuster. But this is certainly director Kathryn Bigelow's best film since Point Break in 1991.
+GOOD It is visceral filmmaking at its best.
+GOOD The Hurt Locker is set in present-day Baghdad, but it could be taking place anywhere in the world, at virtually any time in the last century.
+GOOD It's a film about why some soldiers love war, a theme that's rare in war films made by men.
+GOOD Bigelow's constantly moving camera, often jittery and restless, does well to convey the tension and latent chaos that bubbles beneath the surface of these soldiers' lives.
+GOOD It is neither an anti-war film nor a pro-war film. It is, simply, a great war film about courageous men working in chaotic situations, and the collateral damage that comes with the job.
+GOOD This is a film that doesn't distract with big self-aggrandizing political statements, but nevertheless succeeds in nailing the horror of the war.
+GOOD The Hurt Locker transcends the political slop surrounding Iraq and cuts straight to the bone, letting us touch the hard, bloody reality of war without casualties of cliche or naive acts of emotional heroism.
+GOOD Bigelow, one of the very few women working in the traditionally male-dominated action and war genres, avoids both red wire/yellow wire cliche and political preaching to deliver a film that is as psychologically fascinating as it is taut and exciting.
+GOOD When the picture isn't ramping up your heart rate, it switches gears and becomes an intimate character study in what war does to humankind.
+GOOD It's in refusing to plant a flag on one side or the other over the Iraq war debacle that Bigelow may just have made the conflict's defining film: words are cheap, but it's action that matters.
+FAIR I wasn't exactly blown away by it (no pun intended here at all), but it remains an engaging film. There's certainly a great story to be told in here somewhere, it's just not the great film I've been hearing about.
+FAIR It's not delicate by any means, and it gives an intense look into the lives of the American soldiers in Iraq.
+GOOD The suspense may just kill you.
+GOOD Kathryn Bigelow's The Hurt Locker is one of the most thrilling action films I've seen in the past few years. It features set piece after pulse-quickening set piece.
+GOOD The decade's best fictional film about its real war, it's a unique perspective on the workplace high of delivering containment from chaos. Some people kick PowerPoint's ass. Sgt. 1st Class William James saves his by defusing bombs.
+GOOD Bigelow does not stint on portraying war's brutality, but the focus is strictly on the individual, not on the bigger picture, and the overall effect is more powerful and devastating for it.
+GOOD Equal parts bravado-fueled action and pointed political statement. The best film yet made about the Iraq War, and the best American film about war since Platoon.
+GOOD One of the few must watches of the year so far, and certainly one of the most intelligent offerings, The Hurt Locker would likely already be boasting a masterpiece label had it been from a high profile director or studio.
+GOOD Combines white- knuckle tension, sizzling dialogue and poignant insight into the lives of the bravest guys in Baghdad.
+GOOD A tense, occasionally meandering story about bomb defusers in Iraq.
+GOOD Succeeds where so many others have failed, by crafting a compelling Iraq war film.
+GOOD Rough and grim knuckle-fighting drama headlining Charles Bronson.
+GOOD Walter Hill's first film as a director is spare, elegiac and as tough as a nickel steak.
+BAD Slackers meet Satan in not-quite-so-excellent adventure.
+BAD Mostly disappointing results.
+GOOD Has there ever been a more perfect role for Keanu Reeves than floppy-haired, dim-brained high school slacker Ted "Theodore" Logan?
+BAD ...the various elements that made Bill & Ted's Excellent Adventure such an unexpected delight are almost entirely absent here.
+GOOD awash in weird humor and outlandish gags
+FAIR A riot of visual invention and weird humor that works on its chosen sub-moronic level, and on several others as well...
+FAIR strained but goofy fun
+FAIR Its best moments make up for its more mediocre ones.
+GOOD More mindless airhead time-traveling fun. The hilarious William Sadler gives the best portrayal of Death since Bengt Ekerot in THE SEVENTH SEAL.
+GOOD EXCELLENT! (But not quite as EXCELLENT! as the first.)
+FAIR Worth seeing if only for the scene in which Bill & Ted play 'Battleship' with Death.
+FAIR Diverting nonsense
+FAIR Doesn't eclipse the original, but the dorky charm is still there ... plus it's got William Sadler's immortal turn as Death.
+GOOD One of the most worthwhile sequels of recent years, maybe funnier than the original as it intelligently expands the potential for the surreal and it ties up all the loose ends managing, quite remarkably, to give pointlessness a purpose.
+FAIR Silly, sophomoric and very weird. Or, in Bill and Ted's vocabulary, it's lame, scorched and egregious.
+BAD So ridiculously dumb that it's difficult to be a good sport about it.
+BAD Fans won't be disappointed and people who didn't like the previous film wouldn't like this one either.
+BAD Like so many movies, the set-up and presentation of Gamer is awesome. The story, characters and writing... not so much.
+BAD Wait for this one on Cable... jeez I'm saying that a lot. What is really going on in 2009?
+BAD What to make of short-attention-span artists satirizing a short-attention-span world? [Blu-ray]
+BAD Incoherent and interminable...
+BAD a big, loud mess that loses its few good ideas in a morass of convoluted storytelling that it has, sadly, confused with stylish innovation
+FAIR Like the 'Crank' films, this is an absurdly exaggerated, outlandishly crass and alternately inventive and appalling depiction of a man violently fighting to liberate himself from the forces that seek to control him...
+FAIR An injection of adrenaline straight to the eye - which isn't entirely a bad thing.
+BAD If you are a gamer, and like shooters, science fiction, action, and wouldn't consider gratuitous boob shots gratuitous, you won't feel short-changing on leaving the cinema after watching Gamer.
+BAD Can I get back the ninety minutes of my life that I squandered sitting through this miasmic upchuck of techno sludge? What was the story again?
+FAIR With its nano-technology synching different brains together, spyware programs attached to DNA, and a double dose of bad taste served up with a side-dish of splattered brains and skull fragments, Gamer is still mad, bad, and dangerous to know.
+FAIR It won't win points for originality or depth, but the Crank boys are still on their game as far as sex, violence and sheer unapologetic excess go. High concept, high octane, highly likely to end up a post-pub staple.
+BAD While packed with guns, girls and gore, there's none of the gleeful knowingness that made their earlier films such guilty pleasures.
+BAD Edited with the finesse of a toddler on a sherbet dib-dab rush, the film dashes from one over-stylised battle sequence to the next.
+BAD The action sequences are disappointing, there's a distinct lack of wit or invention in the direction and it's also impossible to care about the characters when they're so thinly sketched.
+BAD The film is a cacophonous mess without a single interesting character.
+BAD The best that can be said about Gamer is "straight to DVD". It's a mind-numbing dud of a movie that in reality is nothing more than a big budget computer game splashed across the silver screen with an all star cast.
+FAIR Mark Neveldine and Brian Taylor deserve some credit for being upfront about their desire to deliver purely adrenaline-driven action cinema and for making it look brilliant.
+FAIR Were Stanley Kubrick and Russ Meyer alive and their minds merged "Being John Malkovich"-style, the clash of their ids and egos might yield "Gamer." It will make you feel putrid, but it's satire that's sadistic, salacious and audaciously entertaining.
+FAIR attempts to lure audiences in with its fast-action but also provides a surprisingly thoughtful commentary on control and freedom and the means some will go to achieve it.
+GOOD Puts the viscera in visceral but a thought-provoking exploration of our increasingly disconnected society in drag as mindless action.
+BAD Takes itself far too seriously, saying nothing of timeliness or value in a banally overblown fashion.
+BAD Poor editing makes Gamer overlong, and the negative portrayal of gamers is as hard to swallow as the cheesy plot.
+BAD It is, in the end, a migraine in search of a movie-goer, one that hypocritically berates pop-culture's bloodthirst even as it eagerly quenches it with a sadistic barrage of severed limbs and crushed skulls.
+GOOD Perhaps the most deliriously demented film of the year. I say that with honest admiration for the deliriously demented.
+BAD A lot of good actors waste their time and talent in a very disappointing movie
+BAD In the press materials Mr. Butler informs us enthusiastically that the movie "has all the hallmarks of Neveldine's and Taylor's sick, yet genius minds." At least he's half right.
+BAD Bodies and buildings blow up but this is carnage of the most lacklustre sort, with any momentum petering out long before it's "game over."
+BAD It's a deeply cynical and joyless point of view, completely lacking in the winking visual style that made Crank worth a look.
+BAD Add an element of interactivity into the hyperkinetic, repetitive action, plodding narrative, and stupefyingly obvious social commentary, and the potential might exist for something entertaining.
+BAD The game sequences are all familiar flash, and zero tension.
+FAIR A cautionary tale issuing a dire warning about the prospects for humanity in a world where machines lead and people follow.
+FAIR I happily anticipated seeing what the writer/director team of the two 'Crank' movies would come up with next.
+BAD A mindless and tedious sci-fi action film that's high on style while low on substance and palpable thrills.
+BAD It's a mess of a film mainly because the "CRANK"-style of filmmaking doesn't really fit with the material because for the most part, the movie is played straight. It's a real shame cause the premise sounded ridiculously fun
+BAD Gamer scratches at the shameless energy of the Crank films occasionally, but it mostly goes, as if on rails, to the inevitable conclusion.
+BAD A dull slog of endless action and sex, trying so hard to push the pleasure centers on the brains of its adolescent male audience that it wears itself, and the audience, out
+BAD The action scenes are a giant blurry glob of explosions, sudden attacks and spontaneous graphic deaths.
+FAIR Even if you haven't seen any of the tell-all television spots, every beat of this crime drama will look and sound familiar.
+FAIR The leads make it watchable (plus it's always a hoot to see Denise Richards onscreen in any form)...
+BAD None of this finds an emotional connection, and instead we watch it predictably unfold.
+BAD The film's hodgepodge plot stumbles down the prototypical path of a gangster's fall from grace with a bit of Boiler Room thrown in for good measure.
+FAIR Depois de capturar a imaginacao do espectador com um inicio envolvente e promissor, a historia se perde de forma irremediavel, desperdicando o imenso potencial de seus dois primeiros atos.
+FAIR Moody, stylish tale of heroin dealer John Leguizamo facing the white-collar world is a well-shot debut from Franc Reyes.
+FAIR Yes, we're walking those mean streets again. Good thing we're taking a few unanticipated turns.
+BAD Unfortunately, Empire is nothing more than an exhausting retread of the same cliched urban cautionary tale that waxes about rebellion and redemption.
+BAD The film ends up being derivative of every drug-themed, drug-centered movie we've ever seen, and goes down the same dark unforgiving and predictable path as all the others did.
+BAD There isn't a redeeming character to be found in Empire which makes it awfully hard to enjoy.
+BAD Try as I may, I can't think of a single good reason to see this movie, even though everyone in my group extemporaneously shouted, 'Thank you!' when Leguizamo finally plugged an irritating character late in the movie.
+BAD A yawningly familiar melodrama about an enterprising hustler who's undone by his own ambitions.
+BAD A dreary rip-off of Goodfellas that serves as a muddled and offensive cautionary tale for Hispanic Americans.
+FAIR An entertaining, colorful, action-filled crime story with an intimate heart.
+BAD John Leguizamo may be a dramatic actor -- just not in this movie.
+BAD The film is shoddy and amateurish; the blood in the gunfight scenes even looks like ketchup.
+BAD Feels like it was made by some old Bolsheviks, who, in a vodka stupor, thought they were remaking THE GODFATHER.
+BAD If you've spent every waking moment since the summer of 1991 pining for a 'New Jack City' with a salsa soundtrack, your cinematic savior has arrived.
+BAD Filmmaker Franc Reyes would have been better off skipping the elaborate scam plot and focusing on the conflicts that arise when a dealer trades in his gold chain for an Armani suit.
+BAD Like its protagonist, the movie tries to rise above convention, flails about a bit, and slides back into self-parody.
+BAD Empire has its visual and character attributes, but the culmination of its 90 minutes is akin to reaching out for something substantial, and coming away with nothing but thin air.
+FAIR It's sort of a 21st century morality play with a Latino hip hop beat. But the second half of the movie really goes downhill.
+FAIR Not much going on with this one. It was part Scarface, part New Jack City and part Sugarhill. If you've- seen these, you've seen Empire.
+BAD Guns, blah, blah, blah, drugs, blah, blah, blah, guns, drugs, and money, blah, blah, blah.
+BAD This tale has been told and retold; the races and rackets change, but the song remains the same.
+BAD Delivers the same old same old, tarted up with Latin flava and turned out by Hollywood playas.
+BAD Not atrocious, but certainly far from being as good as it might have been.
+FAIR A gangster movie with the capacity to surprise.
+FAIR Victor Rosa is Leguizamo's best movie work so far, a subtle and richly internalized performance.
+BAD A mostly tired retread of several other mob tales.
+BAD Another excuse to trot out the usual ghetto-melodramatic bromides: What Happens When You Leave the Old Neighborhood Behind and Remembering Who Your Real Posse Is and, most of all, Respecting the Woman Who Loves You Best.
+BAD If Arenas is making some kind of statement with its initial release, it seems to be declaring, 'We can make a dumb Goodfellas knockoff just as well as any other ethnic group.'
+BAD Empire can't make up its mind whether it wants to be a gangster flick or an art film. It doesn't work as either.
+BAD Another weak, uninspired effort that once again proves that if you want fun, exciting adventures featuring The Avengers your local theater is the only option worth considering.
+FAIR Two delightful stars nudge Wild Target into sleeper territory - but only by a few inches.
+FAIR ...mindless entertainment in a refined style.
+BAD Wild Target is the sort of madcap comedy that breaks a sweat trying to generate a steady stream of laughs, but ... the film only works in fits and starts.
+FAIR "Wild Target" has fast, quippy dialogue and exactly the right actors to drive it home.
+BAD When the various elements all fizzle, all we're left with is some likable actors trying their best to save a fading film.
+FAIR Snappy, sarcastic, implausible caper that looses almost all momentum 1 hour in. Also, how do you feel about Bill Nighy and Emily Blunt making out? If you just threw up in your mouth a little, you might wanna avoid this.
+FAIR Saucy, scattershot, screwball farce.
+FAIR The film has to fly by its wits -- and its witty lines -- and by the charm of its stars. This it does, just barely.
+BAD It's never a good idea to cast Bill Nighy as a buttoned-down hit man.
+BAD Screenwriter Lucinda Coxon has clearly never met a corny complication she didn't like, and Wild Target becomes riddled with irksomely madcap happenings by the final act.
+BAD Rarely in a British comedy have so many richly talented actors laboured so long in search of a coherent plot, plausible characters and even a modicum of humour.
+FAIR If not better than the French original, this re-make is equally good and equally funny.
+BAD The film is directed with a surprising lack of comic spark by Jonathan Lynn.
+BAD With an interesting premise and a capable cast, it's a shame the result is such a dead horse.
+BAD A mostly admirable attempt at a Crichton-like escapade that runs out of steam a bit before half-way.
+FAIR Wild Target gets its gears gunked up by a detour into the shallow, polluted waters of pseudo-psychological melodrama.
+FAIR There have been a lot of black comedies about assassins lately -- there have been a few just this year -- but Wild Target may be the first one to contain genuine laughs.
+FAIR An eccentric little comic thriller filled with enough laughs that I was mostly willing to overlook the fact that it makes virtually no sense as a thriller.
+BAD All of this busyness drains away the film's charm, turning what might have been a naughty and whimsical frolic into something glib, hectic and sour.
+BAD Since irony is so often director Jonathan Lynn's weapon of choice, Wild Target should have been a good fit. It's not quite.
+BAD desperately unfunny
+GOOD The movie's a grand, quick-witted entertainment, a throwback in the best, most welcome sense.
+BAD Director Jonathan Lynn already made one assassin comedy ... Consider this the lazy encore no one asked for.
+BAD Wild Target neatly and boringly makes a surrogate family out of its ill-matched trio of caricatures, and its epilogue of domesticity is enough to make you reach for your revolver.
+BAD Nothing works.
+BAD It's entertainment designed to resemble a good time without aspiring to provide one.
+FAIR The likable and talented cast give it their all, but it's never as zany or funny as it should have been.
+BAD Wild Target is a remake of a French farce, and it shows.
+BAD Nighy and Blunt do bring a lot of warmth and charm to their roles, but thanks to a badly judged script and lazy direction, the final showdown leaves you feeling cold.
+FAIR When Wild Target works it's a lot of fun. There's some decent comic chemistry between the three leads - and this is Grint's first film since Harry Potter 3 that didn't make me want to lob him out the window.
+BAD This lively British remake of the 1993 French film is an enjoyable if ultimately too-silly romp. But the solid cast at least makes it watchable, even when the plot takes a series of deeply contrived turns.
+BAD There's a wretched tiredness and dull reliance on formula and, hard as the cast may try, a powerful whiff of desperation not helped by the ikky prospect of Bill and Emily getting jiggy.
+BAD The action hits a dead end and the laughs dry up, but it's the budding romance between the young free spirit and the crotchety old triggerman that really kills it.
+BAD [Ben Affleck's] Jack Ryan is simply impossible to take seriously, and that's something the film could probably never survive.
+BAD Generic action film not good for kids, or anyone.
+FAIR Though this political adventure requires substantial suspension of disbelief, the witty script and mature approach keep the film on track. [Blu-Ray]
+FAIR ... Entertaining and far more relevant than most other action/adventure movies.
+BAD Has enough cliches and cut-out characters to condemn it to mediocrity.
+GOOD Realizando um bom trabalho ao condensar o complexo livro de Clancy, o filme e tenso, inteligente e conta com fortes atuacoes de todo o elenco - inclusive de Affleck, que confere uma curiosa vulnerabilidade ao heroi.
+GOOD It's a tired premise, and it's got its flaws, but the present talent makes it worthwhile.
+FAIR Tom Clancy franchise gets a surprisingly satisfying reinvention thanks to star Ben Affleck and director Phil Alden Robinson.
+FAIR It's all fast and loud and pulse-pounding, of course, but nothing that we haven't seen dozens of times on screen after imaginary disasters.
+GOOD Superior genre storytelling, which gets under our skin simply by crossing the nuclear line.
+FAIR The Sum of All Fears proves that the Jack Ryan franchise still has some legs. Most importantly, it also has a brain.
+BAD Clancy's world is strictly for the techno-nerds and frankly they're welcome to it.
+FAIR Deals with a chillingly topical nuclear attack on Baltimore. But perhaps more disturbingly, it rehashes it into a Ben Affleck action romance.
+GOOD All shame aside, not being a Tom Clancy fan or Jack Ryan fan, I did quite enjoy it. Is it Morgan Freeman?
+BAD An implausible apocalypse without depth or resonance, a cartoon of international politics presented with no James Bond-like playfulness and with all the superficial realism money can buy.
+FAIR El filme provoca que la audiencia piense y medite sobre el mundo en que habitamos, asi como en los obsoletos sistemas de gobierno que hemos creado como sociedad.
+FAIR A competent Tom Clancy thriller that's betrayed by a miscast Ben Affleck as Jack Ryan.
+FAIR If nothing else, this film may stand as a cultural testament to how times really have changed since Sept. 11 -- and not necessarily the way we'd expect.
+BAD (Not) the biggest or best film of this summer's blockbuster season, but it does hold up well under fire as long as you don't think about anything too hard.
+FAIR To sum it up: heavy on imagination and light on reality.
+GOOD A Alden Robinson, el director, le sento bien la amistad con Tom Hanks y Spielberg al haber dirigido recientemente para la TV, el drama de guerra Band of Brothers.
+BAD Affleck's performance is so lightweight that he feels like a secondary character, barely involved with this struggle against a terrorist nuclear attack.
+BAD The star who helped give a spark to "Chasing Amy" and "Changing Lanes" falls flat as thinking man CIA agent Jack Ryan in this summer's new action film, "The Sum of All Fears."
+BAD ...post-September 11, "The Sum Of All Fears" seems more tacky and reprehensible, manipulating our collective fear without bestowing the subject with the intelligence or sincerity it unequivocally deserves.
+FAIR takes on a gut-churning immediacy that is hard to deny
+FAIR Sum" is Jack Ryan's "do-over." Give credit to everyone from Robinson down to the key grip that this bold move works. Especially give credit to Affleck.
+GOOD Action-packed and exciting!
+FAIR A tense, capably-made film that's exciting and realistic enough to satisfy filmgoers who've had their fill of Hollywood's usual ultra-unrealistic blockbuster fare.
+BAD I've felt more drama watching tornado chasers on The Weather Channel.
+BAD Retreads a lot of familiar elements from other "international thrillers" while occasionally dipping its foot into the real-life horror of terrorism.
+BAD Affleck merely creates an outline for a role he still needs to grow into, a role that Ford effortlessly filled with authority.
+BAD The film doesn't really care about the thousands of Americans who die hideously, it cares about how Ryan meets his future wife and makes his start at the CIA.
+FAIR It's been eight years since Clear and Present Danger, but this late-blooming entry shows that none of the luster has worn off the series.
+BAD Is Ben Affleck such an indispensable talent -- or box-office draw -- that his presence is worth wrecking an entire film franchise to accomodate his youth?
+FAIR Affleck gets better with each film. It will be interesting to see him age with the Jack Ryan role.
+BAD Never in film history will there be a more nonchalant nuclear holocaust.
+BAD Gimmicky sci-fi, outer space B-flick.
+BAD Very bad special effects mar this only-average s-f excursion. Only the giant rat-bat-whatever creature has any flair.
+BAD They don't make 'em like this anymore. It's easy to see why.
+BAD Would have benefited greatly from Singer trusting his talent and assembling a Superman movie that attempted to soar beyond the heights previously achieved decades ago.
+BAD For all the mountains of kryptonite ranged against him, you never fear for Superman or Lois Lane, never experience anything more intense than the fret of mild peril.
+FAIR Superman Returns is a great kick start to a potentially knockout new franchise, which ultimately leaves the audience, like the people of Metropolis when its greatest hero returns to the skies, brimming with hope.
+GOOD None of which would register if Routh weren't a Superman whom if we don't need we can at least feel for.
+FAIR Underneath its mechanical safety and mild-manners, this movie does have some heart and some muscle. You'll come to like having it around, even if you thought you'd already moved on.
+FAIR Superman Returns is a bombastic, rousing, explosive burst of summer fun and fantasy, enriched by its predecessors and rejuvenated by the new blood and slavish religious devotion of director Bryan Singer.
+GOOD Solid and emotionally direct but not the concussive powerhouse many will be hoping for.
+GOOD the tragedy of 9/11 and Lois' super sex with the 'man of steel' are two major selling points of the film, but they remain as sublimated as Clark Kent's secret identity.
+GOOD Ignore the hype, ignore the budget, ignore the expectations, sit back, relax and let Superman return.
+BAD The Man of Steel as a morally-compromised and ethically-challenged figure has the potential to be quite compelling, but if and only if he is portrayed as confronting his demons in a more meaningful way.
+FAIR better than 3 and 4
+FAIR Resembling Reeve both physically and vocally, Routh certainly has large red boots to fill. And he fills them admirably
+FAIR Yes, the new Superman Returns movie flies. It just doesn't soar.
+FAIR After nearly 20 years in hiding, one would expect Superman's return to be special. Alas, the most noteworthy thing about director Bryan Singer's new movie is the hype surrounding it.
+FAIR click to read full review [Greek]
+BAD Emphasizes the reasons I don't find Superman all that interesting.
+GOOD It's been 5 years since Superman (Brandon Routh) left Earth to search for the remains of his home planet Krypton. Upon his return, the Man of Steel discovers a world in turmoil and a changed Lois Lane (Kate Bosworth) - engaged to be married and the mothe
+FAIR The film's weaknesses aside, there is no denying that Singer has pulled out all the stops in his bid to make the biggest, loudest summer blockbuster possible.
+GOOD Superman returns with a vengeance.
+FAIR In a time where the youth of this nation are fighting and dying to defend this country, the film argues that each one of us can be super under the right circumstance.
+BAD Quite capable of leaping tall buildings in a single bound, [but] does so without much care or conviction.
+GOOD Super return for Superman ...
+FAIR A good start at revitalizing a dead series. Get rid of Kevin Spacey for the sequel and you might have something spectacular.
+GOOD As a superhero film it's really extremely impressive, probably higher in quality than even the first X-Men film and right up there with the Spiderman films.
+GOOD This Superman takes flight like few before and one wonders whether the film's minor flaws mean only that the sequel, like Singer's X2, is destined to become a real classic of the genre.
+GOOD Romantica, emocionante, trepidante, mistica y entranable, es un digno homenaje al heroe mas grande del mundo y un perfecto ejemplo de que el cine sigue siendo la fabrica de suenos, pues ahora, mas que nunca, es posible creer que un hombre puede volar.
+FAIR The battle is won: but only just.
+FAIR Many happy returns, Superman, you've been away too long. Unfortunately, you deserve a lot better than this.
+GOOD It's all about heart -- not that the spectacle falters; this is the finest popular entertainment since the Rings trilogy closed. Superman doesn't fly -- he soars.
+BAD Filme auto-indulgente e sem ritmo que transforma o Homem de Aco em um gala sem personalidade.
+GOOD The effects are terrific - you will, indeed, believe a man can fly, especially during a showstopping set-piece involving an out-of-control aeroplane.
+FAIR The plane taking off, flying and nearly crashing into the earth almost serves as a metaphor for the entire Superman Returns experience.
+GOOD El Hombre de Acero vuela nuevamente y, ademas de Lex Luthor, ahora enfrenta a un nuevo enemigo: el olvido.
+GOOD Spirited and somewhat bittersweet, Superman Returns remains a fascinating and very entertaining ride most of the way %u2014 though it's probably at least 20 minutes too long for optimum interest.
+GOOD ...enjoyable enough for the casual fan, and the superinitiated are going to find plenty of details to worry and rub. It's got humor and a reservoir of respect for the character's history and place in American culture.
+GOOD Five bravos to Bryan Singer and his team for showing us that Superman's heart is commensurate with the power in his muscles. I'm all wrapped up in his cloak.
+FAIR The Man of Steel returns in body but not quite in spirit.
+BAD It often feels like there are two separate stories featured in this comic book flick but neither of them is particularly interesting.
+BAD Across the board Green Lantern is an average experience. There is zero character development, an overly confusing plot and way too much dodgy CGI assaulting the screen.
+BAD Not "Jonah Hex" bad...but almost.
+FAIR "Green Lantern" does have a fair share of problems and yet is not quite as bad as some are making it out to be. It merely gets added to the long list of superhero films as one of the more forgettable ones
+FAIR I would say that this film is 50/50 good and bad. The stuff that works really works, but the stuff that doesn't work doesn't really work.
+BAD There's a bit more character in the extended cut, but the film is still a mess of tones, driven by a Star Wars-like narrative but cut down by a sloppy Transformers feel.
+BAD Thinks it is more impressive than it actually is. Faced with over-blown effects, characters look flat and disappear into the background without a whimper, thanks to an insipid script and the film-makers' unwillingness to flesh out anyone but Hal Jordan.
+FAIR While it doesn't reach the heady heights of Iron Man, it's a worthy addition to DC's movie universe.
+FAIR In an attempt by the script to be both epic and snarky, director Martin Campbell and actor Ryan Reynolds did the best they could with what they were given to work with.
+BAD It drones on, needlessly complicating the story line with too many character relationships and too many dull stretches.
+BAD parolo poy proorizontan gia megalyterh yperhrwikh toy kalokairioy, katelhkse na fylaei ta eispraktika nwta twn ypoloipwn sthn Amerikh
+BAD You'll need all the navigational help you can get, lantern or otherwise, to make it through this unfocused, CGI-driven mess of a movie.
+FAIR whereas Marvel's summer movie Thor revelled in its outlandish setting, Green Lantern dithers between realism and all-out fantasy.
+BAD I've always considered DC's Green Lantern to be one step too far over the line into "come on, that's just silly" territory. (Fresh, but only just)
+FAIR Acaba se revelando um passatempo relativamente divertido e agradavel.
+BAD Before Hal Jordan's big-screen debut, I'd never heard of the guy. And now, having sat through the confused mess that is Green Lantern, I don't mind if I never hear of him again.
+BAD Green Lantern is all CGI sheen and no soul, taking the comic book movie one giant leap backwards in its inept attempt at creating a would be dazzling adventure.
+BAD When Green Lantern does get its green groove on, its quite enjoyable... but the film is left sadly lacking due to the way it fumbles its set-up.
+BAD The green aesthetic misfires: the whole film looks as if it's been inspired by a particular shade of washing-up liquid, or the glowing screens of ancient computers.
+FAIR Things improve as the plot kicks in, thanks to enjoyable performances from Peter Sarsgaard, as the more-or-less human villain, and Blake Lively as the feisty heroine.
+BAD A certain tone is needed to carry off the script's manifold absurdities. It has to be tongue-in-cheek rather than foot-in-mouth and Reynolds' success rate is intermittent at best.
+BAD Apparently Sarsgaard's [character] went to high school with the characters played by Ryan Reynolds and Blake Lively, which is perhaps the only joke in the movie to actually land.
+FAIR Everything fits together just well enough to work, but not enough to excel.
+BAD If serendipity is a collision of happy accidents that produce something greater than the sum of their parts, then The Green Lantern is its unlucky antonym, a film far less impressive than its superior individual ingredients.
+BAD Robbed of his personal pronoun by a pan-galactic evil ...
+BAD The screenplay isn't as bright as those of other superhero films. But "Green Lantern" isn't a dim bulb of a movie, either.
+BAD The film also needs a jump-start or a new Central Battery sometimes that Reynolds alone simply cannot provide.
+FAIR There's a good movie in there somewhere and enough of it shines through that Green Lantern is not an out-and-out failure. But that realization also makes it a bit of a disappointment; it's easy to see the promise that hasn't been lived up to.
+FAIR ... the movie finds its bearings once Reynolds takes center screen; the franchise would do well to depend on him more than on sci-fi mumbo jumbo.
+FAIR ...an overlong and thoroughly uneven big-budget blockbuster that just barely earns a passing grade...
+BAD A muddled mess of a superhero film swathed in layer upon layer of (fairly necessary) exposition and burdened by a seriocomic turn by lead Ryan Reynolds.
+BAD Not even Ryan Reynolds' charm, which pours out of the actor like water over Niagara Falls, can overcome the lumpy narrative and special-effects overkill.
+BAD Lantern proves it's not easy being green.
+BAD Green Lantern is a moronic superhero. Ryan Reynolds is too cool to play such a lame character. There...I said it.
+BAD A parlor game could be made out of how many times the word "fear" is uttered in Martin Campbell's superhero franchise non-starter.
+FAIR Green Lantern makes an effort to differentiate itself on an aesthetic level, but otherwise it's what you'd expect - a special-effects bonanza following formula.
+BAD This is just one 'been there done that' super hero movie too many in a summer crowded with super hero movies.
+BAD The script is pretty dry and many of the scenes between Reynolds and Blake Lively don't work at all. It's a shame that the script doesn't give Reynolds the kind of winking humor that Thor had, and that he is so good at delivering.
+FAIR Green Lantern is reminiscent of 2008's The Incredible Hulk, another superhero flick that boasted a strong cast but went overboard on visual stimuli.
+GOOD A most welcome, utterly delightful treat.
