@@ -122,7 +122,9 @@ public class Crawler {
         // RESTful APIs
         String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
         String apiReview = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s/reviews.json?apikey=x6usx7bn33cdn9vverg9f2v7&review_type=all&page_limit=50";
+        // process reviews
         int k = 0;
+        int count = 0;
         for(String id : ids){
             // get genres
             List<String> list = new ArrayList<String>();
@@ -151,12 +153,13 @@ public class Crawler {
                 for(String g : list){
                     map.get(g).write(score+this.delimiter+quote+"\n");
                 }
+                count++;
             }
             Thread.sleep(500);
             if(++k==max) break;
         }
         for(String g : genres) map.get(g).close();
-        System.out.println("=== DONE ===");
+        System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
     public void collectReviews(String idsPath, int max) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
