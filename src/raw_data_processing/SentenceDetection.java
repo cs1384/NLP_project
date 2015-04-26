@@ -16,13 +16,14 @@ import java.io.InputStream;
  */
 public class SentenceDetection {
 
-    public static String[] splitSentence(String modelPath, InputStream file) throws FileNotFoundException {
+    public static String[] splitSentence(String modelPath, String sentences) throws FileNotFoundException {
         InputStream modelIn = new FileInputStream(modelPath);
 
         try {
             SentenceModel model = new SentenceModel(modelIn);
             SentenceDetectorME sentenceDetector = new SentenceDetectorME(model);
-
+            String sentencesArray[] = sentenceDetector.sentDetect(sentences);
+            return sentencesArray;
         }
         catch (IOException e) {
             e.printStackTrace();
@@ -36,5 +37,6 @@ public class SentenceDetection {
                 }
             }
         }
+        return null;
     }
 }
