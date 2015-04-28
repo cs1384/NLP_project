@@ -243,7 +243,7 @@ public class Crawler {
         //cl.getIds(keywords);
         // get genres based on first 500 ids and store genres to .ser
         //cl.collectReviews("data/ids.ser", 500);
-        cl.collectReviewsForGenres("data/genres.ser", "data/ids.ser", 500);
+        cl.collectReviewsForGenres("data/genres.ser", "data/ids.ser", 3000);
     }
 
 }

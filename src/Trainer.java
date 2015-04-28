@@ -60,20 +60,27 @@ public class Trainer {
                 }
             }
         }
+        /*
         FileOutputStream fileOut = new FileOutputStream(modelPath);
         ObjectOutputStream out = new ObjectOutputStream(fileOut);
         out.writeObject(model);
         out.close();
         fileOut.close();
+        */
         return modelPath;
     }
     
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         Trainer tn = new Trainer();
-        String modelPath = tn.trainModel("data/reviews.Animation.txt");
-        tn.setModel(modelPath);
-        tn.categorize("hello");
+        String modelPath = tn.trainModel("data/reviews/Animation.txt");
+        //tn.setModel(modelPath);
+        System.out.println(tn.categorize("amazing"));
+        System.out.println(tn.categorize("animated"));
+        System.out.println(tn.categorize("unexciting"));
+        System.out.println(tn.categorize("A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one."));
+        System.out.println(tn.categorize("misstep"));
+        System.out.println(tn.categorize("poor"));
     }
 
 }
