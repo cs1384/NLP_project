@@ -170,7 +170,7 @@ public class NegationHandler {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < words.length; i++){
             if(words[i].length() > 0){
-                sb.append(words[i]);
+                sb.append(words[i].toLowerCase());
                 if(i != words.length - 1){
                     sb.append(" ");
                 }

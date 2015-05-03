@@ -13,10 +13,12 @@ public class Server {
         Trainer tn = new Trainer();
         String modelPath = "data/Pool.model";
         tn.setModel(modelPath);
-        
-        // prepare judger
+
+
+        /*
+        //prepare judger
         Judger jg = new Judger(new String[]{"BAD", "FAIR", "GOOD"});
-        
+
         // prepare handler
         RegularQueryHandler rqh = new RegularQueryHandler(tn, jg);
         
