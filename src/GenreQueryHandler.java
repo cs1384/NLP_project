@@ -14,11 +14,7 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.List;
 
-public class QueryHandler implements HttpHandler{
-    
-    public static void main(String[] args) throws IOException, JSONException {
-        QueryHandler qh = new QueryHandler();
-    }
+public class GenreQueryHandler implements HttpHandler{
 
     @Override
     public void handle(HttpExchange arg0) throws IOException{

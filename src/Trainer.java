@@ -1,3 +1,4 @@
+import java.io.BufferedOutputStream;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -5,6 +6,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
+import java.io.OutputStream;
+import java.io.Serializable;
 import java.util.Set;
 
 import opennlp.tools.doccat.DoccatModel;
@@ -15,15 +18,13 @@ import opennlp.tools.util.ObjectStream;
 import opennlp.tools.util.PlainTextByLineStream;
 
 
-public class Trainer {
+public class Trainer{
     
     DoccatModel model = null;
 
     public void setModel(String modelPath) throws IOException, ClassNotFoundException{
         FileInputStream fileIn = new FileInputStream(modelPath);
-        ObjectInputStream in = new ObjectInputStream(fileIn);
-        this.model = (DoccatModel) in.readObject();
-        in.close();
+        model = new DoccatModel(fileIn);
         fileIn.close();
     }
     public String categorize(String input){
@@ -34,10 +35,6 @@ public class Trainer {
         return category;
     }
     public String trainModel(String inputPath) throws IOException{
-        int from = inputPath.lastIndexOf('/');
-        int to = inputPath.lastIndexOf('.');
-        String name = inputPath.substring(from+1, to);
-        String modelPath = "data/model_"+name+".ser";
         InputStream dataIn = null;
         try {
             dataIn = new FileInputStream(inputPath);
@@ -60,21 +57,43 @@ public class Trainer {
                 }
             }
         }
-        /*
-        FileOutputStream fileOut = new FileOutputStream(modelPath);
-        ObjectOutputStream out = new ObjectOutputStream(fileOut);
-        out.writeObject(model);
-        out.close();
-        fileOut.close();
-        */
+        // output the model
+        int from = inputPath.lastIndexOf('/');
+        int to = inputPath.lastIndexOf('.');
+        String name = inputPath.substring(from+1, to);
+        String modelPath = "data/"+name+".model";
+        
+        OutputStream modelOut = null;
+        try {
+          modelOut = new BufferedOutputStream(new FileOutputStream(modelPath));
+          model.serialize(modelOut);
+        }
+        catch (IOException e) {
+          // Failed to save model
+          e.printStackTrace();
+        }
+        finally {
+          if (modelOut != null) {
+            try {
+               modelOut.close();
+            }
+            catch (IOException e) {
+              // Failed to correctly save model.
+              // Written model might be invalid.
+              e.printStackTrace();
+            }
+          }
+        }
+        
         return modelPath;
     }
     
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         Trainer tn = new Trainer();
-        String modelPath = tn.trainModel("data/reviews/Animation.txt");
-        //tn.setModel(modelPath);
+        //String modelPath = tn.trainModel("data/reviews/Animation.txt");
+        String modelPath = "data/Animation.model";
+        tn.setModel(modelPath);
         System.out.println(tn.categorize("amazing"));
         System.out.println(tn.categorize("animated"));
         System.out.println(tn.categorize("unexciting"));
