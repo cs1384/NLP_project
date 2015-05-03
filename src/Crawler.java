@@ -66,7 +66,7 @@ public class Crawler {
         return keywords;
     }
     
-    public void getIds(Set<String> keywords) throws IOException, JSONException, InterruptedException{
+    public void getIds(Set<String> keywords, String outputPath) throws IOException, JSONException, InterruptedException{
         String api = "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=x6usx7bn33cdn9vverg9f2v7&q=";
         StringBuilder sb = new StringBuilder(api);
         ids = new HashSet<String>();
@@ -88,14 +88,14 @@ public class Crawler {
         }
         
         System.out.println("======== get "+ids.size()+" ids ========");
-        FileOutputStream fileOut = new FileOutputStream("data/ids.ser");
+        FileOutputStream fileOut = new FileOutputStream(outputPath);
         ObjectOutputStream out = new ObjectOutputStream(fileOut);
         out.writeObject(ids);
         out.close();
         fileOut.close();
     }
     
-    public void processRawReviesByGenre(String rawDataPath, String genresPath, int max) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
+    public void processRawReviesByGenre(String rawDataPath, String genresPath) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
         // get raw data
         File fileIn = new  File(rawDataPath);
         Scanner sc = new Scanner(new FileReader(fileIn));
@@ -129,7 +129,6 @@ public class Crawler {
             count++;
             if(!op[0].equals(preid)){
                 preid = op[0];
-                if(k++==max) break;
             }
         }
         
@@ -139,17 +138,10 @@ public class Crawler {
         System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
-    public void processRawReviesPool(String rawDataPath, String genresPath, int max) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
+    public void processRawReviesPool(String rawDataPath) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
         // get raw data
         File fileIn = new  File(rawDataPath);
         Scanner sc = new Scanner(new FileReader(fileIn));
-
-        // get genre content from serialized file
-        FileInputStream fileObj = new FileInputStream(genresPath);
-        ObjectInputStream in = new ObjectInputStream(fileObj);
-        genres = (Set<String>) in.readObject();
-        in.close();
-        fileObj.close();
         
         // prepare the files to write reviews
         File file = new File("data/reviews_pool");
@@ -167,7 +159,6 @@ public class Crawler {
             count++;
             if(!op[0].equals(preid)){
                 preid = op[0];
-                if(k++==max) break;
             }
         }
         
@@ -177,7 +168,7 @@ public class Crawler {
         System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
-    public void collectRawReviews(String idsPath, int max) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
+    public void collectRawReviews(String idsPath, int trainMax, int evalMax) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
         // get ids content from serialized file
         FileInputStream fileIn = new FileInputStream(idsPath);
         ObjectInputStream in = new ObjectInputStream(fileIn);
@@ -185,8 +176,10 @@ public class Crawler {
         in.close();
         fileIn.close();
         // prepare the file to write reviews
-        File file = new File("data/raw_reviews.txt");
-        BufferedWriter bw = new BufferedWriter(new FileWriter(file)); 
+        File file = new File("data/reviews_eval.txt");
+        BufferedWriter bw_eval = new BufferedWriter(new FileWriter(file));
+        file = new File("data/reviews_train.txt");
+        BufferedWriter bw_train = new BufferedWriter(new FileWriter(file));
         // RESTful APIs
         String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
         String apiReview = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s/reviews.json?apikey=x6usx7bn33cdn9vverg9f2v7&review_type=all&page_limit=50";
@@ -228,12 +221,14 @@ public class Crawler {
                 
                 String line = this.getALine(mid, title, sb.toString(), score, quote);
                 System.out.println(line);
-                bw.write(line);
+                if(k<trainMax) bw_train.write(line);
+                else bw_eval.write(line);
             }
             Thread.sleep(500);
-            if(++k==max) break;
+            if(++k==evalMax) break;
         }
-        bw.close();
+        bw_train.close();
+        bw_eval.close();
         // write genres to serialized file
         FileOutputStream fileOut = new FileOutputStream("data/genres.ser");
         ObjectOutputStream out = new ObjectOutputStream(fileOut);
@@ -266,14 +261,14 @@ public class Crawler {
     public static void main(String[] args) throws IOException, JSONException, InterruptedException, ClassNotFoundException {
         Crawler cl = new Crawler();
         // get keywords list
-        //Set<String> keywords = cl.getKeyWords("data/movie_list.txt");
+        //Set<String> keywords = cl.getKeyWords("data/raw/movie_list.txt");
         // get ids based on those keywords and store ids to .ser
-        //cl.getIds(keywords);
+        //cl.getIds(keywords, "data/raw/ids.ser");
         // get genres based on first 500 ids and store genres to .ser
-        cl.collectRawReviews("data/ids.ser", 4000);
+        cl.collectRawReviews("data/raw/ids.ser", 3000, 4000);
         // get two different traing sets
-        cl.processRawReviesPool("data/raw_reviews.txt", "data/genres.ser", 3000);
-        cl.processRawReviesByGenre("data/raw_reviews.txt", "data/genres.ser", 3000);
+        cl.processRawReviesPool("data/reviews_train.txt");
+        cl.processRawReviesByGenre("data/reviews_train.txt", "data/genres.ser");
     }
 
 }
