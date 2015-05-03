@@ -27,6 +27,7 @@ public class NegationHandler {
     public String inputFilePath;
     public String outputFilePath;
     public String outputFileName;
+    public StopwordFilter filter;
 
 
     public NegationHandler() {
@@ -34,6 +35,7 @@ public class NegationHandler {
         negation_words = new HashSet<String>();
         tagsToBeModified = new HashSet<String>();
         resultSentences = new ArrayList<String[]>();
+        filter = new StopwordFilter();
         tagsToBeModified.add("RB");
         tagsToBeModified.add("JJR");
         tagsToBeModified.add("RBR");
@@ -88,7 +90,6 @@ public class NegationHandler {
                 String[] tags = tagger.tag(words);
                 double probs[] = tagger.probs();
 
-
                 // one sentence in a line
                 for( int i = 1; i < tags.length; i++){
                     String curWord = words[i];
@@ -105,6 +106,13 @@ public class NegationHandler {
                             }
                         }
                     }
+
+                    //filter out stopwords
+                    filter.addStopWords("src/raw_data_processing/data/stopwords");
+                    if(filter.isStopword(words[i])){
+                        words[i] = "";
+                    }
+
                 }
 //                POSSample sample = new POSSample(words, tags);
 //                System.out.println(sample.toString());
@@ -128,6 +136,7 @@ public class NegationHandler {
             writer.write("\n");
 //            System.out.println();
         }
+        writer.flush();
 
 
 
@@ -135,8 +144,8 @@ public class NegationHandler {
 
     public static void main(String[] args) throws IOException {
         NegationHandler negationHandler = new NegationHandler();
-//        File folder = new File("src/raw_data_processing/data/review");
-        File folder = new File("data/reviews");
+        File folder = new File("src/raw_data_processing/data/review");
+//        File folder = new File("data/reviews");
 
         File[] listOfFiles = folder.listFiles();
 
@@ -160,9 +169,11 @@ public class NegationHandler {
     public String makeSentence(String[] words) {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < words.length; i++){
-            sb.append(words[i]);
-            if(i != words.length - 1){
-                sb.append(" ");
+            if(words[i].length() > 0){
+                sb.append(words[i]);
+                if(i != words.length - 1){
+                    sb.append(" ");
+                }
             }
         }
         return sb.toString();
