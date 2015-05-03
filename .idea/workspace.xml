@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963e7f6c-a877-4f6f-92a0-4c2089bae2de" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GradeScale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/raw_data_processing/grade_labeler.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluator.java" afterPath="$PROJECT_DIR$/src/Evaluator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Judger.java" afterPath="$PROJECT_DIR$/src/Judger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Server.java" afterPath="$PROJECT_DIR$/src/Server.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/out.txt" afterPath="$PROJECT_DIR$/src/raw_data_processing/out.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helper/processReviews.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/reviews_train_small.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/genres_big.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/ids.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/movie_list.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/movie_list_ori.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/Animation.model" afterPath="$PROJECT_DIR$/data/models/Animation.model" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/data/reviews_train.txt" afterPath="$PROJECT_DIR$/data/reviews_eval_small.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Crawler.java" afterPath="$PROJECT_DIR$/src/Crawler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/reviews_eval.txt" afterPath="$PROJECT_DIR$/data/reviews_eval.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/reviews_train.txt" afterPath="$PROJECT_DIR$/data/reviews_train.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NLP_project.iws" />
@@ -83,7 +86,7 @@
       <file leaf-file-name="Evaluator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="194" max-vertical-offset="630">
+            <state line="7" column="28" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="630">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,10 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Server.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <file leaf-file-name="reviews_eval.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/reviews_eval.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="62" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="660">
+            <state line="5" column="40" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.18844222" vertical-offset="0" max-vertical-offset="289185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reviews_train.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/reviews_train.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503265">
               <folding />
             </state>
           </provider>
@@ -141,16 +153,16 @@
       <file leaf-file-name="GradeLabeler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="428" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
+            <state line="18" column="5" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RawreviewGradeLabler.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RawreviewGradeLabler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="23" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.6028369" vertical-offset="300" max-vertical-offset="840">
+            <state line="28" column="31" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="840">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,7 +204,6 @@
         <option value="$PROJECT_DIR$/src/raw_data_processing/StopwordFilter.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/data/review/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
-        <option value="$PROJECT_DIR$/data/reviews_eval.txt" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
         <option value="$PROJECT_DIR$/src/Server.java" />
         <option value="$PROJECT_DIR$/data/review_eval_label.txt" />
@@ -200,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/Judger.java" />
         <option value="$PROJECT_DIR$/src/Evaluator.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
+        <option value="$PROJECT_DIR$/data/reviews_eval.txt" />
       </list>
     </option>
   </component>
@@ -285,98 +297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw_data_processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw_data_processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw_data_processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="review_after_negation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raw_data_processing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="review" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -686,7 +606,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1425" height="795" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -704,7 +624,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -734,11 +654,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NLPproject.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="17" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="585" />
@@ -990,20 +905,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_eval.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="489" selection-end="498" vertical-scroll-proportion="0.13761468" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="428" selection-end="664" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RegularQueryHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="13" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="1050">
@@ -1014,13 +915,6 @@
     <entry file="file://$PROJECT_DIR$/data/review_eval_label.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="9" selection-start="141" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="62" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
@@ -1041,21 +935,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="194" max-vertical-offset="630">
+        <state line="28" column="31" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="840">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
+    <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="23" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.6028369" vertical-offset="300" max-vertical-offset="840">
+        <state line="7" column="28" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="630">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="62" selection-start="607" selection-end="607" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reviews_train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/reviews_eval.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="40" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.18844222" vertical-offset="0" max-vertical-offset="289185">
+          <folding />
         </state>
       </provider>
     </entry>
