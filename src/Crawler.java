@@ -108,7 +108,7 @@ public class Crawler {
         fileObj.close();
         
         // prepare the files to write reviews
-        File file = new File("data/reviews_by_genre");
+        File file = new File("data/reviews_genres");
         file.mkdir();
         Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
         for(String g : genres){
@@ -265,7 +265,7 @@ public class Crawler {
         // get ids based on those keywords and store ids to .ser
         //cl.getIds(keywords, "data/raw/ids.ser");
         // get genres based on first 500 ids and store genres to .ser
-        cl.collectRawReviews("data/raw/ids.ser", 3000, 4000);
+        //cl.collectRawReviews("data/raw/ids.ser", 3000, 4000);
         // get two different traing sets
         cl.processRawReviesPool("data/reviews_train.txt");
         cl.processRawReviesByGenre("data/reviews_train.txt", "data/genres.ser");

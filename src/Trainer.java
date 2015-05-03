@@ -1,4 +1,5 @@
 import java.io.BufferedOutputStream;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -34,7 +35,7 @@ public class Trainer{
         String category = myCategorizer.getBestCategory(outcomes);
         return category;
     }
-    public String trainModel(String inputPath) throws IOException{
+    public String trainModel(String inputPath, String modelPath) throws IOException{
         InputStream dataIn = null;
         try {
             dataIn = new FileInputStream(inputPath);
@@ -57,12 +58,8 @@ public class Trainer{
                 }
             }
         }
-        // output the model
-        int from = inputPath.lastIndexOf('/');
-        int to = inputPath.lastIndexOf('.');
-        String name = inputPath.substring(from+1, to);
-        String modelPath = "data/"+name+".model";
         
+        // output the model
         OutputStream modelOut = null;
         try {
           modelOut = new BufferedOutputStream(new FileOutputStream(modelPath));
@@ -88,10 +85,32 @@ public class Trainer{
         return modelPath;
     }
     
+    public void batchTraining(String dir) throws IOException{
+        File folder = new File(dir);
+        File[] listOfFiles = folder.listFiles();
+        for(File f : listOfFiles){
+            System.out.println("\n=================: "+f.getPath());
+            String outputPath = dir+"/"+f.getName()+".model";
+            String modelPath = this.trainModel(f.getPath(), outputPath);
+        }
+        System.out.println("DONE: "+dir);
+    }
+    
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
+        String pool_3labal_dir = "data/reviews_after_negation";
+        //String pool_3labal_dir = "data/reviews_pool-3label";
+        String pool_7labal_dir = "data/reviews_pool-7label";
+        String genre_3labal_dir = "data/reviews_by_genre-3label";
+        String genre_7labal_dir = "data/reviews_by_genre-7label";
+        
         Trainer tn = new Trainer();
-        //String modelPath = tn.trainModel("data/reviews/Animation.txt");
+        tn.batchTraining(pool_3labal_dir);
+        //tn.batchTraining(pool_7labal_dir);
+        //tn.batchTraining(genre_3labal_dir);
+        //tn.batchTraining(genre_7labal_dir);
+        
+        /*
         String modelPath = "data/Animation.model";
         tn.setModel(modelPath);
         System.out.println(tn.categorize("amazing"));
@@ -100,6 +119,8 @@ public class Trainer{
         System.out.println(tn.categorize("A few funny lines and a great vocal turn by Hugh Grant. All else is unexciting. Can't see the kids going wild over this one."));
         System.out.println(tn.categorize("misstep"));
         System.out.println(tn.categorize("poor"));
+        */
+        
     }
 
 }
