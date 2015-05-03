@@ -28,13 +28,9 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class Crawler {
-    Set<String> ids;
-    Set<String> genres;
-    String delimiter = " ";
-    
-    public Crawler(){
-        ids = new HashSet<String>();
-    }
+    Set<String> ids = null;
+    Set<String> genres = null;
+    public static String delimiter = " <|###|> ";
     
     private static String readAll(Reader rd) throws IOException {
         StringBuilder sb = new StringBuilder();
@@ -73,6 +69,7 @@ public class Crawler {
     public void getIds(Set<String> keywords) throws IOException, JSONException, InterruptedException{
         String api = "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=x6usx7bn33cdn9vverg9f2v7&q=";
         StringBuilder sb = new StringBuilder(api);
+        ids = new HashSet<String>();
         int len = sb.length();
         for(String key : keywords){
             if(key.length()<=3) continue;
@@ -98,78 +95,89 @@ public class Crawler {
         fileOut.close();
     }
     
-    public void collectReviewsForGenres(String genresPath, String idsPath, int max) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
-        // get ids content from serialized file
-        FileInputStream fileIn = new FileInputStream(idsPath);
-        ObjectInputStream in = new ObjectInputStream(fileIn);
-        ids = (Set<String>) in.readObject();
-        in.close();
-        fileIn.close();
+    public void processRawReviesByGenre(String rawDataPath, String genresPath, int max) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
+        // get raw data
+        File fileIn = new  File(rawDataPath);
+        Scanner sc = new Scanner(new FileReader(fileIn));
+
         // get genre content from serialized file
-        fileIn = new FileInputStream(genresPath);
-        in = new ObjectInputStream(fileIn);
+        FileInputStream fileObj = new FileInputStream(genresPath);
+        ObjectInputStream in = new ObjectInputStream(fileObj);
         genres = (Set<String>) in.readObject();
         in.close();
-        fileIn.close();
+        fileObj.close();
+        
         // prepare the files to write reviews
-        File file = new File("data/reviews");
+        File file = new File("data/reviews_by_genre");
         file.mkdir();
         Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
         for(String g : genres){
-            file = new File("data/reviews/"+g+".txt");
+            file = new File("data/reviews_by_genre/"+g+".txt");
             map.put(g, new BufferedWriter(new FileWriter(file)));
         }
-        // RESTful APIs
-        String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
-        String apiReview = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s/reviews.json?apikey=x6usx7bn33cdn9vverg9f2v7&review_type=all&page_limit=50";
+        
         // process reviews
         int k = 0;
         int count = 0;
-        for(String id : ids){
-            // get genres
-            List<String> list = new ArrayList<String>();
-            JSONObject json = readJsonFromUrl(String.format(apiInfo, id));
-            JSONArray arr = json.getJSONArray("genres");
-            for(int i=0;i<arr.length();i++){
-                list.add(arr.getString(i));
+        String preid = "";
+        while(sc.hasNextLine()){
+            String[] op = sc.nextLine().split(this.delimiter);
+            String[] list = op[2].split(";");
+            for(String g : list){
+                map.get(g).write(op[3]+" "+op[4]+"\n");
             }
-            Thread.sleep(500);
-            // get reviews 
-            json = readJsonFromUrl(String.format(apiReview, id));
-            arr = json.getJSONArray("reviews");
-            for(int i=0;i<arr.length();i++){
-                JSONObject j = arr.getJSONObject(i);
-                System.out.println(j.toString());
-                double score;
-                // if exception happened or no quote, no reviews need to be written
-                // could result in JSONException (no json node) or IllegalArgumentException (score not in correct format)
-                try {
-                    score = fractionToScore(j.get("original_score").toString());
-                } catch (Exception e) {
-                    continue;
-                }
-                String quote = j.getString("quote");
-                if(quote.equals("")) continue;
-                String mark = getMark(score);
-                for(String g : list){
-                    map.get(g).write(mark+this.delimiter+quote+"\n");
-                }
-                count++;
+            count++;
+            if(!op[0].equals(preid)){
+                preid = op[0];
+                if(k++==max) break;
             }
-            Thread.sleep(500);
-            if(++k==max) break;
         }
+        
+        // close up all IO streams
+        sc.close();
         for(String g : genres) map.get(g).close();
         System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
-    private String getMark(double score){
-        if(score>=0.8) return "GOOD";
-        if(score>=0.6) return "FAIR";
-        else return "BAD";
+    public void processRawReviesPool(String rawDataPath, String genresPath, int max) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
+        // get raw data
+        File fileIn = new  File(rawDataPath);
+        Scanner sc = new Scanner(new FileReader(fileIn));
+
+        // get genre content from serialized file
+        FileInputStream fileObj = new FileInputStream(genresPath);
+        ObjectInputStream in = new ObjectInputStream(fileObj);
+        genres = (Set<String>) in.readObject();
+        in.close();
+        fileObj.close();
+        
+        // prepare the files to write reviews
+        File file = new File("data/reviews_pool");
+        file.mkdir();
+        file = new File("data/reviews_pool/pool.txt");
+        BufferedWriter bw = new BufferedWriter(new FileWriter(file));
+        
+        // process reviews
+        int k = 0;
+        int count = 0;
+        String preid = "";
+        while(sc.hasNextLine()){
+            String[] op = sc.nextLine().split(this.delimiter);
+            bw.write(op[3]+" "+op[4]+"\n");
+            count++;
+            if(!op[0].equals(preid)){
+                preid = op[0];
+                if(k++==max) break;
+            }
+        }
+        
+        // close up every IO stream
+        sc.close();
+        bw.close();
+        System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
-    public void collectReviews(String idsPath, int max) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
+    public void collectRawReviews(String idsPath, int max) throws ClassNotFoundException, IOException, InterruptedException, JSONException{
         // get ids content from serialized file
         FileInputStream fileIn = new FileInputStream(idsPath);
         ObjectInputStream in = new ObjectInputStream(fileIn);
@@ -177,27 +185,31 @@ public class Crawler {
         in.close();
         fileIn.close();
         // prepare the file to write reviews
-        File file = new File("data/reviews.txt");
+        File file = new File("data/raw_reviews.txt");
         BufferedWriter bw = new BufferedWriter(new FileWriter(file)); 
         // RESTful APIs
         String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
         String apiReview = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s/reviews.json?apikey=x6usx7bn33cdn9vverg9f2v7&review_type=all&page_limit=50";
         // instantiate the genres set
         genres = new HashSet<String>();
-        // collect review for each id
+        // collect reviews for each id
         int k = 0;
-        for(String id : ids){
-            // get genres
-            JSONObject json = readJsonFromUrl(String.format(apiInfo, id));
+        for(String mid : ids){
+            // get movie info
+            JSONObject json = readJsonFromUrl(String.format(apiInfo, mid));
+            String title = json.getString("title");
             JSONArray arr = json.getJSONArray("genres");
-            //System.out.println(arr.toString());
+            StringBuilder sb = new StringBuilder(); 
             for(int i=0;i<arr.length();i++){
-                genres.add(arr.getString(i));
+                String temp = arr.getString(i);
+                genres.add(temp);
+                sb.append(temp);sb.append(';');
             }
+            sb.deleteCharAt(sb.length()-1);
             Thread.sleep(500);
             
-            // get reviews 
-            json = readJsonFromUrl(String.format(apiReview, id));
+            // get reviews
+            json = readJsonFromUrl(String.format(apiReview, mid));
             arr = json.getJSONArray("reviews");
             for(int i=0;i<arr.length();i++){
                 JSONObject j = arr.getJSONObject(i);
@@ -206,14 +218,17 @@ public class Crawler {
                 // if exception happened or no quote, no reviews need to be written
                 // could result in JSONException (no json node) or IllegalArgumentException (score not in correct format)
                 try {
-                    score = fractionToScore(j.get("original_score").toString());
+                    score = fractionToScore(j.getString("original_score"));
                 } catch (Exception e) {
                     continue;
                 }
                 String quote = j.getString("quote");
                 if(quote.equals("")) continue;
-                bw.write((score+this.delimiter+quote));
-                bw.write("\n");
+                quote = quote.replaceAll("\\p{P}", " ").trim().replaceAll("\\s+", " ").toLowerCase();
+                
+                String line = this.getALine(mid, title, sb.toString(), score, quote);
+                System.out.println(line);
+                bw.write(line);
             }
             Thread.sleep(500);
             if(++k==max) break;
@@ -226,6 +241,18 @@ public class Crawler {
         out.close();
         fileOut.close();
     }
+    
+    // "770672122  <|###|> Toy Story 3 <|###|> Animation;Kids & Family;Science Fiction & Fantasy;Comedy <|###|> 0.8 <|###|> amazing animation movies!
+    private String getALine(String mid, String title, String genres, double score, String quote){
+        StringBuilder sb = new StringBuilder();
+        sb.append(mid);sb.append(this.delimiter);
+        sb.append(title);sb.append(this.delimiter);
+        sb.append(genres);sb.append(this.delimiter);
+        sb.append(String.valueOf(score));sb.append(this.delimiter);
+        sb.append(quote);sb.append("\n");
+        return sb.toString();
+    }
+    
     private double fractionToScore(String fra){
         int i=0;
         while(i<fra.length() && fra.charAt(i)!='/') i++;
@@ -235,6 +262,7 @@ public class Crawler {
         return n/d;
     }
     
+    
     public static void main(String[] args) throws IOException, JSONException, InterruptedException, ClassNotFoundException {
         Crawler cl = new Crawler();
         // get keywords list
@@ -242,8 +270,10 @@ public class Crawler {
         // get ids based on those keywords and store ids to .ser
         //cl.getIds(keywords);
         // get genres based on first 500 ids and store genres to .ser
-        //cl.collectReviews("data/ids.ser", 500);
-        cl.collectReviewsForGenres("data/genres.ser", "data/ids.ser", 3000);
+        cl.collectRawReviews("data/ids.ser", 4000);
+        // get two different traing sets
+        cl.processRawReviesPool("data/raw_reviews.txt", "data/genres.ser", 3000);
+        cl.processRawReviesByGenre("data/raw_reviews.txt", "data/genres.ser", 3000);
     }
 
 }
