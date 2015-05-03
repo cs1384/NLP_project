@@ -30,7 +30,7 @@ import org.json.JSONObject;
 public class Crawler {
     Set<String> ids = null;
     Set<String> genres = null;
-    public static String delimiter = " <|###|> ";
+    public static String delimiter = " <###> ";
     
     private static String readAll(Reader rd) throws IOException {
         StringBuilder sb = new StringBuilder();
