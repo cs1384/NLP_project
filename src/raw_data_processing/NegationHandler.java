@@ -67,6 +67,8 @@ public class NegationHandler {
             splitSentences.add(splitSent);
 
         }
+        fis.close();
+        br.close();
     }
 
     public void addNegationWords(String file) throws IOException {
@@ -114,9 +116,6 @@ public class NegationHandler {
                     }
 
                 }
-//                POSSample sample = new POSSample(words, tags);
-//                System.out.println(sample.toString());
-
                 modifiedLine.add(makeSentence(words));
 
             }
@@ -130,22 +129,18 @@ public class NegationHandler {
         Writer writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(path+"/"+name),"utf-8"));
         for(String[] sent : resultSentences){
             for(String s : sent){
-//                System.out.print(s);
                 writer.write(s);
             }
             writer.write("\n");
-//            System.out.println();
         }
         writer.flush();
-
-
-
+        writer.close();
     }
 
     public static void main(String[] args) throws IOException {
         NegationHandler negationHandler = new NegationHandler();
-        File folder = new File("src/raw_data_processing/data/review");
-//        File folder = new File("data/reviews");
+//        File folder = new File("src/raw_data_processing/data/review");
+        File folder = new File("data/reviews");
 
         File[] listOfFiles = folder.listFiles();
 
@@ -156,6 +151,7 @@ public class NegationHandler {
                 negationHandler.addSplitSentence(listOfFiles[i]);
                 negationHandler.addNegationWords("src/raw_data_processing/data/negation_word_list");
                 String outputPath = negationHandler.inputFilePath+"_after_negation";
+                System.out.println("#"+i+": "+negationHandler.inputFileName+" - begin");
                 negationHandler.handleAndSaveToFile(outputPath,negationHandler.inputFileName);
                 System.out.println("#"+i+": "+negationHandler.inputFileName+" - done");
 
@@ -164,6 +160,10 @@ public class NegationHandler {
             }
         }
         System.out.println("all done");
+
+//        NegationHandler nh = new NegationHandler();
+//        File folder = new File("data/reviews");
+//        nh.handleAllFileInDir(folder);
     }
 
     public String makeSentence(String[] words) {

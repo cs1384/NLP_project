@@ -1,15 +1,12 @@
+import com.sun.net.httpserver.Headers;
+import com.sun.net.httpserver.HttpExchange;
+import com.sun.net.httpserver.HttpHandler;
+
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLDecoder;
-import java.util.List;
-
-import org.json.JSONException;
-
-import com.sun.net.httpserver.Headers;
-import com.sun.net.httpserver.HttpExchange;
-import com.sun.net.httpserver.HttpHandler;
 
 
 public class RegularQueryHandler implements HttpHandler{
@@ -32,25 +29,25 @@ public class RegularQueryHandler implements HttpHandler{
             respondWithMsg(arg0, "No movie name specified");
             return;
         }
-        try {
-            // predict all tweets
-            List<String> tweets = this.tc.getTweets(name);
-            int[] counts = this.judger.getCounter();
-            for(String t : tweets){
-                String cate = predictor.categorize(t);
-                counts[this.judger.indexer.get(cate)]++;
-            }
-            // judge the movie based on the predictions
-            String res = this.judger.judge(counts);
-            org.json.JSONObject obj = new org.json.JSONObject();
-            obj.put("success", true);
-            obj.put("evaluation", res);
-            this.respondWithMsg(arg0, obj.toString());
-            
-        } catch (JSONException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }
+//        try {
+//            // predict all tweets
+//            List<String> tweets = this.tc.getTweets(name);
+//            int[] counts = this.judger.getCounter();
+//            for(String t : tweets){
+//                String cate = predictor.categorize(t);
+//                counts[this.judger.indexer.get(cate)]++;
+//            }
+//            // judge the movie based on the predictions
+//            String res = this.judger.judge(counts);
+//            org.json.JSONObject obj = new org.json.JSONObject();
+//            obj.put("success", true);
+//            obj.put("evaluation", res);
+//            this.respondWithMsg(arg0, obj.toString());
+//
+//        } catch (JSONException e) {
+//            // TODO Auto-generated catch block
+//            e.printStackTrace();
+//        }
     }
     
     private String movieName(String query) throws UnsupportedEncodingException{

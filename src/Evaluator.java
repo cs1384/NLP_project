@@ -1,22 +1,14 @@
-import raw_data_processing.RawreviewGradeLabler;
-
 import java.io.File;
 import java.io.IOException;
 
 public class Evaluator {
     private Judger judger;
-    private RawreviewGradeLabler labeler;
 
     public Evaluator(Judger judger){
 //        sevenJudger = new Judger()
-        labeler = new RawreviewGradeLabler();
         this.judger = judger;
     }
 
-    public void labelGrade(File input,String outPath) throws IOException {
-        labeler.set7Scale();
-        labeler.labelScaleAndSave(input,outPath);
-    }
 
 
 

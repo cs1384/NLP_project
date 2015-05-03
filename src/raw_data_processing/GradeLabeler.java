@@ -2,7 +2,8 @@ package raw_data_processing;
 
 import java.io.*;
 import java.nio.charset.Charset;
-import java.util.*;
+import java.util.Iterator;
+import java.util.TreeMap;
 
 /**
  * Created by
@@ -30,6 +31,12 @@ public class GradeLabeler {
         scale.put(.70, "good");
         scale.put(.80, "very_good");
         scale.put(.90, "best");
+    }
+
+    public void set3Scale(){
+        scale.put(0.0,"bad");
+        scale.put(0.6,"fair");
+        scale.put(0.8,"good");
     }
 
     public void labelScaleAndSave(File file, String outPath) throws IOException {
@@ -70,7 +77,7 @@ public class GradeLabeler {
     public static void main(String[] args) throws IOException {
         GradeLabeler gl = new GradeLabeler();
         gl.set7Scale();
-        File file = new File("/Users/Benson/Documents/workspace/NLP_project/src/raw_data_processing/data/review/Action & Adventure.txt");
+        File file = new File("/Users/Benson/Documents/workspace/NLP_project/src/raw_data_processing/data/review/t1.txt");
         gl.labelScaleAndSave(file,"src/raw_data_processing/out.txt");;
     }
 

@@ -25,6 +25,7 @@ public class StopwordFilter {
         while( (line = br.readLine())!=null ){
             stopwords.add(line);
         }
+        fis.close();
     }
 
     public boolean isStopword(String word){

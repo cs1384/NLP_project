@@ -11,6 +11,10 @@ import java.nio.charset.Charset;
  */
 public class RawreviewGradeLabler extends GradeLabeler {
 
+    public RawreviewGradeLabler(){
+        super();
+    }
+
 
     /**
      * label grade for raw review
@@ -31,20 +35,21 @@ public class RawreviewGradeLabler extends GradeLabeler {
             double score = Double.parseDouble(words[3]);
             words[3] = getGrade(score);
             for (String word : words) {
-                writer.write(word + "<###>");
+                writer.write(word + " <###> ");
             }
             writer.write("\n");
         }
         writer.flush();
     }
 
-    public static void main(String args[]){
-//        RawreviewGradeLabler labler = new RawreviewGradeLabler();
-//
-//        File file = new File("data/reviews_eval.txt");
-//        System.out.println("begin");
-//        labler.labelGrade(file,"data/review_eval_label.txt");
-//        System.out.println("end");
+    public static void main(String args[]) throws IOException {
+
+        RawreviewGradeLabler labler = new RawreviewGradeLabler();
+        labler.set7Scale();
+        File file = new File("data/reviews_eval.txt");
+        System.out.println("begin");
+        labler.labelScaleAndSave(file, "data/review_eval_labeled.txt");
+        System.out.println("end");
 
     }
 }
