@@ -11,18 +11,6 @@ import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
-
-// http://127.0.0.1:12000/genre?q=hunger+game
-// {"Status":"success", "3label": "GOOD", "7label": "TERRIBLE"}
-// http://127.0.0.1:12000/pool?q=hunger+game
-// 
-
-/**
- * 127.0.0.1:12000?q=
- * 
- * @author Tin
- *
- */
 public class PoolQueryHandler implements HttpHandler{
     
     private Trainer predictor = null;

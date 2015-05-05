@@ -86,7 +86,7 @@ public class Trainer{
     }
     
     public void batchTraining(String dir) throws IOException{
-        File folder = new File(dir);
+        File folder = new File(dir+"/model");
         File[] listOfFiles = folder.listFiles();
         for(File f : listOfFiles){
             System.out.println("\n=================: "+f.getPath());
