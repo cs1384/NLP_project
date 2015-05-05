@@ -137,10 +137,23 @@ public class NegationHandler {
         writer.close();
     }
 
+    public String makeSentence(String[] words) {
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0; i < words.length; i++){
+            if(words[i].length() > 0){
+                sb.append(words[i].toLowerCase());
+                if(i != words.length - 1){
+                    sb.append(" ");
+                }
+            }
+        }
+        return sb.toString();
+    }
+
     public static void main(String[] args) throws IOException {
         NegationHandler negationHandler = new NegationHandler();
 //        File folder = new File("src/raw_data_processing/data/review");
-        File folder = new File("data/reviews");
+        File folder = new File("data/reviews_pool");
 
         File[] listOfFiles = folder.listFiles();
 
@@ -151,6 +164,10 @@ public class NegationHandler {
                 negationHandler.addSplitSentence(listOfFiles[i]);
                 negationHandler.addNegationWords("src/raw_data_processing/data/negation_word_list");
                 String outputPath = negationHandler.inputFilePath+"_after_negation";
+                File outDir = new File(outputPath);
+                if(!outDir.exists()){
+                    outDir.mkdir();
+                }
                 System.out.println("#"+i+": "+negationHandler.inputFileName+" - begin");
                 negationHandler.handleAndSaveToFile(outputPath,negationHandler.inputFileName);
                 System.out.println("#"+i+": "+negationHandler.inputFileName+" - done");
@@ -166,17 +183,6 @@ public class NegationHandler {
 //        nh.handleAllFileInDir(folder);
     }
 
-    public String makeSentence(String[] words) {
-        StringBuilder sb = new StringBuilder();
-        for(int i = 0; i < words.length; i++){
-            if(words[i].length() > 0){
-                sb.append(words[i].toLowerCase());
-                if(i != words.length - 1){
-                    sb.append(" ");
-                }
-            }
-        }
-        return sb.toString();
-    }
+
 
 }

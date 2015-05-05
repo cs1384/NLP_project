@@ -18,7 +18,6 @@ public class Evaluator {
         GradeScale gradeScale = new GradeScale();
         gradeScale.add7Scale();
         Judger judger1 = new Judger(gradeScale);
-
         Evaluator evl = new Evaluator(judger1);
         File file = new File("data/review_eval_label.txt");
 //        String mid = "770672122";
