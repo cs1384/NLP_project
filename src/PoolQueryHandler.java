@@ -12,13 +12,24 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
 
-public class RegularQueryHandler implements HttpHandler{
+// http://127.0.0.1:12000/genre?q=hunger+game
+// {"Status":"success", "3label": "GOOD", "7label": "TERRIBLE"}
+// http://127.0.0.1:12000/pool?q=hunger+game
+// 
+
+/**
+ * 127.0.0.1:12000?q=
+ * 
+ * @author Tin
+ *
+ */
+public class PoolQueryHandler implements HttpHandler{
     
     private Trainer predictor = null;
     private TwitterCommunicator tc = null;
     private Judger judger = null;
     
-    public RegularQueryHandler(Trainer predictor, Judger judger){
+    public PoolQueryHandler(Trainer predictor, Judger judger){
         this.predictor = predictor;
         this.judger = judger;
         this.tc = new TwitterCommunicator();
@@ -35,21 +46,17 @@ public class RegularQueryHandler implements HttpHandler{
         try {
             // predict all tweets
             List<String> tweets = this.tc.getTweets(name);
-            int[] counts = this.judger.getCounter();
             for(String t : tweets){
-                String cate = predictor.categorize(t);
-                counts[this.judger.indexer.get(cate)]++;
+                String grade = predictor.categorize(t);
+                judger.addReviewGrade(grade);
             }
             // judge the movie based on the predictions
-            String res = this.judger.judge(counts);
             org.json.JSONObject obj = new org.json.JSONObject();
-            obj.put("success", true);
-            obj.put("evaluation", res);
+            obj.put("status", "success");
+            obj.put("evaluation", judger.getScoreSum());
             this.respondWithMsg(arg0, obj.toString());
-            
         } catch (JSONException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            this.respondWithMsg(arg0, "json failed");
         }
     }
     
