@@ -1,6 +1,7 @@
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -12,10 +13,22 @@ import java.net.URI;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class GenreQueryHandler implements HttpHandler{
 
+    Map<String, Trainer> predictors = null;
+    private TwitterCommunicator tc = null;
+    private Judger judger = null;
+    
+    public GenreQueryHandler(Map<String, Trainer> predictors, Judger judger){
+        this.predictors = predictors;
+        this.judger = judger;
+        this.tc = new TwitterCommunicator();
+    }
+    
     @Override
     public void handle(HttpExchange arg0) throws IOException{
         URI uri = arg0.getRequestURI();
@@ -26,10 +39,18 @@ public class GenreQueryHandler implements HttpHandler{
             id = getMovieId(name);
             if(id.equals("")) respondWithMsg(arg0, "No matching movie name in the database");
             List<String> genres = getGenreList(id);
-            
             TwitterCommunicator tc = new TwitterCommunicator();
             List<String> tweets = tc.getTweets(name);
-            
+            for(String t : tweets){
+                for(String g : genres){
+                    String grade = predictors.get(g).categorize(t);
+                    judger.addReviewGrade(grade);
+                }
+            }
+            org.json.JSONObject obj = new org.json.JSONObject();
+            obj.put("status", "success");
+            obj.put("evaluation", judger.getScoreSum());
+            this.respondWithMsg(arg0, obj.toString());
         } catch (JSONException e) {
             e.printStackTrace();
         }

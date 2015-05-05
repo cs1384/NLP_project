@@ -1,21 +1,22 @@
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
+import org.json.JSONException;
 
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 import java.net.URI;
 import java.net.URLDecoder;
+import java.util.List;
 
-
-public class RegularQueryHandler implements HttpHandler{
+public class PoolQueryHandler implements HttpHandler{
     
     private Trainer predictor = null;
     private TwitterCommunicator tc = null;
     private Judger judger = null;
     
-    public RegularQueryHandler(Trainer predictor, Judger judger){
+    public PoolQueryHandler(Trainer predictor, Judger judger){
         this.predictor = predictor;
         this.judger = judger;
         this.tc = new TwitterCommunicator();
@@ -29,25 +30,22 @@ public class RegularQueryHandler implements HttpHandler{
             respondWithMsg(arg0, "No movie name specified");
             return;
         }
-//        try {
-//            // predict all tweets
-//            List<String> tweets = this.tc.getTweets(name);
-//            int[] counts = this.judger.getCounter();
-//            for(String t : tweets){
-//                String cate = predictor.categorize(t);
-//                counts[this.judger.indexer.get(cate)]++;
-//            }
-//            // judge the movie based on the predictions
-//            String res = this.judger.judge(counts);
-//            org.json.JSONObject obj = new org.json.JSONObject();
-//            obj.put("success", true);
-//            obj.put("evaluation", res);
-//            this.respondWithMsg(arg0, obj.toString());
-//
-//        } catch (JSONException e) {
-//            // TODO Auto-generated catch block
-//            e.printStackTrace();
-//        }
+
+        try {
+            // predict all tweets
+            List<String> tweets = this.tc.getTweets(name);
+            for(String t : tweets){
+                String grade = predictor.categorize(t);
+                judger.addReviewGrade(grade);
+            }
+            // judge the movie based on the predictions
+            org.json.JSONObject obj = new org.json.JSONObject();
+            obj.put("status", "success");
+            obj.put("evaluation", judger.getScoreSum());
+            this.respondWithMsg(arg0, obj.toString());
+        } catch (JSONException e) {
+            this.respondWithMsg(arg0, "json failed");
+        }
     }
     
     private String movieName(String query) throws UnsupportedEncodingException{

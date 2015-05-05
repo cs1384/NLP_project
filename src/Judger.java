@@ -25,7 +25,7 @@ public class Judger {
         }
         return count;
     }
-    
+
     public boolean clearAllScore(){
         score = new HashMap<>();
         return true;

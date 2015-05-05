@@ -86,7 +86,7 @@ public class Trainer{
     }
     
     public void batchTraining(String dir) throws IOException{
-        File folder = new File(dir);
+        File folder = new File(dir+"/model");
         File[] listOfFiles = folder.listFiles();
         for(File f : listOfFiles){
             System.out.println("\n=================: "+f.getPath());
@@ -98,11 +98,11 @@ public class Trainer{
     
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        String pool_3labal_dir = "data/reviews_after_negation";
-        //String pool_3labal_dir = "data/reviews_pool-3label";
-        String pool_7labal_dir = "data/reviews_pool-7label";
-        String genre_3labal_dir = "data/reviews_by_genre-3label";
-        String genre_7labal_dir = "data/reviews_by_genre-7label";
+        //String pool_3labal_dir = "data/reviews_after_negation";
+        String pool_3labal_dir = "data/reviews_pool_after_negation_3label";
+        String pool_7labal_dir = "data/reviews_pool_after_negation_7label";
+        String genre_3labal_dir = "data/reviews_genre_after_negation_3label";
+        String genre_7labal_dir = "data/reviews_genre_after_negation_3label";
         
         Trainer tn = new Trainer();
         tn.batchTraining(pool_3labal_dir);

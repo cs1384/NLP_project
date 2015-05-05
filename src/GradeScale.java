@@ -21,6 +21,7 @@ public class GradeScale {
     }
 
     public void add7Scale(){
+        scale.clear();
         int i = 1;
         scale.put("terrible",i++);
         scale.put( "very_bad",i++);
@@ -29,6 +30,14 @@ public class GradeScale {
         scale.put( "good",i++);
         scale.put( "very_good",i++);
         scale.put( "best",i++);
+    }
+    
+    public void add3Scale(){
+        scale.clear();
+        int i = 1;
+        scale.put("bad",i++);
+        scale.put( "fair",i++);
+        scale.put( "good",i++);
     }
 
     public int getScore(String grade){
