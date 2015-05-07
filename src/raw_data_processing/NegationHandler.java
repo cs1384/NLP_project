@@ -29,6 +29,12 @@ public class NegationHandler {
     public String outputFileName;
     public StopwordFilter filter;
 
+    public void clearSentences() {
+        splitSentences = new ArrayList<>();
+        tagsToBeModified = new HashSet<>();
+        resultSentences = new ArrayList<>();
+    }
+
 
     public NegationHandler() {
         splitSentences = new ArrayList<String[]>();
@@ -63,7 +69,7 @@ public class NegationHandler {
         BufferedReader br = new BufferedReader(isr);
         while ((line = br.readLine()) != null) {
             line = line.replace("\n", "");
-            String[] splitSent = SentenceDetection.splitSentence("src/model/en-sent.bin", line);
+            String[] splitSent = SentenceDetection.splitSentence("src/model/en-sent.bin", line.toLowerCase());
             splitSentences.add(splitSent);
 
         }
@@ -93,7 +99,7 @@ public class NegationHandler {
                 double probs[] = tagger.probs();
 
                 // one sentence in a line
-                for( int i = 1; i < tags.length; i++){
+                for( int i = 0; i < tags.length; i++){
                     String curWord = words[i];
                     if(negation_words.contains(curWord.toLowerCase())){
                         int endIndex;
@@ -135,12 +141,13 @@ public class NegationHandler {
         }
         writer.flush();
         writer.close();
+        clearSentences();
     }
 
     public String makeSentence(String[] words) {
         StringBuilder sb = new StringBuilder();
         for(int i = 0; i < words.length; i++){
-            if(words[i].length() > 0){
+            if(words[i].length() >= 0){
                 sb.append(words[i].toLowerCase());
                 if(i != words.length - 1){
                     sb.append(" ");
@@ -153,7 +160,7 @@ public class NegationHandler {
     public static void main(String[] args) throws IOException {
         NegationHandler negationHandler = new NegationHandler();
 //        File folder = new File("src/raw_data_processing/data/review");
-        File folder = new File("data/reviews_pool");
+        File folder = new File("data/reviews_genres");
 
         File[] listOfFiles = folder.listFiles();
 

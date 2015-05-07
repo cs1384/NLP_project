@@ -39,16 +39,25 @@ public class GradeLabeler {
         scale.put(0.8,"good");
     }
 
+    public boolean isNumeric(String s) {
+        return s.matches("[-+]?\\d*\\.?\\d+");
+    }
+
     public void labelScaleAndSave(File file, String outPath) throws IOException {
         InputStream fis = new FileInputStream(file);
         InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
         Writer writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(outPath),"utf-8"));
         BufferedReader br = new BufferedReader(isr);
         String line;
+        int count = 0;
         while( (line = br.readLine()) != null) {
             String[] words = line.split(" ");
+            if(!isNumeric(words[0])){
+                break;
+            }
             double score = Double.parseDouble(words[0]);
             words[0] = getGrade(score);
+            System.out.println(count++);
             for (String word : words) {
                 writer.write(word + " ");
             }
@@ -77,8 +86,28 @@ public class GradeLabeler {
     public static void main(String[] args) throws IOException {
         GradeLabeler gl = new GradeLabeler();
         gl.set7Scale();
-        File file = new File("/Users/Benson/Documents/workspace/NLP_project/src/raw_data_processing/data/review/t1.txt");
-        gl.labelScaleAndSave(file,"src/raw_data_processing/out.txt");;
+//        gl.set3Scale();
+        File folder = new File("data/reviews_genres_after_negation");
+        String outdir = "data/reviews_genres_after_negation_7scale/";
+        File[] listOfFiles = folder.listFiles();
+
+
+        System.out.println("task begin");
+        for (int i = 0; i < listOfFiles.length; i++) {
+            if (listOfFiles[i].isFile()) {
+                File outDir = new File(outdir);
+                if(!outDir.exists()){
+                    outDir.mkdir();
+                }
+                File input = listOfFiles[i].getAbsoluteFile();
+                System.out.println("#"+i+": "+listOfFiles[i].getName()+" - begin");
+                gl.labelScaleAndSave(input,outdir+listOfFiles[i].getName());
+                System.out.println("#"+i+": "+ listOfFiles[i].getName()+" - done");
+
+            } else if (listOfFiles[i].isDirectory()) {
+                System.out.println("Directory " + listOfFiles[i].getName());
+            }
+        }
     }
 
 }
