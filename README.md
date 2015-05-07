@@ -14,6 +14,13 @@ response.body: json -> {"status":"success", "evaluation":"good"}
 httpRequest: http://127.0.0.1:20001/seven?q=movie+name
 response.body: json -> {"status":"success", "evaluation":"terrible"}
 ```
+# Genre Server
+```
+httpRequest: http://127.0.0.1:20002/three?q=movie+name
+response.body: json -> {"status":"success", "evaluation":"good"}
 
+httpRequest: http://127.0.0.1:20002/seven?q=movie+name
+response.body: json -> {"status":"success", "evaluation":"terrible"}
+```
 
 
