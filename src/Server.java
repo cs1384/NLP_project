@@ -44,8 +44,10 @@ public class Server {
         tn_pool_7label.setModel("data/reviews_pool_after_negation_7label/model/pool.model");
         PoolQueryHandler pqh_7 = new PoolQueryHandler(tn_pool_7label, judger_7label);
         // prepare handler pool_3label handler
+        
         Trainer tn_pool_3label = new Trainer();
-        tn_pool_7label.setModel("data/reviews_pool_after_negation_3label/model/pool.model");
+        tn_pool_7label.setModel("data/reviews_pool_after_negation_3label/model/pool.model");        
+        
         PoolQueryHandler pqh_3 = new PoolQueryHandler(tn_pool_3label, judger_3label);
         // prepare pool server
         int port1 = 20001;
