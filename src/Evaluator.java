@@ -1,7 +1,5 @@
-import raw_data_processing.RawreviewGradeLabler;
-
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
+import java.nio.charset.Charset;
 
 public class Evaluator {
     private Judger judger;
@@ -9,6 +7,14 @@ public class Evaluator {
     public Evaluator(Judger judger){
         //sevenJudger = new Judger()
         this.judger = judger;
+    }
+
+    public double getAvgScoreFromPool(String mid) throws FileNotFoundException {
+        File file = new File("data/reviews_pool/pool.txt");
+        InputStream fis = new FileInputStream(file);
+        InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
+
+        return 0.0;
     }
 
 
