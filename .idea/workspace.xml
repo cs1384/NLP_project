@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963e7f6c-a877-4f6f-92a0-4c2089bae2de" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation/pool.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/review_eval_labeled.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluator.java" afterPath="$PROJECT_DIR$/src/Evaluator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GradeScale.java" afterPath="$PROJECT_DIR$/src/GradeScale.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Judger.java" afterPath="$PROJECT_DIR$/src/Judger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NLP_project.iws" />
@@ -61,6 +63,38 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/GradeScale.java" line="44" class="GradeScale" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/GradeScale.java" line="46" class="GradeScale" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -74,10 +108,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GradeLabeler.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GradeLabeler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="59" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.21350762" vertical-offset="1177" max-vertical-offset="1710">
+            <state line="58" column="0" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RawreviewGradeLabler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="27" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradeScale.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GradeScale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="0" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Judger.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Judger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="18" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1470">
               <folding />
             </state>
           </provider>
@@ -86,7 +147,7 @@
       <file leaf-file-name="NegationHandler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="19" selection-start="2503" selection-end="2503" vertical-scroll-proportion="-7.423077" vertical-offset="797" max-vertical-offset="2865">
+            <state line="185" column="32" selection-start="6914" selection-end="6914" vertical-scroll-proportion="-15.5" vertical-offset="2222" max-vertical-offset="2865">
               <folding />
             </state>
           </provider>
@@ -101,11 +162,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Evaluator.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Evaluator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="18" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="540">
-              <folding />
+            <state line="90" column="22" selection-start="3304" selection-end="3304" vertical-scroll-proportion="1.9607843" vertical-offset="450" max-vertical-offset="1890">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,20 +197,20 @@
         <option value="$PROJECT_DIR$/src/raw_data_processing/Grade_labeler.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/data/review/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/data/review_eval_label.txt" />
-        <option value="$PROJECT_DIR$/src/GradeScale.java" />
         <option value="$PROJECT_DIR$/data/reviews_eval.txt" />
         <option value="$PROJECT_DIR$/src/RegularQueryHandler.java" />
-        <option value="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/StopwordFilter.java" />
-        <option value="$PROJECT_DIR$/src/Judger.java" />
         <option value="$PROJECT_DIR$/src/PoolQueryHandler.java" />
         <option value="$PROJECT_DIR$/src/Server.java" />
         <option value="$PROJECT_DIR$/data/reviews_genres_after_negation/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/data/reviews_genres/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/data/reviews_genres/a" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
-        <option value="$PROJECT_DIR$/src/Evaluator.java" />
+        <option value="$PROJECT_DIR$/src/GradeScale.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
+        <option value="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
+        <option value="$PROJECT_DIR$/src/Judger.java" />
+        <option value="$PROJECT_DIR$/src/Evaluator.java" />
       </list>
     </option>
   </component>
@@ -359,7 +422,7 @@
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GradeLabeler">
+  <component name="RunManager" selected="Application.RawreviewGradeLabler">
     <configuration default="false" name="testTagger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="raw_data_processing.testTagger" />
       <option name="VM_PARAMETERS" value="" />
@@ -625,10 +688,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GradeLabeler" />
-        <item index="1" class="java.lang.String" itemvalue="Application.NegationHandler" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RawreviewGradeLabler" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Evaluator" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RawreviewGradeLabler" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GradeLabeler" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Evaluator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NegationHandler" />
         <item index="4" class="java.lang.String" itemvalue="Application.testTagger" />
       </list>
     </recent_temporary>
@@ -696,20 +759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GenreQueryHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="13" selection-start="457" selection-end="457" vertical-scroll-proportion="-0.5777778" vertical-offset="420" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwitterCommunicator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="512" selection-end="512" vertical-scroll-proportion="-1.9333333" vertical-offset="1350" max-vertical-offset="2025">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Trainer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="33" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.33987916" vertical-offset="0" max-vertical-offset="1410">
@@ -763,15 +812,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="423" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="5" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="915">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/raw_data_processing/StopwordFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="615">
@@ -794,13 +834,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="503265" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Judger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="651" selection-end="651" vertical-scroll-proportion="0.51605505" vertical-offset="120" max-vertical-offset="1320">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="3" selection-start="127" selection-end="127" vertical-scroll-proportion="0.31105992" vertical-offset="0" max-vertical-offset="434" />
@@ -816,13 +849,6 @@
     <entry file="file://$PROJECT_DIR$/data/reviews_eval_small.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="423" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/review_eval_labeled.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289185">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/reviews_genres/Cult Movies.txt">
@@ -898,13 +924,6 @@
     <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation/Adult.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304230">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GradeScale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="20" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="449" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
@@ -993,27 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="35" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1350">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="19" selection-start="2503" selection-end="2503" vertical-scroll-proportion="-7.423077" vertical-offset="797" max-vertical-offset="2865">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/pool.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="457650">
@@ -1028,10 +1026,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="35" selection-start="2044" selection-end="2044" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="32" selection-start="6914" selection-end="6914" vertical-scroll-proportion="-15.5" vertical-offset="2222" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="553" column="13" selection-start="22157" selection-end="22157" vertical-scroll-proportion="0.33333334" vertical-offset="7694" max-vertical-offset="35310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/review_eval_7scale.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.0326633" vertical-offset="1605" max-vertical-offset="289185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/review_eval_3scale.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GradeScale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1096" selection-end="1096" vertical-scroll-proportion="0.0" vertical-offset="509" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="59" selection-start="2448" selection-end="2448" vertical-scroll-proportion="0.21350762" vertical-offset="1177" max-vertical-offset="1710">
+        <state line="58" column="0" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1680">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="27" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.0" vertical-offset="454" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Judger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="18" selection-start="830" selection-end="830" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="22" selection-start="3304" selection-end="3304" vertical-scroll-proportion="1.9607843" vertical-offset="450" max-vertical-offset="1890">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

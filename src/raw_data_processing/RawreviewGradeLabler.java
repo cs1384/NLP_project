@@ -45,10 +45,10 @@ public class RawreviewGradeLabler extends GradeLabeler {
     public static void main(String args[]) throws IOException {
 
         RawreviewGradeLabler labler = new RawreviewGradeLabler();
-        labler.set7Scale();
+        labler.set3Scale();
         File file = new File("data/reviews_eval.txt");
         System.out.println("begin");
-        labler.labelScaleAndSave(file, "data/review_eval_labeled.txt");
+        labler.labelScaleAndSave(file, "data/review_eval_3scale.txt");
         System.out.println("end");
 
     }

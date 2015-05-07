@@ -17,7 +17,7 @@ public class GradeScale {
     }
 
     public boolean isValidGrade(String grade) {
-        return scale.containsKey(grade);
+        return scale.containsKey(grade.trim());
     }
 
     public void add7Scale(){
@@ -41,14 +41,15 @@ public class GradeScale {
     }
 
     public int getScore(String grade){
-        if(!scale.containsKey(grade))
-            throw new NoSuchElementException();
+        grade = grade.trim();
+        if(!scale.containsKey(grade.trim()))
+            throw new NoSuchElementException(grade);
         return scale.get(grade);
     }
 
     public String getGrade(int score){
         if(!scale.containsValue(score)){
-            throw new IllegalArgumentException();
+            throw new IllegalArgumentException("score: "+score);
         }
         Iterator it = scale.entrySet().iterator();
         while(it.hasNext()){

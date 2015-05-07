@@ -12,6 +12,10 @@ public class Judger {
         score = new HashMap<>();
     }
 
+    public GradeScale getScale(){
+        return scale;
+    }
+
     /**
      *
      * @return total count of score
@@ -45,10 +49,9 @@ public class Judger {
 
     public void addReviewGrade(String grade){
         if(!scale.isValidGrade(grade)){
-            throw new IllegalArgumentException();
+            throw new IllegalArgumentException(grade);
         }
         int scoreOfGrade = scale.getScore(grade);
-
         int curCount = 0;
         if(score.containsKey(scoreOfGrade)){
           curCount =  score.get(scoreOfGrade);
@@ -56,7 +59,7 @@ public class Judger {
         score.put(scoreOfGrade,curCount+1);
     }
 
-    public String getAvgTamatoGradeBymid(File labeledFile, String mid) throws IOException {
+    public String getAvgTamatoGradeBymid(File labeledFile, String mid) throws Exception {
         InputStream fis = new FileInputStream(labeledFile);
         InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
         BufferedReader br = new BufferedReader(isr);
@@ -71,9 +74,12 @@ public class Judger {
     }
 
 
-    public String judge(){
+    public String judge() throws Exception {
         int sum = getScoreSum();
         int count = getCount();
+        if(count == 0){
+            return "unknown";
+        }
         double avgScore = (sum+0.)/count + 0.5;
         int score = (int)avgScore;
         return scale.getGrade(score);

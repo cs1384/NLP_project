@@ -49,7 +49,6 @@ public class GradeLabeler {
         Writer writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(outPath),"utf-8"));
         BufferedReader br = new BufferedReader(isr);
         String line;
-        int count = 0;
         while( (line = br.readLine()) != null) {
             String[] words = line.split(" ");
             if(!isNumeric(words[0])){
@@ -57,7 +56,6 @@ public class GradeLabeler {
             }
             double score = Double.parseDouble(words[0]);
             words[0] = getGrade(score);
-            System.out.println(count++);
             for (String word : words) {
                 writer.write(word + " ");
             }
