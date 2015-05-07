@@ -107,16 +107,12 @@ public class Crawler {
         in.close();
         fileObj.close();
         
-        // prepare the files to write reviews
+        // prepare the dir for output
         File file = new File("data/reviews_genres");
-        file.mkdir();
-        Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
-        for(String g : genres){
-            file = new File("data/reviews_by_genre/"+g+".txt");
-            map.put(g, new BufferedWriter(new FileWriter(file)));
-        }
+        file.mkdir(); 
         
         // process reviews
+        Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
         int k = 0;
         int count = 0;
         String preid = "";
@@ -124,6 +120,10 @@ public class Crawler {
             String[] op = sc.nextLine().split(this.delimiter);
             String[] list = op[2].split(";");
             for(String g : list){
+                if(!map.containsKey(g)){
+                    file = new File("data/reviews_by_genre/"+g+".txt");
+                    map.put(g, new BufferedWriter(new FileWriter(file)));
+                }
                 map.get(g).write(op[3]+" "+op[4]+"\n");
             }
             count++;
