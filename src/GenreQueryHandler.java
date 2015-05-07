@@ -49,7 +49,7 @@ public class GenreQueryHandler implements HttpHandler{
             }
             org.json.JSONObject obj = new org.json.JSONObject();
             obj.put("status", "success");
-            obj.put("evaluation", judger.getScoreSum());
+            obj.put("evaluation", judger.judge());
             this.respondWithMsg(arg0, obj.toString());
         } catch (JSONException e) {
             e.printStackTrace();

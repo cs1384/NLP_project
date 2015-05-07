@@ -41,7 +41,7 @@ public class PoolQueryHandler implements HttpHandler{
             // judge the movie based on the predictions
             org.json.JSONObject obj = new org.json.JSONObject();
             obj.put("status", "success");
-            obj.put("evaluation", judger.getScoreSum());
+            obj.put("evaluation", judger.judge());
             this.respondWithMsg(arg0, obj.toString());
         } catch (JSONException e) {
             this.respondWithMsg(arg0, "json failed");

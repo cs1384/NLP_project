@@ -29,7 +29,6 @@ import org.json.JSONObject;
 
 public class Crawler {
     Set<String> ids = null;
-    Set<String> genres = null;
     public static String delimiter = " <###> ";
     
     private static String readAll(Reader rd) throws IOException {
@@ -95,35 +94,30 @@ public class Crawler {
         fileOut.close();
     }
     
-    public void processRawReviesByGenre(String rawDataPath, String genresPath) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
+    public void processRawReviesByGenre(String rawDataPath) throws IOException, ClassNotFoundException, JSONException, InterruptedException{
         // get raw data
         File fileIn = new  File(rawDataPath);
         Scanner sc = new Scanner(new FileReader(fileIn));
-
-        // get genre content from serialized file
-        FileInputStream fileObj = new FileInputStream(genresPath);
-        ObjectInputStream in = new ObjectInputStream(fileObj);
-        genres = (Set<String>) in.readObject();
-        in.close();
-        fileObj.close();
         
-        // prepare the files to write reviews
+        // prepare the dir for output
         File file = new File("data/reviews_genres");
         file.mkdir();
-        Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
-        for(String g : genres){
-            file = new File("data/reviews_by_genre/"+g+".txt");
-            map.put(g, new BufferedWriter(new FileWriter(file)));
-        }
-        
         // process reviews
+        Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
         int k = 0;
         int count = 0;
         String preid = "";
         while(sc.hasNextLine()){
-            String[] op = sc.nextLine().split(this.delimiter);
+            String line = sc.nextLine();
+            String[] op = line.split(this.delimiter);
             String[] list = op[2].split(";");
             for(String g : list){
+                if(!map.containsKey(g)){
+                    String filename = "data/reviews_genres/"+g+".txt";
+                    System.out.println(filename);
+                    file = new File(filename);
+                    map.put(g, new BufferedWriter(new FileWriter(file)));
+                }
                 map.get(g).write(op[3]+" "+op[4]+"\n");
             }
             count++;
@@ -134,7 +128,7 @@ public class Crawler {
         
         // close up all IO streams
         sc.close();
-        for(String g : genres) map.get(g).close();
+        for(String g : map.keySet()) map.get(g).close();
         System.out.println("=== PROCESSED "+count+" REVIEWS ===");
     }
     
@@ -146,6 +140,8 @@ public class Crawler {
         // prepare the files to write reviews
         File file = new File("data/reviews_pool");
         file.mkdir();
+        String filename = "data/reviews_pool/pool.txt";
+        System.out.println(filename);
         file = new File("data/reviews_pool/pool.txt");
         BufferedWriter bw = new BufferedWriter(new FileWriter(file));
         
@@ -183,8 +179,6 @@ public class Crawler {
         // RESTful APIs
         String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
         String apiReview = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s/reviews.json?apikey=x6usx7bn33cdn9vverg9f2v7&review_type=all&page_limit=50";
-        // instantiate the genres set
-        genres = new HashSet<String>();
         // collect reviews for each id
         int k = 0;
         for(String mid : ids){
@@ -195,7 +189,6 @@ public class Crawler {
             StringBuilder sb = new StringBuilder(); 
             for(int i=0;i<arr.length();i++){
                 String temp = arr.getString(i);
-                genres.add(temp);
                 sb.append(temp);sb.append(';');
             }
             sb.deleteCharAt(sb.length()-1);
@@ -229,12 +222,14 @@ public class Crawler {
         }
         bw_train.close();
         bw_eval.close();
+        /*
         // write genres to serialized file
         FileOutputStream fileOut = new FileOutputStream("data/genres.ser");
         ObjectOutputStream out = new ObjectOutputStream(fileOut);
         out.writeObject(genres);
         out.close();
         fileOut.close();
+        */
     }
     
     // "770672122  <|###|> Toy Story 3 <|###|> Animation;Kids & Family;Science Fiction & Fantasy;Comedy <|###|> 0.8 <|###|> amazing animation movies!
@@ -268,7 +263,37 @@ public class Crawler {
         //cl.collectRawReviews("data/raw/ids.ser", 3000, 4000);
         // get two different traing sets
         cl.processRawReviesPool("data/reviews_train.txt");
-        cl.processRawReviesByGenre("data/reviews_train.txt", "data/genres.ser");
+        cl.processRawReviesByGenre("data/reviews_train.txt");
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//WHERE THE FUCK ARE YOU!!!!
+
+//BACK TO YOUR PROJECT!!!! YOU BASTARD!!
+
+//THE INVISIBLE MAN
+
+
+
+
+
+
+
+
+
+

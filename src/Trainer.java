@@ -45,6 +45,9 @@ public class Trainer{
         } catch (IOException e) {
           // Failed to read or parse training data, training failed
           e.printStackTrace();
+        } catch (NullPointerException e){
+            System.out.println("=================msg: Data set too small");
+            return "none";
         } finally {
             if (dataIn != null) {
                 try {
@@ -61,8 +64,9 @@ public class Trainer{
         
         // output the model
         OutputStream modelOut = null;
-        try {
-          modelOut = new BufferedOutputStream(new FileOutputStream(modelPath));
+        try {               
+          File file = new File(modelPath);
+          modelOut = new BufferedOutputStream(new FileOutputStream(file));
           model.serialize(modelOut);
         }
         catch (IOException e) {
@@ -70,27 +74,25 @@ public class Trainer{
           e.printStackTrace();
         }
         finally {
-          if (modelOut != null) {
-            try {
-               modelOut.close();
-            }
-            catch (IOException e) {
-              // Failed to correctly save model.
-              // Written model might be invalid.
-              e.printStackTrace();
-            }
-          }
+            modelOut.close();
+            System.out.println("=================output: "+ modelPath);
         }
         
         return modelPath;
     }
     
     public void batchTraining(String dir) throws IOException{
-        File folder = new File(dir+"/model");
+        File folder = new File(dir);
         File[] listOfFiles = folder.listFiles();
+        if(listOfFiles.length>0){
+            File model = new File(dir+"/model/");
+            model.mkdirs();
+        }
         for(File f : listOfFiles){
-            System.out.println("\n=================: "+f.getPath());
-            String outputPath = dir+"/"+f.getName()+".model";
+            if(!f.getName().contains(".txt")) continue;
+            System.out.println("\n=================input: "+f.getPath());
+            String outputPath = dir+"/model/"+f.getName().replaceAll(".txt", "")+".model";
+            //System.out.println("=================output: "+ outputPath);
             String modelPath = this.trainModel(f.getPath(), outputPath);
         }
         System.out.println("DONE: "+dir);
@@ -99,15 +101,16 @@ public class Trainer{
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         //String pool_3labal_dir = "data/reviews_after_negation";
-        String pool_3labal_dir = "data/reviews_pool_after_negation_3label";
-        String pool_7labal_dir = "data/reviews_pool_after_negation_7label";
-        String genre_3labal_dir = "data/reviews_genre_after_negation_3label";
-        String genre_7labal_dir = "data/reviews_genre_after_negation_3label";
+        String pool_3labal_dir = "data/reviews_pool_after_negation_3scale";
+        String pool_7labal_dir = "data/reviews_pool_after_negation_7scale";
+        String genre_3labal_dir = "data/reviews_genres_after_negation_3scale";
+        String genre_7labal_dir = "data/reviews_genres_after_negation_7scale";
         
         Trainer tn = new Trainer();
+        tn.batchTraining(genre_3labal_dir);
+        tn.batchTraining(genre_7labal_dir);
         tn.batchTraining(pool_3labal_dir);
-        //tn.batchTraining(pool_7labal_dir);
-        //tn.batchTraining(genre_3labal_dir);
+        tn.batchTraining(pool_7labal_dir);
         //tn.batchTraining(genre_7labal_dir);
         
         /*
