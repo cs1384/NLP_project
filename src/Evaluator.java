@@ -146,7 +146,7 @@ public class Evaluator {
 
         Grader gd = new Grader(true);
         Evaluator evl = new Evaluator(gd);
-        File testSet = new File("data/reviews_train.txt");
+        File testSet = new File("data/reviews_eval.txt");
         List<Double> result = evl.precision(testSet);
         for(Double pre : result){
            System.out.println(pre);

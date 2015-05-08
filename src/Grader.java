@@ -21,9 +21,11 @@ public class Grader {
         
         // pool predictors
         Trainer tn_pool_7label = new Trainer();
-        tn_pool_7label.setModel("data/reviews_pool_after_negation_7scale/model/pool.model");
+        //tn_pool_7label.setModel("data/reviews_pool_after_negation_7scale/model/pool.model");
+        tn_pool_7label.setModel("data/reviews_pool_7scale/model/pool.model");
         Trainer tn_pool_3label = new Trainer();
-        tn_pool_3label.setModel("data/reviews_pool_after_negation_3scale/model/pool.model");
+        //tn_pool_3label.setModel("data/reviews_pool_after_negation_3scale/model/pool.model");
+        tn_pool_3label.setModel("data/reviews_pool_3scale/model/pool.model");
         this.addPoolPredictor(tn_pool_3label);
         this.addPoolPredictor(tn_pool_7label);
         

@@ -98,20 +98,22 @@ public class Trainer{
         System.out.println("DONE: "+dir);
     }
     
-    
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        //String pool_3labal_dir = "data/reviews_after_negation";
         String pool_3labal_dir = "data/reviews_pool_after_negation_3scale";
         String pool_7labal_dir = "data/reviews_pool_after_negation_7scale";
         String genre_3labal_dir = "data/reviews_genres_after_negation_3scale";
         String genre_7labal_dir = "data/reviews_genres_after_negation_7scale";
+        String test3 = "data/reviews_pool_3scale";
+        String test7 = "data/reviews_pool_7scale";
+        
         
         Trainer tn = new Trainer();
-        tn.batchTraining(genre_3labal_dir);
-        tn.batchTraining(genre_7labal_dir);
-        tn.batchTraining(pool_3labal_dir);
-        tn.batchTraining(pool_7labal_dir);
+        //tn.batchTraining(genre_3labal_dir);
         //tn.batchTraining(genre_7labal_dir);
+        //tn.batchTraining(pool_3labal_dir);
+        //tn.batchTraining(pool_7labal_dir);
+        tn.batchTraining(test3);
+        tn.batchTraining(test7);
         
         /*
         String modelPath = "data/Animation.model";
