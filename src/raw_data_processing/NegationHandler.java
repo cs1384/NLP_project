@@ -159,7 +159,7 @@ public class NegationHandler {
 
     public static void main(String[] args) throws IOException {
         NegationHandler negationHandler = new NegationHandler();
-        File folder = new File("data/reviews_pool");
+        File folder = new File("data/reviews_genres");
         //File folder = new File("data/reviews_genres");
 
         File[] listOfFiles = folder.listFiles();

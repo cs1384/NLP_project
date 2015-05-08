@@ -2,7 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963e7f6c-a877-4f6f-92a0-4c2089bae2de" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Evaluator.java" afterPath="$PROJECT_DIR$/src/Evaluator.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Action &amp; Adventure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Animation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Anime &amp; Manga.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Art House &amp; International.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Classics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Comedy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Cult Movies.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Documentary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Drama.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Faith &amp; Spirituality.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Gay &amp; Lesbian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Horror.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Kids &amp; Family.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Musical &amp; Performing Arts.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Mystery &amp; Suspense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Romance.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Science Fiction &amp; Fantasy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Special Interest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Sports &amp; Fitness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Television.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Western.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Action &amp; Adventure.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Animation.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Art House &amp; International.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Classics.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Comedy.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Cult Movies.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Documentary.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Drama.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Faith &amp; Spirituality.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Horror.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Kids &amp; Family.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Musical &amp; Performing Arts.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Mystery &amp; Suspense.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Romance.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Science Fiction &amp; Fantasy.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Special Interest.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Sports &amp; Fitness.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Television.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Western.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Action &amp; Adventure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Animation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Anime &amp; Manga.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Art House &amp; International.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Classics.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Comedy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Cult Movies.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Documentary.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Drama.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Faith &amp; Spirituality.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Gay &amp; Lesbian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Horror.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Kids &amp; Family.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Musical &amp; Performing Arts.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Mystery &amp; Suspense.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Romance.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Science Fiction &amp; Fantasy.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Special Interest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Sports &amp; Fitness.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Television.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Western.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Action &amp; Adventure.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Animation.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Art House &amp; International.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Classics.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Comedy.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Cult Movies.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Documentary.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Drama.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Faith &amp; Spirituality.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Horror.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Kids &amp; Family.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Musical &amp; Performing Arts.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Mystery &amp; Suspense.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Romance.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Science Fiction &amp; Fantasy.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Special Interest.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Sports &amp; Fitness.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Television.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Western.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_3scale/model/pool.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_3scale/pool.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/model/pool.model" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/pool.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NLP_project.iws" />
@@ -103,10 +188,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GradeLabeler.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GradeLabeler.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="25" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="1710">
+            <state line="89" column="44" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3119266" vertical-offset="1124" max-vertical-offset="1710">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NegationHandler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="161" column="51" selection-start="5790" selection-end="5790" vertical-scroll-proportion="0.0" vertical-offset="2204" max-vertical-offset="2865">
               <folding />
             </state>
           </provider>
@@ -125,13 +219,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Evaluator.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Evaluator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="41" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.3137255" vertical-offset="1116" max-vertical-offset="2475">
+            <state line="84" column="41" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0" vertical-offset="1716" max-vertical-offset="2475">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RawreviewGradeLabler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="42" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="900">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,7 +269,7 @@
       <file leaf-file-name="Grader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Grader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="17" selection-start="3030" selection-end="3030" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="1350">
+            <state line="75" column="17" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1380">
               <folding />
             </state>
           </provider>
@@ -203,7 +306,6 @@
         <option value="$PROJECT_DIR$/data/reviews_genres_after_negation/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/data/reviews_genres/Action &amp; Adventure.txt" />
         <option value="$PROJECT_DIR$/data/reviews_genres/a" />
-        <option value="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
         <option value="$PROJECT_DIR$/src/GradeScale.java" />
         <option value="$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java" />
         <option value="$PROJECT_DIR$/src/GenreQueryHandler.java" />
@@ -211,8 +313,9 @@
         <option value="$PROJECT_DIR$/src/Grader.java" />
         <option value="$PROJECT_DIR$/src/Judger.java" />
         <option value="$PROJECT_DIR$/data/reviews_train.txt" />
-        <option value="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
         <option value="$PROJECT_DIR$/src/Evaluator.java" />
+        <option value="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
+        <option value="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
       </list>
     </option>
   </component>
@@ -345,42 +448,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="reviews_pool_7scale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reviews_pool_3scale" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NLP_project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="reviews_pool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -424,7 +491,7 @@
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Evaluator">
+  <component name="RunManager" selected="Application.GradeLabeler">
     <configuration default="false" name="testTagger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="raw_data_processing.testTagger" />
       <option name="VM_PARAMETERS" value="" />
@@ -690,10 +757,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Evaluator" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GradeLabeler" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RawreviewGradeLabler" />
-        <item index="3" class="java.lang.String" itemvalue="Application.NegationHandler" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GradeLabeler" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NegationHandler" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Evaluator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.RawreviewGradeLabler" />
         <item index="4" class="java.lang.String" itemvalue="Application.testTagger" />
       </list>
     </recent_temporary>
@@ -730,7 +797,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="30" width="1425" height="795" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -748,7 +815,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -880,97 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Animation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Anime &amp; Manga.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Comedy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Art House &amp; International.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Action &amp; Adventure.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Drama.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Documentary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Classics.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17685">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Action &amp; Adventure.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="436">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Animation.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="25830">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/pool.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="457650">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_pool_after_negation_3scale/pool.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.5344418" vertical-offset="225" max-vertical-offset="457650">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="32" selection-start="6898" selection-end="6898" vertical-scroll-proportion="-15.5" vertical-offset="2222" max-vertical-offset="2865">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="553" column="13" selection-start="22157" selection-end="22157" vertical-scroll-proportion="0.33333334" vertical-offset="7694" max-vertical-offset="35310">
@@ -995,13 +971,6 @@
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="35" selection-start="2070" selection-end="2070" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1380">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="48" selection-start="1026" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
@@ -1041,13 +1010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/reviews_eval.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="1267" selection-end="1267" vertical-scroll-proportion="-61.394474" vertical-offset="24525" max-vertical-offset="289185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/reviews_pool/pool.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-9.798995" vertical-offset="3900" max-vertical-offset="503265">
@@ -1071,7 +1033,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Grader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="17" selection-start="3030" selection-end="3030" vertical-scroll-proportion="0.0" vertical-offset="764" max-vertical-offset="1350">
+        <state line="75" column="17" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0" vertical-offset="794" max-vertical-offset="1380">
           <folding />
         </state>
       </provider>
@@ -1090,16 +1052,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/RawreviewGradeLabler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="0" selection-start="5228" selection-end="5228" vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="3090">
+        <state line="50" column="42" selection-start="1648" selection-end="1648" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
+    <entry file="file://$PROJECT_DIR$/data/reviews_eval.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="25" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.0" vertical-offset="1274" max-vertical-offset="1710">
+        <state line="6" column="13" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.03768844" vertical-offset="75" max-vertical-offset="289140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="0" selection-start="5228" selection-end="5228" vertical-scroll-proportion="0.0" vertical-offset="1479" max-vertical-offset="3090">
           <folding />
         </state>
       </provider>
@@ -1117,10 +1086,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Evaluator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="41" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.3137255" vertical-offset="1116" max-vertical-offset="2475">
+        <state line="84" column="41" selection-start="3190" selection-end="3190" vertical-scroll-proportion="0.0" vertical-offset="1116" max-vertical-offset="2475">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="51" selection-start="5790" selection-end="5790" vertical-scroll-proportion="0.0" vertical-offset="2204" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="44" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3119266" vertical-offset="1124" max-vertical-offset="1710">
+          <folding />
         </state>
       </provider>
     </entry>
