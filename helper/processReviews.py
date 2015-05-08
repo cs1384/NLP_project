@@ -3,6 +3,7 @@ import pickle
 def main():
 	f = open('data/reviews_train.txt', "wb")
 	genres = pickle.load(open('data/raw/Genre_dictII_9500', "r"))
+	#reviews = pickle.load(open('data/raw/Review_dictII_3000-8500', "r"))
 	reviews = pickle.load(open('data/raw/Review_dictII_3000-8500', "r"))
 	print type(genres)
 	#print genres.keys()
