@@ -18,8 +18,8 @@ public class Evaluator {
         grader3ScaleGrade_NG = new ArrayList<>();
         grader7ScaleGrade_G = new ArrayList<>();
         grader7ScaleGrade_NG = new ArrayList<>();
-        tamotoGrade7Scale = new ArrayList<>();
-        tamotoGrade3Scale = new ArrayList<>();
+        tomatoGrade7Scale = new ArrayList<>();
+        tomatoGrade3Scale = new ArrayList<>();
         GradeScale scale7 = new GradeScale();
         scale7.add7Scale();
         jg7Scale = new Judger(scale7);

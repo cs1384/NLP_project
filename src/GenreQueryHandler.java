@@ -53,6 +53,9 @@ public class GenreQueryHandler implements HttpHandler{
             this.respondWithMsg(arg0, obj.toString());
         } catch (JSONException e) {
             e.printStackTrace();
+        } catch (Exception e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
         }
     }
     

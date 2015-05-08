@@ -58,7 +58,7 @@ public class Grader {
         this.genrePredictors.add(map_7label);
         this.genreJudgers.add(judger_7label);
     }
-    public List<String> getGrade(String review, List<String> genres){
+    public List<String> getGrade(String review, List<String> genres) throws Exception{
         List<String> res = new ArrayList<String>();
         for(Trainer tn : this.poolPredictors){
             res.add(tn.categorize(review));
