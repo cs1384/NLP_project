@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="963e7f6c-a877-4f6f-92a0-4c2089bae2de" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Action &amp; Adventure.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Animation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Anime &amp; Manga.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Art House &amp; International.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Classics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Comedy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Cult Movies.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Documentary.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Drama.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Faith &amp; Spirituality.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Gay &amp; Lesbian.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Horror.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Kids &amp; Family.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Musical &amp; Performing Arts.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Mystery &amp; Suspense.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Romance.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Science Fiction &amp; Fantasy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Special Interest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Sports &amp; Fitness.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Television.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/Western.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Action &amp; Adventure.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Animation.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Art House &amp; International.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Classics.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Comedy.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Cult Movies.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Documentary.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Drama.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Faith &amp; Spirituality.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Horror.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Kids &amp; Family.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Musical &amp; Performing Arts.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Mystery &amp; Suspense.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Romance.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Science Fiction &amp; Fantasy.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Special Interest.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Sports &amp; Fitness.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Television.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_3scale/model/Western.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Action &amp; Adventure.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Animation.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Anime &amp; Manga.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Art House &amp; International.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Classics.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Comedy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Cult Movies.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Documentary.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Drama.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Faith &amp; Spirituality.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Gay &amp; Lesbian.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Horror.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Kids &amp; Family.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Musical &amp; Performing Arts.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Mystery &amp; Suspense.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Romance.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Science Fiction &amp; Fantasy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Special Interest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Sports &amp; Fitness.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Television.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/Western.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Action &amp; Adventure.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Animation.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Art House &amp; International.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Classics.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Comedy.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Cult Movies.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Documentary.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Drama.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Faith &amp; Spirituality.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Horror.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Kids &amp; Family.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Musical &amp; Performing Arts.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Mystery &amp; Suspense.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Romance.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Science Fiction &amp; Fantasy.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Special Interest.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Sports &amp; Fitness.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Television.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_genres_after_negation_7scale/model/Western.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_3scale/model/pool.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_3scale/pool.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/model/pool.model" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/reviews_pool_after_negation_7scale/pool.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" afterPath="$PROJECT_DIR$/src/raw_data_processing/NegationHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NLP_project.iws" />
@@ -191,7 +106,7 @@
       <file leaf-file-name="GradeLabeler.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="44" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3119266" vertical-offset="1124" max-vertical-offset="1710">
+            <state line="89" column="42" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.2087156" vertical-offset="1169" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
@@ -797,7 +712,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="30" width="1425" height="795" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -815,7 +730,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1102,7 +1017,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/raw_data_processing/GradeLabeler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="44" selection-start="2391" selection-end="2391" vertical-scroll-proportion="0.3119266" vertical-offset="1124" max-vertical-offset="1710">
+        <state line="89" column="42" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.2087156" vertical-offset="1169" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>

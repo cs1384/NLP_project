@@ -84,10 +84,10 @@ public class GradeLabeler {
     public static void main(String[] args) throws IOException {
         GradeLabeler gl = new GradeLabeler();
         // settings
-        gl.set7Scale();
-//        gl.set3Scale();
-        File folder = new File("data/reviews_genres_after_negation");
-        String outdir = "data/reviews_genres_after_negation_7scale/";
+//        gl.set7Scale();
+        gl.set3Scale();
+        File folder = new File("data/reviews_pool_after_negation");
+        String outdir = "data/reviews_pool_after_negation_3scale/";
         // end of settings
         File[] listOfFiles = folder.listFiles();
 
