@@ -43,7 +43,7 @@ public class Grader {
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
             tn.setModel(f.getAbsolutePath());
-            map_7label.put(f.getName(), tn);
+            map_7label.put(f.getName().replace(".model", ""), tn);
         }
         Map<String, Trainer> map_3label = new HashMap<String, Trainer>();
         folder = new File("data/reviews_genres_after_negation_3scale/model");
@@ -51,7 +51,7 @@ public class Grader {
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
             tn.setModel(f.getAbsolutePath());
-            map_3label.put(f.getName(), tn);
+            map_3label.put(f.getName().replace(".model", ""), tn);
         }
         this.genrePredictors.add(map_3label);
         this.genreJudgers.add(judger_3label);
@@ -68,7 +68,9 @@ public class Grader {
             Judger judger = this.genreJudgers.get(i);
             judger.clearAllScore();
             for(String g: genres){
+                System.out.println(map.keySet());
                 System.out.println(g);
+                if(!map.containsKey(g)) continue;
                 Trainer t = map.get(g);
                 String score = t.categorize(review);
                 judger.addReviewGrade(score);
