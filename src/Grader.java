@@ -38,7 +38,7 @@ public class Grader {
         Judger judger_3label = new Judger(gradeScale3);
         // predictors
         Map<String, Trainer> map_7label = new HashMap<String, Trainer>();
-        File folder = new File("data/reviews_genres_after_negation_3scale/model");
+        File folder = new File("data/reviews_genres_after_negation_7scale/model");
         File[] listOfFiles = folder.listFiles();
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
