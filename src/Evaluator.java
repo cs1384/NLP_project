@@ -60,6 +60,9 @@ public class Evaluator {
 
     private void addPredictGrade(String mName, List<String> genres) throws Exception {
         List<String> predictGrade = grader.getGrade(mName,genres);
+//        for( String s : predictGrade){
+//            System.out.println();
+//        }
 
         int i = 0;
         grader3ScaleGrade_NG.add(predictGrade.get(i++));
@@ -139,7 +142,7 @@ public class Evaluator {
 
         Grader gd = new Grader(true);
         Evaluator evl = new Evaluator(gd);
-        File testSet = new File("data/reviews_train.txt");
+        File testSet = new File("data/reviews_eval.txt");
         List<Double> result = evl.precision(testSet);
         for(Double pre : result){
            System.out.println(pre);
