@@ -108,12 +108,12 @@ public class Trainer{
         
         
         Trainer tn = new Trainer();
-        //tn.batchTraining(genre_3labal_dir);
-        //tn.batchTraining(genre_7labal_dir);
-        //tn.batchTraining(pool_3labal_dir);
-        //tn.batchTraining(pool_7labal_dir);
-        tn.batchTraining(test3);
-        tn.batchTraining(test7);
+        tn.batchTraining(genre_3labal_dir);
+        tn.batchTraining(genre_7labal_dir);
+        tn.batchTraining(pool_3labal_dir);
+        tn.batchTraining(pool_7labal_dir);
+        //tn.batchTraining(test3);
+        //tn.batchTraining(test7);
         
         /*
         String modelPath = "data/Animation.model";
