@@ -23,7 +23,7 @@ public class Grader {
         Trainer tn_pool_7label = new Trainer();
         tn_pool_7label.setModel("data/reviews_pool_after_negation_7scale/model/pool.model");
         Trainer tn_pool_3label = new Trainer();
-        tn_pool_7label.setModel("data/reviews_pool_after_negation_3scale/model/pool.model");
+        tn_pool_3label.setModel("data/reviews_pool_after_negation_3scale/model/pool.model");
         this.addPoolPredictor(tn_pool_3label);
         this.addPoolPredictor(tn_pool_7label);
         
@@ -68,9 +68,10 @@ public class Grader {
             Judger judger = this.genreJudgers.get(i);
             judger.clearAllScore();
             for(String g: genres){
-                System.out.println(map.keySet());
-                System.out.println(g);
-                if(!map.containsKey(g)) continue;
+                if(!map.containsKey(g)){
+                    System.out.println("=======: no predictor!");
+                    continue;
+                }
                 Trainer t = map.get(g);
                 String score = t.categorize(review);
                 judger.addReviewGrade(score);
