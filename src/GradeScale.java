@@ -40,6 +40,13 @@ public class GradeScale {
         scale.put( "good",i++);
     }
 
+    public void add2Scale(){
+        scale.clear();
+        int i = 1;
+        scale.put("pos",i++);
+        scale.put("neg",i++);
+    }
+
     public int getScore(String grade){
         grade = grade.trim();
         if(!scale.containsKey(grade.trim()))

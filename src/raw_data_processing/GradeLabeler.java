@@ -39,6 +39,11 @@ public class GradeLabeler {
         scale.put(0.8,"good");
     }
 
+    public void set2Scale(){
+        scale.put(0.0,"neg");
+        scale.put(0.6,"pos");
+    }
+
     public boolean isNumeric(String s) {
         return s.matches("[-+]?\\d*\\.?\\d+");
     }
@@ -85,9 +90,10 @@ public class GradeLabeler {
         GradeLabeler gl = new GradeLabeler();
         // settings
 //        gl.set7Scale();
-        gl.set3Scale();
-        File folder = new File("data/reviews_pool_after_negation");
-        String outdir = "data/reviews_pool_after_negation_3scale/";
+//        gl.set3Scale();
+        gl.set2Scale();
+        File folder = new File("data/reviews_genres_after_negation");
+        String outdir = "data/reviews_genres_after_negation_2scale/";
         // end of settings
         File[] listOfFiles = folder.listFiles();
 
