@@ -39,6 +39,13 @@ public class GradeScale {
         scale.put( "fair",i++);
         scale.put( "good",i++);
     }
+    
+    public void add2Scale(){
+        scale.clear();
+        int i = 1;
+        scale.put("neg",i++);
+        scale.put( "pos",i++);
+    }
 
     public int getScore(String grade){
         grade = grade.trim();

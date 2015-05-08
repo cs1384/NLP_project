@@ -105,7 +105,6 @@ public class Evaluator {
         precision.add(correct3G/totalGrade);
         precision.add(correct7G/totalGrade);
         return precision;
-
     }
 
     /**

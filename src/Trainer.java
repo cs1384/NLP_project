@@ -99,8 +99,10 @@ public class Trainer{
     }
     
     public static void main(String[] args) throws IOException, ClassNotFoundException {
+        String pool_2labal_dir = "data/reviews_pool_after_negation_2scale";
         String pool_3labal_dir = "data/reviews_pool_after_negation_3scale";
         String pool_7labal_dir = "data/reviews_pool_after_negation_7scale";
+        String genre_2labal_dir = "data/reviews_genres_after_negation_2scale";
         String genre_3labal_dir = "data/reviews_genres_after_negation_3scale";
         String genre_7labal_dir = "data/reviews_genres_after_negation_7scale";
         String test3 = "data/reviews_pool_3scale";
