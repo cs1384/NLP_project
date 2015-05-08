@@ -37,7 +37,7 @@ public class Grader {
         
         // judgers
         GradeScale gradeScale2 = new GradeScale();
-        gradeScale2.add3Scale();
+        gradeScale2.add2Scale();
         Judger judger_2label = new Judger(gradeScale2);
         
         GradeScale gradeScale3 = new GradeScale();
@@ -46,7 +46,6 @@ public class Grader {
         
         GradeScale gradeScale7 = new GradeScale();
         gradeScale7.add7Scale();
-        gradeScale7.add2Scale();
         Judger judger_7label = new Judger(gradeScale7);
         
         // predictors

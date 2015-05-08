@@ -100,9 +100,9 @@ public class Evaluator {
         int i = 0;
         grader3ScaleGrade_NG.add(predictGrade.get(i++));
         grader7ScaleGrade_NG.add(predictGrade.get(i++));
+        grader2ScaleGrade_NG.add(predictGrade.get(i++));
         grader3ScaleGrade_G.add(predictGrade.get(i++));
         grader7ScaleGrade_G.add(predictGrade.get(i++));
-        grader2ScaleGrade_NG.add(predictGrade.get(i++));
         grader2ScaleGrade_G.add(predictGrade.get(i++));
     }
 
@@ -143,9 +143,9 @@ public class Evaluator {
         List<Double> precision = new ArrayList<>();
         precision.add(corret3NG/totalGrade);
         precision.add(correct7NG/totalGrade);
+        precision.add(correct2NG/totalGrade);
         precision.add(correct3G/totalGrade);
         precision.add(correct7G/totalGrade);
-        precision.add(correct2NG/totalGrade);
         precision.add(correct2G/totalGrade);
         return precision;
     }
