@@ -21,9 +21,9 @@ public class Grader {
         
         // pool predictors
         Trainer tn_pool_7label = new Trainer();
-        tn_pool_7label.setModel("data/reviews_pool_after_negation_7label/model/pool.model");
+        tn_pool_7label.setModel("data/reviews_pool_after_negation_7scale/model/pool.model");
         Trainer tn_pool_3label = new Trainer();
-        tn_pool_7label.setModel("data/reviews_pool_after_negation_3label/model/pool.model");
+        tn_pool_7label.setModel("data/reviews_pool_after_negation_3scale/model/pool.model");
         this.addPoolPredictor(tn_pool_3label);
         this.addPoolPredictor(tn_pool_7label);
         
@@ -38,7 +38,7 @@ public class Grader {
         Judger judger_3label = new Judger(gradeScale3);
         // predictors
         Map<String, Trainer> map_7label = new HashMap<String, Trainer>();
-        File folder = new File("data/reviews_genre_after_negation_3label/model");
+        File folder = new File("data/reviews_genres_after_negation_3scale/model");
         File[] listOfFiles = folder.listFiles();
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
@@ -46,7 +46,7 @@ public class Grader {
             map_7label.put(f.getName(), tn);
         }
         Map<String, Trainer> map_3label = new HashMap<String, Trainer>();
-        folder = new File("data/reviews_genre_after_negation_3label/model");
+        folder = new File("data/reviews_genres_after_negation_3scale/model");
         listOfFiles = folder.listFiles();
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
@@ -68,7 +68,9 @@ public class Grader {
             Judger judger = this.genreJudgers.get(i);
             judger.clearAllScore();
             for(String g: genres){
-                String score = map.get(g).categorize(review);
+                System.out.println(g);
+                Trainer t = map.get(g);
+                String score = t.categorize(review);
                 judger.addReviewGrade(score);
             }
             res.add(judger.judge());

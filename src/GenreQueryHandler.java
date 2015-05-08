@@ -1,7 +1,6 @@
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -13,7 +12,6 @@ import java.net.URI;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -51,10 +49,7 @@ public class GenreQueryHandler implements HttpHandler{
             obj.put("status", "success");
             obj.put("evaluation", judger.judge());
             this.respondWithMsg(arg0, obj.toString());
-        } catch (JSONException e) {
-            e.printStackTrace();
         } catch (Exception e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }

@@ -1,7 +1,6 @@
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
-
 import org.json.JSONException;
 
 import java.io.IOException;
@@ -44,10 +43,8 @@ public class PoolQueryHandler implements HttpHandler{
             obj.put("status", "success");
             obj.put("evaluation", judger.judge());
             this.respondWithMsg(arg0, obj.toString());
-        } catch (JSONException e) {
-            this.respondWithMsg(arg0, "json failed");
         } catch (Exception e) {
-            // TODO Auto-generated catch block
+            this.respondWithMsg(arg0, "json failed");
             e.printStackTrace();
         }
     }
