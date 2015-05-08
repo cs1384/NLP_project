@@ -110,8 +110,10 @@ public class Trainer{
         
         
         Trainer tn = new Trainer();
+        tn.batchTraining(genre_2labal_dir);
         tn.batchTraining(genre_3labal_dir);
         tn.batchTraining(genre_7labal_dir);
+        tn.batchTraining(pool_2labal_dir);
         tn.batchTraining(pool_3labal_dir);
         tn.batchTraining(pool_7labal_dir);
         //tn.batchTraining(test3);
