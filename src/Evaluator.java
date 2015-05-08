@@ -79,7 +79,10 @@ public class Evaluator {
         double totalGrade = 0;
         double correct3G = 0, corret3NG = 0, correct7G = 0, correct7NG = 0;
         for(int i = 0; i < tomatoGrade3Scale.size(); i++){
-            if(tomatoGrade3Scale.get(i).trim().equals("unknown") || tomatoGrade7Scale.get(i).trim().equals("unknown")){
+            if(tomatoGrade3Scale.get(i).trim().equals("unknown") || tomatoGrade7Scale.get(i).trim().equals("unknown") ||
+                    grader3ScaleGrade_G.get(i).equals("unknown") || grader3ScaleGrade_NG.get(i).equals("unknown")
+                    || grader7ScaleGrade_G.get(i).equals("unknown") || grader7ScaleGrade_NG.get(i).equals("unknown")){
+                System.out.println("unknown");
                 continue;
             }
             totalGrade ++;
@@ -146,7 +149,7 @@ public class Evaluator {
 
         Grader gd = new Grader(true);
         Evaluator evl = new Evaluator(gd);
-        File testSet = new File("data/reviews_train.txt");
+        File testSet = new File("data/reviews_eval.txt");
         List<Double> result = evl.precision(testSet);
         for(Double pre : result){
            System.out.println(pre);
