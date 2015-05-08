@@ -106,7 +106,6 @@ public class Crawler {
         Map<String, BufferedWriter> map = new HashMap<String, BufferedWriter>();
         int k = 0;
         int count = 0;
-        String preid = "";
         while(sc.hasNextLine()){
             String line = sc.nextLine();
             String[] op = line.split(this.delimiter);
@@ -121,9 +120,6 @@ public class Crawler {
                 map.get(g).write(op[3]+" "+op[4]+"\n");
             }
             count++;
-            if(!op[0].equals(preid)){
-                preid = op[0];
-            }
         }
         
         // close up all IO streams
@@ -142,20 +138,16 @@ public class Crawler {
         file.mkdir();
         String filename = "data/reviews_pool/pool.txt";
         System.out.println(filename);
-        file = new File("data/reviews_pool/pool.txt");
+        file = new File(filename);
         BufferedWriter bw = new BufferedWriter(new FileWriter(file));
         
         // process reviews
         int k = 0;
         int count = 0;
-        String preid = "";
         while(sc.hasNextLine()){
             String[] op = sc.nextLine().split(this.delimiter);
             bw.write(op[3]+" "+op[4]+"\n");
             count++;
-            if(!op[0].equals(preid)){
-                preid = op[0];
-            }
         }
         
         // close up every IO stream
@@ -267,26 +259,6 @@ public class Crawler {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//WHERE THE FUCK ARE YOU!!!!
-
-//BACK TO YOUR PROJECT!!!! YOU BASTARD!!
-
-//THE INVISIBLE MAN
 
 
 
