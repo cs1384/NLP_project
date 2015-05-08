@@ -112,7 +112,11 @@ public class Evaluator {
             String[] words = line.trim().split("<###>");
             String mName = words[1];
             String rawGenre = words[2];
-            ArrayList<String> genreList = new ArrayList(Arrays.asList(rawGenre.split(";")));
+            String[] genAy = rawGenre.split(";");
+            for(int j = 0 ; j < genAy.length; j++){
+                genAy[j] = genAy[j].trim();
+            }
+            ArrayList<String> genreList = new ArrayList(Arrays.asList(genAy));
             addPredictGrade(mName,genreList);
         }
         return precision();
@@ -135,7 +139,7 @@ public class Evaluator {
 
         Grader gd = new Grader(true);
         Evaluator evl = new Evaluator(gd);
-        File testSet = new File("data/reviews_train");
+        File testSet = new File("data/reviews_train.txt");
         List<Double> result = evl.precision(testSet);
         for(Double pre : result){
            System.out.println(pre);
