@@ -83,16 +83,16 @@ public class Evaluator {
                 continue;
             }
             totalGrade ++;
-            if(grader3ScaleGrade_G.get(i).equals(tomatoGrade3Scale)){
+            if(grader3ScaleGrade_G.get(i).equals(tomatoGrade3Scale.get(i))){
                 correct3G++;
             }
-            if(grader3ScaleGrade_NG.get(i).equals(tomatoGrade3Scale)){
+            if(grader3ScaleGrade_NG.get(i).equals(tomatoGrade3Scale.get(i))){
                 corret3NG++;
             }
-            if(grader7ScaleGrade_G.get(i).equals(tomatoGrade7Scale)){
+            if(grader7ScaleGrade_G.get(i).equals(tomatoGrade7Scale.get(i))){
                 correct7G++;
             }
-            if(grader7ScaleGrade_NG.get(i).equals(tomatoGrade7Scale)){
+            if(grader7ScaleGrade_NG.get(i).equals(tomatoGrade7Scale.get(i))){
                 correct7NG++;
             }
         }
@@ -105,6 +105,10 @@ public class Evaluator {
 
     }
 
+    /**
+     *
+     * @return 3scaleNG, 7scaleNG, 3scaleG, 7scaleG
+     */
     public List<Double> precision(File testSet) throws Exception {
         InputStream fis = new FileInputStream(testSet);
         InputStreamReader isr = new InputStreamReader(fis, Charset.forName("UTF-8"));
@@ -142,7 +146,7 @@ public class Evaluator {
 
         Grader gd = new Grader(true);
         Evaluator evl = new Evaluator(gd);
-        File testSet = new File("data/reviews_eval.txt");
+        File testSet = new File("data/reviews_train.txt");
         List<Double> result = evl.precision(testSet);
         for(Double pre : result){
            System.out.println(pre);

@@ -42,7 +42,7 @@ public class Judger {
             Map.Entry pair = (Map.Entry) it.next();
             int count =  (int)pair.getValue();
             sum += count * (int)pair.getKey();
-            System.out.println("score: "+pair.getKey()+ " count: "+pair.getValue());
+//            System.out.println("score: "+pair.getKey()+ " count: "+pair.getValue());
         }
         return sum;
     }
@@ -84,7 +84,7 @@ public class Judger {
         int score = (int)avgScore;
         return scale.getGrade(score);
     }
-    
+
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 
