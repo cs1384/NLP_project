@@ -74,7 +74,7 @@ public class Server {
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
             tn.setModel(f.getAbsolutePath());
-            map_7scale.put(f.getName(), tn);
+            map_7scale.put(f.getName().replace(".model", ""), tn);
         }
         GenreQueryHandler gqh_7 = new GenreQueryHandler(map_7scale, judger_7scale);
         // prepare handler genre_3scale handler
@@ -84,7 +84,7 @@ public class Server {
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
             tn.setModel(f.getAbsolutePath());
-            map_3scale.put(f.getName(), tn);
+            map_3scale.put(f.getName().replace(".model", ""), tn);
         }
         GenreQueryHandler gqh_3 = new GenreQueryHandler(map_3scale, judger_3scale);
         // prepare handler genre_2scale handler
@@ -94,7 +94,7 @@ public class Server {
         for(File f : listOfFiles){
             Trainer tn = new Trainer();
             tn.setModel(f.getAbsolutePath());
-            map_2scale.put(f.getName(), tn);
+            map_2scale.put(f.getName().replace(".model", ""), tn);
         }
         GenreQueryHandler gqh_2 = new GenreQueryHandler(map_2scale, judger_2scale);
         // prepare genre server

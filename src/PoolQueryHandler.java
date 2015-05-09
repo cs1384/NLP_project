@@ -28,7 +28,7 @@ public class PoolQueryHandler implements HttpHandler{
     public void handle(HttpExchange arg0) throws IOException {
         judger.clearAllScore();
         URI uri = arg0.getRequestURI();
-        System.out.println("handle!");
+        System.out.println("============ pool handler!");
         if(uri.getQuery().equals("")){
             respondWithMsg(arg0, "No query specified");
             return;

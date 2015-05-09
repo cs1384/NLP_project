@@ -31,7 +31,7 @@ public class GenreQueryHandler implements HttpHandler{
     @Override
     public void handle(HttpExchange arg0) throws IOException{
         URI uri = arg0.getRequestURI();
-        System.out.println("handle!");
+        System.out.println("============ genre handler!");
         if(uri.getQuery().equals("")){
             respondWithMsg(arg0, "No query specified");
             return;
@@ -49,18 +49,25 @@ public class GenreQueryHandler implements HttpHandler{
                 respondWithMsg(arg0, "No matching movie name in the database");
                 return;
             }
+            System.out.println("movie_id: "+ id);
             List<String> genres = getGenreList(id);
             TwitterCommunicator tc = new TwitterCommunicator();
             List<String> tweets = tc.getTweets(name);
+            System.out.println("Got "+tweets.size()+ " tweets");
+            //for(String k : predictors.keySet()) System.out.println(k);
             for(String t : tweets){
                 for(String g : genres){
+                    if(!predictors.containsKey(g)){
+                        System.out.println(g);
+                        continue;
+                    }
                     String grade = predictors.get(g).categorize(t);
                     judger.addReviewGrade(grade);
                 }
             }
             org.json.JSONObject obj = new org.json.JSONObject();
             obj.put("status", "success");
-            obj.put("evaluation", judger.judge());
+            obj.put("evaluation", judger.getGradeCount());
             this.respondWithMsg(arg0, obj.toString());
         } catch (Exception e) {
             e.printStackTrace();
@@ -70,7 +77,9 @@ public class GenreQueryHandler implements HttpHandler{
     private List<String> getGenreList(String id) throws IOException, JSONException{
         List<String> res = new ArrayList<String>();
         String apiInfo = "http://api.rottentomatoes.com/api/public/v1.0/movies/%s.json?apikey=x6usx7bn33cdn9vverg9f2v7";
-        String url = URLEncoder.encode(String.format(apiInfo, id), "UTF-8");
+        //String url = URLEncoder.encode(String.format(apiInfo, id), "UTF-8");
+        String url = String.format(apiInfo, id);
+        System.out.println(url);
         JSONObject json = Crawler.readJsonFromUrl(url);
         JSONArray arr = json.getJSONArray("genres");
         for(int i=0;i<arr.length();i++){
@@ -93,7 +102,7 @@ public class GenreQueryHandler implements HttpHandler{
         for(String p : pairs){
             int index = p.indexOf('=');
             if(URLDecoder.decode(p.substring(0, index), "UTF-8").equals("q")){
-                return URLDecoder.decode(p.substring(index+1), "UTF-8");
+                return URLDecoder.decode(p.substring(index+1), "UTF-8").toLowerCase();
             }
         }
         return "";
@@ -101,15 +110,15 @@ public class GenreQueryHandler implements HttpHandler{
 
     private String getMovieId(String name) throws IOException, JSONException{
         String api = "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=x6usx7bn33cdn9vverg9f2v7&q=";
-        name = URLEncoder.encode(name, "UTF-8");
-        String url = api+name;
+        String temp = URLEncoder.encode(name, "UTF-8");
+        String url = api+temp;
         System.out.println(url);
         JSONObject json = Crawler.readJsonFromUrl(url);
         JSONArray arr = json.getJSONArray("movies");
         for(int i=0;i<arr.length();i++){
             JSONObject j = arr.getJSONObject(i);
-            System.out.println(j);
-            if(j.get("title").toString().equals(name)){
+            System.out.println(j.getString("title"));
+            if(j.get("title").toString().toLowerCase().equals(name)){
                 return j.get("id").toString();
             }
         }
