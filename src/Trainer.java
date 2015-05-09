@@ -25,8 +25,9 @@ public class Trainer{
 
     public void setModel(String modelPath) throws IOException, ClassNotFoundException{
         FileInputStream fileIn = new FileInputStream(modelPath);
-        model = new DoccatModel(fileIn);
+        this.model = new DoccatModel(fileIn);
         fileIn.close();
+        //System.out.println(this.model);
     }
     public String categorize(String input){
         if(this.model==null) return null;

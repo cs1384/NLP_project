@@ -1,6 +1,7 @@
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -30,12 +31,24 @@ public class GenreQueryHandler implements HttpHandler{
     @Override
     public void handle(HttpExchange arg0) throws IOException{
         URI uri = arg0.getRequestURI();
+        System.out.println("handle!");
+        if(uri.getQuery().equals("")){
+            respondWithMsg(arg0, "No query specified");
+            return;
+        }
         String name = movieName(uri.getQuery());
-        if(name.equals("")) respondWithMsg(arg0, "No movie name specified");
+        if(name.equals("")){
+            respondWithMsg(arg0, "No movie name specified");
+            return;
+        }
+        System.out.println("movie_name: "+ name);
         String id;
         try {
             id = getMovieId(name);
-            if(id.equals("")) respondWithMsg(arg0, "No matching movie name in the database");
+            if(id.equals("")){
+                respondWithMsg(arg0, "No matching movie name in the database");
+                return;
+            }
             List<String> genres = getGenreList(id);
             TwitterCommunicator tc = new TwitterCommunicator();
             List<String> tweets = tc.getTweets(name);
@@ -69,6 +82,7 @@ public class GenreQueryHandler implements HttpHandler{
     private void respondWithMsg(HttpExchange arg0, String msg) throws IOException{
         Headers header = arg0.getResponseHeaders();
         header.set("Content-Type", "text/html");
+        arg0.sendResponseHeaders(0, 0);
         OutputStream body = arg0.getResponseBody();
         body.write(msg.getBytes());
         body.close();
@@ -87,7 +101,8 @@ public class GenreQueryHandler implements HttpHandler{
 
     private String getMovieId(String name) throws IOException, JSONException{
         String api = "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=x6usx7bn33cdn9vverg9f2v7&q=";
-        String url = URLEncoder.encode(api+name, "UTF-8");
+        name = URLEncoder.encode(name, "UTF-8");
+        String url = api+name;
         JSONObject json = Crawler.readJsonFromUrl(url);
         JSONArray arr = json.getJSONArray("movies");
         for(int i=0;i<arr.length();i++){

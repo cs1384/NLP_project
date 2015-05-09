@@ -31,7 +31,7 @@ public class TwitterCommunicator {
         for(int i=0;i<10;i++){
             res.addAll(getTimelineTweets(name, token));
         }
-        System.out.println(res.size());
+        //System.out.println("Got "+res.size()+ " tweets");
         return res;
     }
     
@@ -58,7 +58,7 @@ public class TwitterCommunicator {
             String text =  j.get("text").toString();
             long id = Long.parseLong(j.get("id").toString());
             if(id<this.max_id) this.max_id = id;
-            System.out.println(id + " " + text);
+            //System.out.println(id + " " + text);
             res.add(text);
         }
         //JSONArray obj = (JSONArray)JSONValue.parse(readResponse(connection));
