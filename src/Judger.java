@@ -32,6 +32,13 @@ public class Judger {
 
     public HashMap<String, Integer> getGradeCount() {
         HashMap<String, Integer> result = new HashMap<>();
+        Iterator it2 = scale.getScaleMap().entrySet().iterator();
+        while(it2.hasNext()){
+            Map.Entry pair = (Map.Entry) it2.next();
+            String grade = (String)pair.getKey();
+            result.put(grade,0);
+        }
+
         Iterator it = score.entrySet().iterator();
         while(it.hasNext()){
             Map.Entry pair = (Map.Entry) it.next();

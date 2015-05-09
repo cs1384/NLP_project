@@ -16,6 +16,10 @@ public class GradeScale {
         scale = new HashMap<>();
     }
 
+    public HashMap<String, Integer> getScaleMap(){
+        return scale;
+    }
+
     public boolean isValidGrade(String grade) {
         return scale.containsKey(grade.trim());
     }
