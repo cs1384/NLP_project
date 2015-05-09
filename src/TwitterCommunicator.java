@@ -27,6 +27,7 @@ public class TwitterCommunicator {
     public List<String> getTweets(String name) throws IOException, JSONException{
         String credentials = this.getCredentials();
         String token = this.getBearedToken(credentials);
+        max_id = Long.MAX_VALUE;
         List<String> res = new ArrayList<String>();
         for(int i=0;i<10;i++){
             res.addAll(getTimelineTweets(name, token));

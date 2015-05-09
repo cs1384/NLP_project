@@ -103,10 +103,12 @@ public class GenreQueryHandler implements HttpHandler{
         String api = "http://api.rottentomatoes.com/api/public/v1.0/movies.json?apikey=x6usx7bn33cdn9vverg9f2v7&q=";
         name = URLEncoder.encode(name, "UTF-8");
         String url = api+name;
+        System.out.println(url);
         JSONObject json = Crawler.readJsonFromUrl(url);
         JSONArray arr = json.getJSONArray("movies");
         for(int i=0;i<arr.length();i++){
             JSONObject j = arr.getJSONObject(i);
+            System.out.println(j);
             if(j.get("title").toString().equals(name)){
                 return j.get("id").toString();
             }
